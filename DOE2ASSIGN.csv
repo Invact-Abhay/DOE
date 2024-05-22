@@ -1,4 +1,4 @@
-Salesperson,Region,Product,Quantity Sold,Revenue,Unit Price,Total Profit
+Salesperson,Region,Product,QuantitySold,Revenue,UnitPrice,TotalProfit
 Aarav Sharma,South,Cameras,128,"384,000","3,000","115,200"
 Aditi Kapoor,South,Printers,185,"1,387,500","7,500","416,250"
 Akshay Desai,West,Keyboards,79,"395,000","5,000","118,500"
