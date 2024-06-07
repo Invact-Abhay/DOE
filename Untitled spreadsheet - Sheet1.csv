@@ -1,0 +1,84 @@
+Month,Product,Region,Salesperson,State,Price,Unit,Sales
+January,Nokia 5 Series,South,Jitesh,Uttar Pradesh,14000,30,420000
+January,Google Pixel 4a,West,Saurav,Maharashtra,25000,125,3125000
+July,Nokia 5 Series,North,Gaurav,Maharashtra,14000,217,3038000
+February,Realme C Series,West,Raman,Tamil Nadu,12000,243,2916000
+February,Asus ZenFone Series,West,Gaurav,Karnataka,23000,91,2093000
+April,Motorola Moto G Series,North,Saurav,Uttar Pradesh,15000,386,5790000
+February,Google Pixel 4a,South,Raman,Tamil Nadu,25000,198,4950000
+March,Realme C Series,East,Raman,Karnataka,12000,427,5124000
+December,Xiaomi Redmi Note Series,West,Raman,Maharashtra,18000,381,6858000
+January,Google Pixel 4a,North,Jitesh,Maharashtra,25000,386,9650000
+September,Asus ZenFone Series,North,Gaurav,Tamil Nadu,23000,386,8878000
+March,OnePlus Nord N Series,West,Saurav,Maharashtra,27000,448,12096000
+February,Samsung Galaxy A Series,North,Raman,Karnataka,21000,185,3885000
+August,Google Pixel 4a,North,Gaurav,Karnataka,25000,477,11925000
+June,Xiaomi Redmi Note Series,West,Jitesh,Karnataka,18000,300,5400000
+November,Samsung Galaxy A Series,South,Saurav,Maharashtra,21000,183,3843000
+October,Xiaomi Redmi Note Series,East,Raman,Maharashtra,18000,347,6246000
+December,Motorola Moto G Series,North,Raman,Tamil Nadu,15000,379,5685000
+June,Motorola Moto G Series,North,Raman,Uttar Pradesh,15000,267,4005000
+June,Nokia 5 Series,South,Saurav,Uttar Pradesh,14000,364,5096000
+May,Samsung Galaxy A Series,East,Gaurav,Karnataka,21000,389,8169000
+March,Google Pixel 4a,West,Gaurav,Maharashtra,25000,265,6625000
+March,Asus ZenFone Series,South,Gaurav,Uttar Pradesh,23000,347,7981000
+January,Xiaomi Redmi Note Series,East,Jitesh,Uttar Pradesh,18000,388,6984000
+July,Realme C Series,South,Raman,Tamil Nadu,12000,119,1428000
+March,Asus ZenFone Series,South,Saurav,Tamil Nadu,23000,328,7544000
+August,Nokia 5 Series,West,Jitesh,Maharashtra,14000,261,3654000
+November,Realme C Series,South,Jitesh,Tamil Nadu,12000,500,6000000
+April,Google Pixel 4a,East,Saurav,Maharashtra,25000,419,10475000
+November,Google Pixel 4a,South,Raman,Tamil Nadu,25000,409,10225000
+February,Motorola Moto G Series,West,Gaurav,Tamil Nadu,15000,24,360000
+August,Google Pixel 4a,East,Gaurav,Tamil Nadu,25000,292,7300000
+September,Nokia 5 Series,South,Saurav,Maharashtra,14000,92,1288000
+October,Realme C Series,South,Saurav,Uttar Pradesh,12000,30,360000
+January,Realme C Series,North,Saurav,Karnataka,12000,271,3252000
+June,Nokia 5 Series,West,Saurav,Tamil Nadu,14000,213,2982000
+April,OnePlus Nord N Series,North,Jitesh,Tamil Nadu,27000,405,10935000
+February,Samsung Galaxy A Series,North,Raman,Karnataka,21000,94,1974000
+July,Asus ZenFone Series,North,Gaurav,Maharashtra,23000,485,11155000
+July,Xiaomi Redmi Note Series,East,Jitesh,Tamil Nadu,18000,192,3456000
+December,Realme C Series,North,Gaurav,Maharashtra,12000,255,3060000
+November,Asus ZenFone Series,North,Saurav,Tamil Nadu,23000,287,6601000
+February,Asus ZenFone Series,West,Gaurav,Karnataka,23000,378,8694000
+September,Samsung Galaxy A Series,North,Jitesh,Maharashtra,21000,484,10164000
+November,Motorola Moto G Series,West,Saurav,Uttar Pradesh,15000,454,6810000
+February,Realme C Series,West,Jitesh,Maharashtra,12000,431,5172000
+April,Motorola Moto G Series,North,Jitesh,Karnataka,15000,267,4005000
+December,Motorola Moto G Series,North,Saurav,Uttar Pradesh,15000,270,4050000
+August,Realme C Series,East,Gaurav,Maharashtra,12000,122,1464000
+November,Samsung Galaxy A Series,North,Raman,Tamil Nadu,21000,334,7014000
+February,Asus ZenFone Series,East,Jitesh,Tamil Nadu,23000,367,8441000
+December,Google Pixel 4a,East,Gaurav,Tamil Nadu,25000,156,3900000
+December,Asus ZenFone Series,North,Gaurav,Uttar Pradesh,23000,154,3542000
+October,Motorola Moto G Series,West,Gaurav,Uttar Pradesh,15000,226,3390000
+August,Motorola Moto G Series,East,Saurav,Tamil Nadu,15000,449,6735000
+May,Xiaomi Redmi Note Series,East,Saurav,Tamil Nadu,18000,317,5706000
+May,Motorola Moto G Series,East,Raman,Maharashtra,15000,406,6090000
+February,Google Pixel 4a,South,Jitesh,Karnataka,25000,248,6200000
+May,Realme C Series,North,Saurav,Uttar Pradesh,12000,259,3108000
+March,Google Pixel 4a,East,Jitesh,Karnataka,25000,292,7300000
+July,Realme C Series,East,Gaurav,Uttar Pradesh,12000,141,1692000
+September,Nokia 5 Series,East,Raman,Tamil Nadu,14000,155,2170000
+September,Google Pixel 4a,North,Saurav,Tamil Nadu,25000,41,1025000
+April,Realme C Series,West,Saurav,Maharashtra,12000,219,2628000
+February,Realme C Series,East,Saurav,Tamil Nadu,12000,341,4092000
+December,Asus ZenFone Series,West,Raman,Tamil Nadu,23000,432,9936000
+August,Motorola Moto G Series,South,Jitesh,Maharashtra,15000,371,5565000
+August,Google Pixel 4a,North,Jitesh,Uttar Pradesh,25000,191,4775000
+August,Samsung Galaxy A Series,South,Raman,Karnataka,21000,325,6825000
+January,Motorola Moto G Series,North,Jitesh,Maharashtra,15000,373,5595000
+March,Samsung Galaxy A Series,West,Jitesh,Maharashtra,21000,343,7203000
+June,Xiaomi Redmi Note Series,East,Saurav,Tamil Nadu,18000,364,6552000
+December,Nokia 5 Series,South,Jitesh,Karnataka,14000,53,742000
+July,Nokia 5 Series,North,Jitesh,Uttar Pradesh,14000,366,5124000
+April,Realme C Series,East,Gaurav,Maharashtra,12000,441,5292000
+November,Realme C Series,East,Raman,Maharashtra,12000,4,48000
+December,OnePlus Nord N Series,North,Gaurav,Uttar Pradesh,27000,243,6561000
+April,OnePlus Nord N Series,East,Saurav,Maharashtra,27000,138,3726000
+May,Motorola Moto G Series,South,Gaurav,Tamil Nadu,15000,142,2130000
+October,Realme C Series,North,Saurav,Tamil Nadu,12000,238,2856000
+August,Samsung Galaxy A Series,West,Saurav,Tamil Nadu,21000,292,6132000
+October,Realme C Series,South,Raman,Maharashtra,12000,51,612000
+May,Xiaomi Redmi Note Series,North,Raman,Maharashtra,18000,22,396000
