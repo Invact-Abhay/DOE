@@ -1,4 +1,4 @@
-FirstName,LastName,Gender,CompanyName,EmployeeAge,Experience,City,Salary,Increment%
+FirstName,LastName,Gender,CompanyName,EmployeeAge,Experience,City,Salary,IncrementPct
 Praveen,Kumar,Male,Cloudwise Finance Co,31,12,Bengaluru,560198,1.50
 Suresh,Malhotra,Male,Fundwise Banking Co,26,13,Mumbai,924133,2.00
 Priya,Rana,Female,Legendary Wealth,35,11,Bengaluru,690325,3.50
