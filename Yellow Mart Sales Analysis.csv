@@ -1,0 +1,197 @@
+OrderID,Region,State,City,FirstName,LastName,OrderDate,Category,SubCategory,Cost,Sales,Profit
+OD00125,West    ,Gujarat,Ahmedabad,chiranjit_,Ghosh,11/8/2020,  Electronics,Gaming Consoles,12000,15000,3000
+OD00126,Central,Madhya Pradesh,Jabalpur,nandini,sharma,11/8/2020,Clothing  ,Dresses,3000,5000,2000
+OD0012,     South,Kerala,Kochi,Kartik,Soren,6/12/2020,Furniture  ,Bookcases,5600,8000,2400
+OD00128,North,Rajasthan,Udaipur,Divya_,Mahto,10/11/2018,  Office Supplies,Stationery,1800,2000,200
+OD00129,East   ,Bihar,Patna,Indrajit,Sharma,10/11/2018,Appliances,Kitchen Appliances,2400,3000,600
+OD00130,East,Jharkhand,Ranchi,Udita,Chatterjee,6/9/2019,Accessories,Wallets,5400,6000,600
+OD00131,North,Uttar Pradesh,Lucknow,Omkar_,Mishra,6/9/2019,Electronics,Cameras,7800,12000,4200
+OD00132,East,Odisha,Bhubaneswar,Bina,Rai_,6/9/2019,Fitness,Exercise Equipment,27300,39000,11700
+OD00133,South,Telangana,Hyderabad,PRabhat,ranjan,6/9/2019, Home Decor,Clocks,3500,5000,1500
+OD00134,    West,Maharashtra,Pune,Bishakha,Mukherjee,6/9/2019,Electronics,Mobile Accessories,9750,13000,3250
+OD00135,South,Tamil Nadu,Coimbatore,Prabhat,Ranjan,6/9/2019,Kitchen,Knives,21450,33000,11550
+OD00136,South,Karnataka,Bengaluru,ZEENAT,Kaur,6/9/2019,Books,Comics,18850,29000,10150
+OD00137,West,Gujarat,Ahmedabad,Utpal,Ghoshal,4/15/2017,Clothing  ,Shorts,21750,29000,7250
+OD0038,North   ,Uttar Pradesh,Agra,Sampurna_,Das,12/5/2020,Appliances ,Coffee Machines,27000,36000,9000
+OD00139,East,West Bengal,Kolkata,Ipsita,Saikia,11/22/2018,Accessories,Bags,11900,14000,2100
+OD00140,West,Gujarat,Ahmedabad,Nikhil,Yadav,11/22/2018,Fitness ,Strength Training,9350,11000,1650
+OD00141,    Central,Madhya Pradesh,Indore,OJaswini,Thakur,11/11/2019, Furniture,Ottomans,23400,36000,12600
+OD00142,North,Haryana,Gurgaon,Oindrila,_Sen,5/13/2019,Office Supplies ,Planners,28050,33000,4950
+OD0014,     North,Rajasthan,Jaipur,Pranabjyoti,Bhuyan,8/27/2019,Appliances,Kitchen Appliances,4550,7000,2450
+OD00144,East,Odisha,Bhubaneswar,Waman,THAkur,8/27/2019,Electronics,Speakers,15750,21000,5250
+OD00145,North,Uttar Pradesh,Agra,zUbin,Mahanta,8/27/2019,Accessories,Jewelry,25500,30000,4500
+OD00146,West,Maharashtra,Pune,Ranjit,Barman,12/9/2020, Outdoor,Optics,18750,25000,6250
+OD00147,  South,Tamil Nadu,Coimbatore,Zaara,Banik,12/9/2020,Clothing  ,Jackets,18900,27000,8100
+OD00148,South,Karnataka,Mysore,Kaushik,Rai,7/16/2017, Home Decor,Lamps,29250,39000,9750
+OD00149,North,Delhi,Noida,Quadir,Ahmed,9/25/2018,Office Supplies,Presentation Supplies,26350,31000,4650
+OD00150,South ,Telangana,Warangal,Gourav,Chatterjee,1/16/2020,Appliances ,Kitchen Appliances,10200,12000,1800
+OD0151,South ,Kerala,Thiruvananthapuram,Divya,Mahto,1/16/2020,Electronics,Wearable Technology,22100,26000,3900
+OD00152,   North   ,Punjab,Ludhiana,Xitij,Borah,9/17/2018,Fitness,Strength Training,5850,9000,3150
+OD00153,East,West Bengal,Siliguri,Waman,Thakur,9/17/2018,Furniture ,Stools,18700,22000,3300
+OD00154,South,Telangana,Hyderabad,Tapan,Sarkar,9/17/2018,Office Supplies,Adhesives,9750,13000,3250
+OD00155,South,Tamil Nadu,Chennai,_Hemangini_,Roy,9/17/2018,Appliances,Kitchen Appliances,22100,26000,3900
+OD00156,West,Maharashtra,Pune,Gautam,Thapa,9/17/2018,Electronics,Mobile Accessories,27300,39000,11700
+OD00157,North,Uttar Pradesh,Noida,Divya,Mahto,9/17/2018,Accessories,Scarves,17550,27000,9450
+OD00158,South,Karnataka,Bengaluru,Nabakanta,Das,9/17/2018,Outdoor,Optics,17250,23000,5750
+OD00159,North,Delhi,New Delhi,Aritra,Banerjee,10/19/2017,Clothing,Outerwear,4250,5000,750
+OD00160,East,West Bengal,Kolkata,Jyotsna,Singh,12/8/2020,Home Decor,Wall Decor,19500,26000,6500
+OD00161,North,Punjab,Chandigarh,Utpal,Ghoshal,12/8/2020,Office Supplies,Stationery,22100,26000,3900
+OD00162,West,Gujarat,Ahmedabad,Xyla_,Singh,12/27/2018,Appliances,Kitchen Appliances,32300,38000,5700
+OD00163,South,Kerala,Kochi,Tanusree,Chakraborty,12/27/2018,Electronics,Headphones,34000,40000,6000
+OD00164,North,Rajasthan,Jaipur,Nandini,Sharma,12/27/2018,Accessories,Jewelry,18200,28000,9800
+OD00165,East,Odisha,Bhubaneswar,Qamar,Raza,12/27/2018,Outdoor,Camping Gear,22100,34000,11900
+OD00166,Central,Madhya Pradesh,Indore,Bishakha,Mukherjee,9/10/2017,   Clothing,Pants,8500,10000,1500
+OD00167,South,Telangana,Warangal,Manoj,Singh,7/17/2020,Home Decor,Vases,17000,20000,3000
+OD00168,North,Uttar Pradesh,Agra,Bina,Rai,9/19/2017,Office Supplies,Writing Instruments,12750,17000,4250
+OD00169,North,Haryana,Gurgaon,QUDdus,Ahmed,3/11/2020,   Appliances,Kitchen Appliances,7700,11000,3300
+OD00170,South,Telangana,Warangal,Zeenat,Kaur,3/11/2020,Electronics,Smart Home Devices,27200,32000,4800
+OD00171,    North ,Uttar Pradesh,Agra,Dipanjana,Sharma,10/20/2019,Fitness,Yoga Accessories,6000,8000,2000
+OD00172,South,Karnataka,Mysore,Umaima,Rahman,6/20/2020,Furniture   ,Chairs,5950,7000,1050
+OD0017,West,Maharashtra,Mumbai,Hemanta,Singh,6/20/2020,Office Supplies,Fasteners,3400,4000,600
+OD00174,   South ,Tamil Nadu,Coimbatore,Varunika,Sen,4/18/2018,Appliances,Kitchen Appliances,20250,27000,6750
+OD00175,North,Delhi,Noida,Zaara,Banik,4/18/2018,Accessories,Mobile Accessories,22950,27000,4050
+OD00176,East,West Bengal,Siliguri,Prabhat,Ranjan,4/18/2018,  Accessories,Watches,32300,38000,5700
+OD00177,   North,Punjab,Ludhiana,Zubin,Mahanta,4/18/2018,Outdoor,Optics,4250,5000,750
+OD00178,South,Kerala,Thiruvananthapuram,Chiranjit,Ghosh,12/11/2020,Clothing,Blazers,23100,33000,9900
+OD00179,West,Gujarat,Surat,Gourav,Chatterjee,12/11/2020,Home Decor,Mirrors,26600,38000,11400
+OD00180,    Central,Madhya Pradesh,Bhopal,Lalita,Khanna,6/17/2020,Office Supplies,Stationery,16800,24000,7200
+OD00181,North,Rajasthan,Udaipur,Aditya,Prasad,6/17/2020,Appliances,Kitchen Appliances,13300,19000,5700
+OD00182,West,Maharashtra,Nagpur,Chandan,Singhania,6/17/2020,Electronics,Fitness Trackers,24700,38000,13300
+OD00183,South,Telangana,Karimnagar,Sapna_,Chakraborty,6/17/2020,Fitness,Cardio Equipment,13000,20000,7000
+OD00184,South,Karnataka,Hubballi-Dharwad,Eshita,Raj,6/17/2020,Furniture,Sofas,23800,28000,4200
+OD00185,South,Tamil Nadu,Salem,Jyotsna,Singh,6/17/2020,Office Supplies,Desk Accessories,16100,23000,6900
+OD00186,    North,Uttar Pradesh,Varanasi,Firoz,Hussain,6/17/2020,Appliances,Coffee Machines,11050,17000,5950
+OD00187,East,Bihar,Patna,Eklavya,Sinha,11/24/2018,Electronics,Headphone Accessories,29750,35000,5250
+OD00188,East,Jharkhand,Ranchi,Madhavi,Mukhopadhyay,11/24/2018,Accessories,Eyewear,28000,40000,12000
+OD00189,East,West Bengal,Asansol,Jyotirmoy,Deb,11/24/2018,Outdoor,Camping Gear,9750,15000,5250
+OD00190,North,Punjab,Amritsar,Sanjeev,Prakash,11/24/2018,Clothing,Sweatshirts,6500,10000,3500
+OD00191,South,Kerala,Kollam,Gourav,Chatterjee,4/30/2018,Home Decor,Shelves,13650,21000,7350
+OD00192,East,Odisha,Cuttack,Mitali,Rai,12/5/2019,Office Supplies,Stationery,19500,30000,10500
+OD00193,South,Telangana,Ramagundam,Gaurav,Jha,12/5/2019,Appliances,Kitchen Appliances,12000,16000,4000
+OD00194,South,Karnataka,Belagavi,DiVya,MAhto,6/4/2020,Electronics,Computer Accessories,1950,3000,1050
+OD00195,South,Tamil Nadu,Tirunelveli,Yashika,Das,9/18/2020,Accessories,Jewelry,3000,4000,1000
+OD0019,West,Maharashtra,Nagpur,Debopriya,Datta,9/14/2017,Outdoor,Camping Gear,4550,7000,2450
+OD00197,North,Uttar Pradesh,Ghaziabad,Firoz,Hussain,4/26/2018,Clothing,Outerwear,3900,6000,2100
+OD00198,West,Gujarat,Vadodara,Vedika,Singh,4/26/2018,Home Decor,Wall Art,8500,10000,1500
+OD00199,North,Delhi,Gurgaon,Jyotsna,Singh,4/26/2018,Office Supplies,Writing Instruments,25350,39000,13650
+OD00200,East,West Bengal,Howrah,Jhilmil,Devi,12/9/2017,Appliances,Home Appliances,22400,32000,9600
+OD00201,North,Punjab,Jalandhar,kaushik,Rai,12/9/2017,Electronics,Virtual Reality,6800,8000,1200
+OD00202,South,Kerala,Kozhikode,Komal,Mishra,12/9/2017,Fitness,Exercise Equipment,12750,15000,2250
+OD00203,North,Uttar Pradesh,Allahabad,Chiranjit,Ghosh,11/26/2019,Furniture,Cabinets,25200,36000,10800
+OD00204,Central,Madhya Pradesh,Gwalior,Bhaskar,Barua_,6/12/2020,Office Supplies,Adhesives,11700,18000,6300
+OD00205,   South,Karnataka,Bengaluru,Chandan,KUmar,6/12/2020,Appliances,Kitchen Appliances,15300,18000,2700
+OD00206,  West,Maharashtra,Mumbai,Chandan,Singhania,10/12/2019,Electronics,Tablet Accessories,21000,28000,7000
+OD00207,South,Tamil Nadu,Chennai,Zeenat,Kaur,10/12/2019,Accessories,Jewelry,20400,24000,3600
+OD00208,North,Uttar Pradesh,Noida,Faisal_,Khan,9/3/2018,Outdoor,Camping Gear,2250,3000,750
+OD00209,West,Gujarat,Ahmedabad,Himani,Verma,11/13/2017,Clothing,Footwear,11050,17000,5950
+OD00210,Central,Madhya Pradesh,Jabalpur,Xitij,Borah,5/28/2017,Home Decor,Clocks,24050,37000,12950
+OD00211,South,Kerala,Kochi,Utpal,Ghoshal,10/26/2017,Office Supplies,Stationery,34000,40000,6000
+OD00212,   North,Rajasthan,Udaipur,Joydeep,Basu,10/26/2017,Appliances,Kitchen Appliances,2550,3000,450
+OD00213,East,Bihar,Patna,Hiralal,Pandey,4/5/2020,Electronics,Computer Accessories,4200,6000,1800
+OD00214,    East,Jharkhand,Ranchi,Ranjit,Barman,9/17/2020,Accessories,Jewelry,25900,37000,11100
+OD00215,North,Uttar Pradesh,Lucknow,Komal,Mishra,9/17/2020,Outdoor,Camping Gear,5850,9000,3150
+OD00216,East,Odisha,Bhubaneswar,Manoj,Singh,9/17/2020,Clothing,Jackets,20250,27000,6750
+OD00217,South,Telangana,Hyderabad,Farida,Ansari,1/31/2018,Home Decor,Wall Decor,30600,36000,5400
+OD00218,West,Maharashtra,Pune,Writam_,Chatterjee,1/31/2018,Office Supplies,Stationery,23400,36000,12600
+OD00219,South,Tamil Nadu,Coimbatore,Jyotirmoy,Deb,1/31/2018,Appliances,Kitchen Appliances,13650,21000,7350
+OD00220,South,Karnataka,Bengaluru,Vedika,Singh,11/6/2017,Electronics,Speakers,8250,11000,2750
+OD00221,West,Gujarat,Ahmedabad,Divya,Mahto,11/9/2017,Electronics,Televisions,15300,18000,2700
+OD00222,North,Uttar Pradesh,Agra,Ritu,Rajput,6/17/2017,Clothing,Dresses,8400,12000,3600
+OD0022,South,Telangana,Karimnagar,Waman,Thakur,9/6/2020,Furniture,Desks,25500,30000,4500
+OD00224,South,Karnataka,Hubballi-Dharwad,Mitali,Rai,8/29/2020,Office Supplies,Stationery,10400,16000,5600
+OD00225,South,Tamil Nadu,Salem,Fahmida,Rahman,8/29/2020,Appliances,Kitchen Appliances,3000,4000,1000
+OD00226,North,Uttar Pradesh,Varanasi,Chandan,Singhania,8/29/2020,Accessories,Eyewear,14700,21000,6300
+OD00227,East,Bihar,Patna,Chandan,Singhania,12/1/2020,Electronics,Cameras,18000,24000,6000
+OD00228,East,Jharkhand,Ranchi,Saurabh,Tiwari,11/13/2018,Fitness,Exercise Equipment,11700,18000,6300
+OD00229,East,West Bengal,Asansol,Hemangini,Roy,11/13/2018,Home Decor   ,Wall Decor,16800,24000,7200
+OD00230,North,Punjab,Amritsar,Zubin,Mahanta,11/13/2018,Electronics,Mobile Accessories,9800,14000,4200
+OD00231,South,Kerala,Kollam,Xyla,Singh,11/23/2017,Kitchen,Knives,19500,26000,6500
+OD00232,East,Odisha,Cuttack,Debopriya,Datta,11/23/2017,   Books,Comics,9000,12000,3000
+OD00233,South,Telangana,Ramagundam,Kaushik,Rai,11/23/2017,Clothing,Shirts,16500,22000,5500
+OD00234,South,Karnataka,Belagavi,Indrajit,Sharma,10/15/2018,Appliances,Coffee Machines,8500,10000,1500
+OD00235,South,Tamil Nadu,Tirunelveli,Waman,Thakur,12/25/2017,Accessories,Bags,30000,40000,10000
+OD00236,West,Maharashtra,Nagpur,Pranabjyoti,Bhuyan_,11/3/2020,Fitness,Yoga Accessories,3500,5000,1500
+OD00237,North,Uttar Pradesh,Ghaziabad,Anirudh,Tripathi,11/3/2020,Furniture,Chairs,26250,35000,8750
+OD00238,West,Gujarat,Vadodara,Udita,Chatterjee,8/25/2019,Office Supplies,Stationery,26600,38000,11400
+OD00239,North   ,Delhi,Gurgaon,Hemangini,Roy,8/25/2019,Appliances,Kitchen Appliances,27300,39000,11700
+OD00240,North,Uttar Pradesh,Agra,Qazi,Ali,8/25/2019,Electronics,Headphones,18000,24000,6000
+OD00241,West    ,Maharashtra,Pune,Faisal,Khan,8/25/2019,Accessories,Jewelry,6800,8000,1200
+OD00242,South,Tamil Nadu,Coimbatore,Sampurna,Das,3/2/2018,Outdoor,Optics,25350,39000,13650
+OD00243,South   ,Karnataka,Mysore,Ipsita,Saikia,4/5/2018,Clothing,Outerwear,18200,26000,7800
+OD00244,North,Delhi,Noida,Ujjwal,Kumar,6/12/2020,Home Decor,Clocks,3000,4000,1000
+OD00245,South,Telangana,Warangal,Kartik,Soren,6/12/2020,Office Supplies,Stationery,24650,29000,4350
+OD00246,South,Kerala,Thiruvananthapuram,Writabrata,Das,6/12/2020,Appliances,Coffee Accessories,13650,21000,7350
+OD00247,North,Punjab,Ludhiana,Gourav,Chatterjee,6/12/2020,Electronics,Fitness Trackers,22100,26000,3900
+OD00248,East,West Bengal,Siliguri,Vijaylakshmi,Thakur,6/12/2020,Fitness,Cardio Equipment,15600,24000,8400
+OD00249,North,Uttar Pradesh,Agra,Anirudh,Tripathi,12/26/2019,Furniture,Chairs,5250,7000,1750
+OD0025,West,Maharashtra,Pune,Manjula,Kalita,9/20/2019,Office Supplies,Fasteners,19600,28000,8400
+OD00251,South,Tamil Nadu,Coimbatore,Sapna,Chakraborty,11/5/2017,Appliances,Kitchen Appliances,29750,35000,5250
+OD00252,   South,Karnataka,Mysore,Divya,Mahto,11/5/2017,Accessories,Mobile Accessories,11250,15000,3750
+OD00253,North,Delhi,Noida,Kaushik,Rai,11/6/2020,Accessories,Jewelry,14000,20000,6000
+OD00254,South,Telangana,Warangal,Aditya,Prasad,11/6/2020,Outdoor,Camping Gear,18000,24000,6000
+OD00255,South,Kerala,Thiruvananthapuram,Hiralal,Pandey,2/2/2017,Clothing,Sweatshirts,14700,21000,6300
+OD00256,North,Punjab,Ludhiana,Sampurna,Das,2/2/2017,Home Decor,Shelves,7150,11000,3850
+OD00257,   East,West Bengal,Siliguri,Lakshmi,Hazarika,2/2/2017,Office Supplies,Stationery,22100,26000,3900
+OD00258,South,Telangana,Hyderabad,Joydeep,Basu,10/13/2020,Appliances,Kitchen Appliances,24700,38000,13300
+OD00259,South,Tamil Nadu,Chennai,ZaaRA,Banik,10/13/2020,Electronics,Computer Accessories,19550,23000,3450
+OD00260,West,Maharashtra,Pune,Qamar_,Raza,10/13/2020,Accessories  ,Jewelry,13000,20000,7000
+OD00261,North,Uttar Pradesh,Noida,Gaurav,Jha,10/13/2020,Outdoor,Camping Gear,18000,24000,6000
+OD00262,South,Karnataka,Bengaluru,Mitali,Rai,10/13/2020,Clothing,Outerwear,24650,29000,4350
+OD00263,North,Delhi,New Delhi,Utpal,Ghoshal,10/13/2020,   Home Decor,Wall Art,16800,24000,7200
+OD00264,East,West Bengal,Kolkata,Faisal,KhaN,10/13/2020,Office Supplies,Writing Instruments,22100,26000,3900
+OD00265,North,Punjab,Chandigarh,Bina,Rai,9/5/2020,Appliances,Home Appliances,23400,36000,12600
+OD00266,West,Gujarat,Ahmedabad,Chandan,Kumar,9/18/2017,Electronics,Virtual Reality,26000,40000,14000
+OD00267,South,Kerala,Kochi,Umaima,Rahman,9/18/2017,Fitness,Exercise Equipment,29750,35000,5250
+OD00268,North,Rajasthan,Jaipur,Bishakha,Mukherjee,9/18/2017,Furniture,Cabinets,12350,19000,6650
+OD00269,East,Odisha,Bhubaneswar,Aditya,Prasad,12/22/2017,Office Supplies,Adhesives,24650,29000,4350
+OD00270,East,Odisha,Cuttack,Chandan,Singhania,9/7/2018,Appliances,Kitchen Appliances,17250,23000,5750
+OD00271,South,Telangana,Ramagundam,Xenia,Chakrabarti,10/22/2019,Electronics,Tablet Accessories,12000,16000,4000
+OD00272,South,Karnataka,Belagavi,Gopal,Verma,12/5/2020,Accessories,Jewelry,9100,13000,3900
+OD00273,South,Tamil Nadu,Tirunelveli,Vedika,Singh,12/5/2020,Outdoor,Camping Gear,28500,38000,9500
+OD00274,West,Maharashtra,Nagpur,Rohini,Tiwari,12/5/2020,Clothing,Footwear,25500,30000,4500
+OD00275,North,Uttar Pradesh,Ghaziabad,Lakshmi,Hazarika,12/5/2020,Home Decor,Clocks,4250,5000,750
+OD00276,West,Gujarat,Vadodara,Faisal,Khan,3/13/2020,Office Supplies,Stationery,9800,14000,4200
+OD00277,    North,Delhi,Gurgaon,Lakshmi,Hazarika,3/13/2020,Appliances,Kitchen Appliances,7000,10000,3000
+OD00278,East,West Bengal,Howrah,Vedika,Singh,5/31/2018,Electronics,Computer Accessories,30000,40000,10000
+OD00279,North,Punjab,Jalandhar,Oindrila,Sen,5/31/2018,Accessories,Jewelry,21250,25000,3750
+OD00280,South,Kerala,Kozhikode,Divya,Mahto,5/31/2018,Outdoor,Camping Gear,22500,30000,7500
+OD0028,North,Uttar Pradesh,Allahabad,Bishakha,Mukherjee,5/28/2018,Clothing,Jackets,19500,26000,6500
+OD00282,Central,Madhya Pradesh,Gwalior,Eklavya,Sinha,3/1/2019,Home Decor,Wall Decor,24500,35000,10500
+OD00283,South,Karnataka,Hubballi-Dharwad,Himani,Verma_,11/20/2020,Office Supplies,Stationery,12350,19000,6650
+OD00284,South,Tamil Nadu,Salem,Udita,Chatterjee,11/20/2020,Appliances,Kitchen Appliances,14450,17000,2550
+OD00285,North,Uttar Pradesh,Varanasi,Gaurav,Jha,5/11/2020,Electronics,Speakers,3400,4000,600
+OD00286,East,Bihar,Patna,Xenia,Chakrabarti,12/28/2018,Electronics,Televisions,11250,15000,3750
+OD00287,East,Jharkhand,Ranchi,Xitij,Borah,11/16/2020,Clothing,Dresses,33150,39000,5850
+OD00288,East,West Bengal,Asansol,Nandita,Roy,11/7/2020,Furniture,Desks,7000,10000,3000
+OD00289,North,Punjab,Amritsar,ZaaRA,Banik,9/8/2019,Office Supplies,Stationery,28050,33000,4950
+OD00290,South,Kerala,Kollam,Bhaskar,Barua,9/8/2019,Appliances,Kitchen Appliances,15300,18000,2700
+OD00291,East,Odisha,Cuttack,Vijaylakshmi,Thakur,9/8/2019,Accessories,Eyewear,13300,19000,5700
+OD00292,South,Telangana,Ramagundam,EklavYA,Sinha,9/8/2019,Electronics,Cameras,10500,14000,3500
+OD00293,South,Karnataka,Belagavi,Bishakha,Mukherjee,9/8/2019,Fitness,Exercise Equipment,7700,11000,3300
+OD00294,South,Tamil Nadu,Tirunelveli,Ipsita,Saikia,9/8/2019,Home Decor,Wall Decor,15750,21000,5250
+OD00295,West,Maharashtra,Nagpur,Bhavna,Choudhary,9/8/2019,Electronics,Mobile Accessories,23800,28000,4200
+OD00296,North,Uttar Pradesh,Ghaziabad,Eklavya,Sinha,8/5/2019,Kitchen,Knives,22750,35000,12250
+OD00297,West,Gujarat,Vadodara,Dipanjana,Sharma,8/5/2019,Books,Comics,16800,24000,7200
+OD00298,East,West Bengal,Siliguri,Jyotsna,Singh,8/5/2019,Clothing,Shirts,17550,27000,9450
+OD00299,North,Punjab,Ludhiana,Bishakha,Mukherjee,9/14/2019,Appliances,Coffee Machines,3000,4000,1000
+OD00300,South,Kerala,Thiruvananthapuram,Fahmida,Rahman,9/14/2019,Accessories,Bags,17000,20000,3000
+OD00301,West,Gujarat,Surat,Chandan,Singhania,4/21/2017,Fitness,Yoga Accessories,22100,26000,3900
+OD00302,Central,Madhya Pradesh,Bhopal,Gautam,Thapa,11/21/2018,Furniture,Chairs,3750,5000,1250
+OD00303,North,Rajasthan,Udaipur,Divya,Mahto,11/21/2018,Office Supplies,Stationery,7800,12000,4200
+OD00304,West,Maharashtra,Nagpur,Utpal,Ghoshal,12/15/2018,Appliances,Kitchen Appliances,13300,19000,5700
+OD00305,South,Telangana,Karimnagar,Bina,Rai,12/5/2019,Electronics,Headphones,8250,11000,2750
+OD00306,South,Karnataka,Hubballi-Dharwad,Pratyusha_,Bose,12/5/2019,Accessories,Jewelry,4500,6000,1500
+OD00307,South,Tamil Nadu,Salem,Yashika,Das,11/19/2019,Outdoor,Optics,27000,36000,9000
+OD00308,North,Uttar Pradesh,Varanasi,Trisha,Murmu,11/19/2019,Clothing,Outerwear,23250,31000,7750
+OD0030,East,Bihar,Patna,Xyla,Singh,11/19/2019,Home Decor,Clocks,29750,35000,5250
+OD00310,East,Jharkhand,Ranchi,Anirudh,Tripathi,11/28/2020,Office Supplies,Stationery,9100,14000,4900
+OD00311,East,West Bengal,Asansol,Gourav,Chatterjee,8/26/2019,Appliances,Coffee Accessories,6800,8000,1200
+OD00312,North,Punjab,Amritsar,Yashika,Das,7/16/2020,Electronics,Fitness Trackers,5100,6000,900
+OD00313,South,Kerala,Kollam,Madhavi,Mukhopadhyay,7/16/2020,Fitness,Cardio Equipment,27300,39000,11700
+OD00314,East,Odisha,Cuttack,Pranabjyoti,Bhuyan,10/12/2018,Furniture,Chairs,9100,13000,3900
+OD00315,East,Odisha,Cuttack,Chandan,SINghania,10/12/2018,   Office Supplies,Fasteners,17500,25000,7500
+OD00316,   South,Telangana,Ramagundam,Xenia,Chakrabarti,10/12/2018,Appliances,Kitchen Appliances,15300,18000,2700
+OD00317,South,Telangana,Ramagundam,Oishi,DeY_,10/12/2018,Electronics,Cameras,10500,14000,3500
+OD0031,South,Karnataka,Belagavi,Firoz,Hussain,10/12/2018,Fitness,Exercise Equipment,7700,11000,3300
+OD00319,South,Tamil Nadu,Tirunelveli,Trisha,Murmu,10/31/2018,Home Decor,Wall Decor,15750,21000,5250
+OD00320,    West ,Maharashtra,Nagpur,Yashika_,Das,3/21/2019,Electronics,Mobile Accessories,23800,28000,4200
