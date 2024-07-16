@@ -1,4 +1,4 @@
-Campaign name,Ad Set Name,Advertisement Name,Age,Gender,Students,Clicks,Impressions,Amount spent (INR),Target Group (TG)
+Campaign_name,Ad_Set_Name,Advertisement_Name,Age,Gender,Students,Clicks,Impressions,Amount_spent,Target_Group
 MAY28-2024-HSBI Targeting-College-Applications-LP,Bcom-2127-TI1,07 College Campus,25-27,female,,69,89,10.44,Bcom
 MAY28-2024-HSBI Targeting-College-Applications-LP,BBA-2127-TI1,06 10 Job Openings,25-27,male,2,1391,1664,208.34,BBA
 MAY28-2024-HSBI Targeting-College-Applications-LP,BBA-2127-TI1,07 College Campus,25-27,unknown,,1,1,0,BBA
