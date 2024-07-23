@@ -1,0 +1,1101 @@
+transaction_id,transaction_month,store_id,store_location,product_id,product_category,product_type,product_detail,transaction_qty,unit_price,sales
+53407,October,5,Lower Manhattan,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+36695,November,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,2,3.1,6.2
+84646,November,5,Lower Manhattan,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,2,4.5,9
+14622,October,5,Lower Manhattan,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+72079,December,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,2,3.1,6.2
+52552,November,5,Lower Manhattan,77,Bakery,Scone,Oatmeal Scone,1,3,3
+18033,October,5,Lower Manhattan,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+30276,December,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+83965,December,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,1,4.25,4.25
+58903,October,5,Lower Manhattan,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,2,3.5,7
+54820,October,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+77411,December,5,Lower Manhattan,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,2,3.5,7
+18000,November,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,1,3,3
+48073,October,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+64733,October,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,2,3,6
+42776,November,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+11604,December,5,Lower Manhattan,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+68677,November,8,Hell's Kitchen,42,Tea,Brewed herbal tea,Lemon Grass Rg,1,2.5,2.5
+66324,October,8,Hell's Kitchen,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,2,4.5,9
+85265,November,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+18971,December,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,2,3.5,7
+96356,October,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2,2.55,5.1
+57666,November,5,Lower Manhattan,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+26071,November,8,Hell's Kitchen,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+61928,October,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+82024,November,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+84052,December,5,Lower Manhattan,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+67181,December,5,Lower Manhattan,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+76431,November,5,Lower Manhattan,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+52726,November,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,2,3.75,7.5
+83445,October,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,1,3.75,3.75
+92250,December,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+99796,November,5,Lower Manhattan,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+65366,November,5,Lower Manhattan,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2,2.5,5
+62000,November,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,1,2.5,2.5
+79890,October,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+87306,October,5,Lower Manhattan,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+22876,November,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,2,3.75,7.5
+40021,October,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,1,3,3
+44465,October,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+61969,October,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+35695,November,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+23426,December,5,Lower Manhattan,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+73570,November,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+97903,December,5,Lower Manhattan,77,Bakery,Scone,Oatmeal Scone,1,3,3
+88827,December,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+26979,November,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2,2.55,5.1
+94570,December,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+46045,December,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+96215,October,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+73353,December,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,1,3,3
+14807,October,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+30744,November,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,2,3,6
+69672,December,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+26404,December,8,Hell's Kitchen,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,1,4.5,4.5
+61370,November,5,Lower Manhattan,38,Coffee,Barista Espresso,Latte,1,3.75,3.75
+77119,December,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,1,3,3
+49195,October,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,1,2.45,2.45
+78000,October,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+26683,November,8,Hell's Kitchen,74,Bakery,Biscotti,Ginger Biscotti,1,3.5,3.5
+42047,December,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+95124,October,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,2,4.25,8.5
+15138,December,5,Lower Manhattan,41,Coffee,Barista Espresso,Cappuccino Lg,1,4.25,4.25
+15631,December,5,Lower Manhattan,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+46129,December,5,Lower Manhattan,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+50328,December,5,Lower Manhattan,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+28206,December,5,Lower Manhattan,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+58355,December,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,2,3,6
+80043,November,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,2,3.75,7.5
+92358,December,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,2,3,6
+51761,December,5,Lower Manhattan,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+50470,December,5,Lower Manhattan,50,Tea,Brewed Black tea,Earl Grey Rg,1,2.5,2.5
+66325,November,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,1,3,3
+11321,October,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,2,3.75,7.5
+56415,October,8,Hell's Kitchen,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+59032,October,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,1,3.1,3.1
+26825,December,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+89172,October,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,2,3,6
+84099,October,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+28252,November,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+76798,December,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+69997,October,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+89288,November,5,Lower Manhattan,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+33719,December,5,Lower Manhattan,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+28935,December,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,1,2.5,2.5
+18967,October,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,2,4.25,8.5
+55590,December,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+87655,December,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+64531,November,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,1,2.5,2.5
+59650,November,8,Hell's Kitchen,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2,2.55,5.1
+40531,November,5,Lower Manhattan,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,2,3.5,7
+10620,November,5,Lower Manhattan,74,Bakery,Biscotti,Ginger Biscotti,1,3.5,3.5
+14358,December,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+75548,December,5,Lower Manhattan,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,1,3.1,3.1
+11329,December,5,Lower Manhattan,70,Bakery,Scone,Cranberry Scone,1,3.25,3.25
+17001,November,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+48910,October,5,Lower Manhattan,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,1,4.5,4.5
+71927,November,5,Lower Manhattan,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+30984,November,8,Hell's Kitchen,51,Tea,Brewed Black tea,Earl Grey Lg,2,3,6
+62570,November,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,2,4.75,9.5
+26153,October,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,1,3,3
+78265,October,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+17105,December,8,Hell's Kitchen,73,Bakery,Pastry,Almond Croissant,1,3.75,3.75
+32513,November,5,Lower Manhattan,38,Coffee,Barista Espresso,Latte,1,3.75,3.75
+75131,October,5,Lower Manhattan,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+89982,October,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+55562,December,3,Astoria,38,Coffee,Barista Espresso,Latte,1,3.75,3.75
+97383,December,3,Astoria,75,Bakery,Pastry,Croissant,1,3.5,3.5
+55384,December,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+20500,December,5,Lower Manhattan,75,Bakery,Pastry,Croissant,1,3.5,3.5
+87257,November,8,Hell's Kitchen,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+32613,October,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,1,4.5,4.5
+35463,October,8,Hell's Kitchen,51,Tea,Brewed Black tea,Earl Grey Lg,2,3,6
+21162,December,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,1,4.5,4.5
+69107,November,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,1,3,3
+54517,October,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+58574,October,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+37000,November,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+69666,October,3,Astoria,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+91905,October,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+59810,December,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,2,3,6
+40995,November,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+45724,October,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,1,2.2,2.2
+87911,December,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+57351,December,5,Lower Manhattan,77,Bakery,Scone,Oatmeal Scone,1,3,3
+28063,November,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,2,3,6
+88702,December,5,Lower Manhattan,40,Coffee,Barista Espresso,Cappuccino,2,3.75,7.5
+30967,December,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,2,2.5,5
+79499,November,3,Astoria,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,2,3.5,7
+12711,November,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2,2.55,5.1
+38672,December,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,2,3.1,6.2
+67391,December,8,Hell's Kitchen,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+60506,November,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+11105,December,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+99457,December,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,2,3,6
+60597,November,5,Lower Manhattan,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+70769,December,5,Lower Manhattan,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+99089,October,5,Lower Manhattan,75,Bakery,Pastry,Croissant,1,3.5,3.5
+20386,December,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+93530,October,5,Lower Manhattan,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+21141,December,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+42592,November,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+99060,November,5,Lower Manhattan,38,Coffee,Barista Espresso,Latte,1,3.75,3.75
+21630,December,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+76888,October,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+25854,November,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,1,2.5,2.5
+24680,October,8,Hell's Kitchen,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+53338,November,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,2,3,6
+64108,November,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+15846,December,5,Lower Manhattan,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+43430,December,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,2,3.5,7
+73974,December,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+30331,December,3,Astoria,37,Coffee,Barista Espresso,Espresso shot,2,3,6
+58414,December,3,Astoria,50,Tea,Brewed Black tea,Earl Grey Rg,1,2.5,2.5
+55735,October,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+46672,October,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+71434,November,5,Lower Manhattan,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,1,2.5,2.5
+22764,December,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,2,3,6
+70249,December,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,2,3.1,6.2
+40983,December,3,Astoria,75,Bakery,Pastry,Croissant,1,3.5,3.5
+49008,December,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+26159,December,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,1,3,3
+60906,October,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+25738,November,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+75932,October,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+99909,October,5,Lower Manhattan,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+31506,December,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+37817,November,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+12929,November,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,1,3.1,3.1
+41116,October,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+16944,November,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+72553,October,5,Lower Manhattan,38,Coffee,Barista Espresso,Latte,2,3.75,7.5
+55688,October,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,2,3.1,6.2
+92019,October,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+61413,November,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+84905,October,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,2,3,6
+40300,November,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+10188,December,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+21697,November,5,Lower Manhattan,41,Coffee,Barista Espresso,Cappuccino Lg,2,4.25,8.5
+61943,December,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,2,2.5,5
+84614,November,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,1,3.75,3.75
+28434,December,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+58027,November,3,Astoria,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2,2.5,5
+30154,October,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+84475,November,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+12758,November,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,2,3,6
+35850,November,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+89347,December,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+16774,December,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+80433,December,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+29381,December,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+46036,November,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+45700,December,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+37897,October,3,Astoria,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,1,3.5,3.5
+21784,December,3,Astoria,75,Bakery,Pastry,Croissant,1,3.5,3.5
+96839,October,3,Astoria,38,Coffee,Barista Espresso,Latte,2,3.75,7.5
+64680,October,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+90006,November,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,1,4.5,4.5
+37471,December,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+10179,November,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+14118,November,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+27946,October,5,Lower Manhattan,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+79136,October,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+31227,December,5,Lower Manhattan,75,Bakery,Pastry,Croissant,1,3.5,3.5
+54226,October,8,Hell's Kitchen,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2,2.5,5
+33059,October,8,Hell's Kitchen,37,Coffee,Barista Espresso,Espresso shot,1,3,3
+25885,November,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,1,3,3
+60607,October,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+12963,October,5,Lower Manhattan,75,Bakery,Pastry,Croissant,1,3.5,3.5
+27730,November,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,1,3,3
+19090,November,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,2,3,6
+92219,December,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+21500,October,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,1,3,3
+12571,November,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,2,2.5,5
+19428,December,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+49244,November,5,Lower Manhattan,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,2,3,6
+73385,November,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+81149,October,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,1,3,3
+92028,December,8,Hell's Kitchen,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+20333,October,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+69128,December,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,2,3,6
+19694,October,8,Hell's Kitchen,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+36539,November,8,Hell's Kitchen,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+49838,December,8,Hell's Kitchen,42,Tea,Brewed herbal tea,Lemon Grass Rg,2,2.5,5
+54870,November,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+79418,November,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+15552,December,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,1,3.5,3.5
+86986,December,5,Lower Manhattan,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,2,3,6
+32368,November,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,1,3.1,3.1
+83318,November,5,Lower Manhattan,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,2,3,6
+67829,October,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+48915,November,8,Hell's Kitchen,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+87688,December,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,2,4,8
+57711,December,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,2,3,6
+42494,December,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+81603,October,8,Hell's Kitchen,75,Bakery,Pastry,Croissant,1,3.5,3.5
+67643,December,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+11102,October,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+46567,November,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,2,3.1,6.2
+30910,December,3,Astoria,38,Coffee,Barista Espresso,Latte,2,3.75,7.5
+16307,December,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+19458,November,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2,2.5,5
+90954,October,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,2,3.5,7
+83175,October,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+58712,December,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+17486,December,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+29426,November,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,1,3,3
+71108,November,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+25241,October,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,1,3.5,3.5
+10066,October,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,2,3.75,7.5
+90952,November,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,1,3,3
+76109,October,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+78164,November,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2,2.5,5
+46677,December,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+18303,November,5,Lower Manhattan,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+72510,December,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+61245,December,5,Lower Manhattan,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+14305,November,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+44766,December,3,Astoria,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+82786,October,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+24444,October,3,Astoria,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+31136,November,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+46552,December,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,4
+65289,November,5,Lower Manhattan,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+98340,October,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+84141,October,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+30494,November,3,Astoria,38,Coffee,Barista Espresso,Latte,2,3.75,7.5
+77682,October,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,1,3.5,3.5
+87100,November,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,4
+18556,November,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,1,2.5,2.5
+95435,November,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+29934,October,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2,2.5,5
+74580,December,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+46241,November,5,Lower Manhattan,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+40979,November,5,Lower Manhattan,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+50452,October,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2,2.5,5
+25437,December,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,1,2.45,2.45
+22855,November,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+59112,October,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+27743,December,5,Lower Manhattan,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+62029,November,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,1,3,3
+50952,December,3,Astoria,41,Coffee,Barista Espresso,Cappuccino Lg,2,4.25,8.5
+22589,December,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+67858,November,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+38299,December,8,Hell's Kitchen,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+17173,October,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+89010,December,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,2,3.1,6.2
+94778,December,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+83877,November,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,2,3.1,6.2
+96955,October,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2,2.5,5
+50973,December,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,2,3,6
+26914,November,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+85139,October,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+59407,December,8,Hell's Kitchen,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+50851,December,3,Astoria,41,Coffee,Barista Espresso,Cappuccino Lg,2,4.25,8.5
+97922,December,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+95156,December,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,2,3.5,7
+18408,November,5,Lower Manhattan,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,2,3,6
+63342,October,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+74144,December,5,Lower Manhattan,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+31103,October,5,Lower Manhattan,49,Tea,Brewed Black tea,English Breakfast Lg,2,3,6
+23260,October,5,Lower Manhattan,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+90208,November,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+44182,October,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+35983,October,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,1,2.5,2.5
+93804,November,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,2,3,6
+29364,November,5,Lower Manhattan,41,Coffee,Barista Espresso,Cappuccino Lg,2,4.25,8.5
+78324,October,8,Hell's Kitchen,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+41311,November,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+50338,November,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,2,3,6
+94869,October,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+96848,November,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+68802,December,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,1,3,3
+28298,November,8,Hell's Kitchen,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+25215,November,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,2,4.75,9.5
+76601,December,3,Astoria,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+42028,October,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,1,3,3
+71293,October,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+94856,November,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+24657,November,8,Hell's Kitchen,75,Bakery,Pastry,Croissant,1,3.5,3.5
+53531,December,8,Hell's Kitchen,51,Tea,Brewed Black tea,Earl Grey Lg,2,3,6
+23787,December,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,2,3,6
+57883,October,3,Astoria,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+36363,December,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,2,3,6
+58917,October,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+96514,December,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+63401,November,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,1,3.75,3.75
+82601,October,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+37105,November,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,2,3,6
+23477,December,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+49282,October,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+87753,November,5,Lower Manhattan,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+25089,October,5,Lower Manhattan,75,Bakery,Pastry,Croissant,1,3.5,3.5
+29384,October,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+34715,November,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+35479,October,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,2,3,6
+46320,October,5,Lower Manhattan,38,Coffee,Barista Espresso,Latte,2,3.75,7.5
+80200,November,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+52247,December,3,Astoria,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,1,2.5,2.5
+64191,December,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,2,3,6
+14121,November,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+27611,October,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+36852,October,5,Lower Manhattan,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+77875,November,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,2,3.5,7
+15452,October,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,1,3.5,3.5
+50249,November,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+72984,December,3,Astoria,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+90815,December,3,Astoria,70,Bakery,Scone,Cranberry Scone,1,3.25,3.25
+75750,November,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+30622,December,3,Astoria,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+80515,October,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,1,2.45,2.45
+46647,November,8,Hell's Kitchen,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2,2.5,5
+72583,November,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+76983,October,5,Lower Manhattan,74,Bakery,Biscotti,Ginger Biscotti,1,3.5,3.5
+67044,December,3,Astoria,41,Coffee,Barista Espresso,Cappuccino Lg,2,4.25,8.5
+23198,November,3,Astoria,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+44439,December,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,2,3,6
+63558,October,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+17087,November,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+94595,November,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2,2.5,5
+81070,October,5,Lower Manhattan,40,Coffee,Barista Espresso,Cappuccino,2,3.75,7.5
+20945,December,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,2,3.1,6.2
+68390,December,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+61237,October,5,Lower Manhattan,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+73506,October,5,Lower Manhattan,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,2,3.5,7
+70849,October,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+91754,October,3,Astoria,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+76418,October,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+55134,December,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,1,3.75,3.75
+65783,October,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,1,4.25,4.25
+73627,November,3,Astoria,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+25593,December,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+60011,November,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2,2.5,5
+34902,October,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+69984,December,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+50610,December,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2,2.5,5
+30979,December,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2,2.5,5
+71694,November,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,1,3,3
+45970,November,3,Astoria,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+26570,October,3,Astoria,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2,2.5,5
+18102,December,8,Hell's Kitchen,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2,2.5,5
+77889,December,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+58248,December,5,Lower Manhattan,40,Coffee,Barista Espresso,Cappuccino,2,3.75,7.5
+93413,December,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+67405,November,5,Lower Manhattan,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+40688,December,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+66012,December,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+57805,October,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+61011,October,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,2,3,6
+87148,December,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,1,2.5,2.5
+42237,November,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+73466,October,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+82357,October,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,1,3.1,3.1
+30391,December,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,1,2,2
+48873,October,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+29660,December,8,Hell's Kitchen,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,1,3.5,3.5
+24387,December,3,Astoria,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,1,3.5,3.5
+47223,December,5,Lower Manhattan,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+48449,October,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+58289,October,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+64355,October,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+35676,November,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+89789,October,5,Lower Manhattan,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+69705,December,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,2,2.5,5
+46188,December,5,Lower Manhattan,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+34019,October,5,Lower Manhattan,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+67430,October,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+66227,October,8,Hell's Kitchen,42,Tea,Brewed herbal tea,Lemon Grass Rg,2,2.5,5
+50254,December,5,Lower Manhattan,50,Tea,Brewed Black tea,Earl Grey Rg,1,2.5,2.5
+19861,November,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,1,2,2
+92716,December,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,1,3.5,3.5
+40150,October,3,Astoria,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+20789,October,5,Lower Manhattan,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+19108,November,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+69511,December,3,Astoria,50,Tea,Brewed Black tea,Earl Grey Rg,1,2.5,2.5
+59983,October,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+93269,December,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+29744,October,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,1,3.5,3.5
+59030,November,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,1,4.5,4.5
+34647,November,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+97542,October,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+14677,October,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,1,3.1,3.1
+16353,October,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,2,4,8
+20389,November,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,1,2.2,2.2
+17718,November,3,Astoria,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,1,2.5,2.5
+81219,November,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+95873,November,5,Lower Manhattan,75,Bakery,Pastry,Croissant,1,3.5,3.5
+39307,October,8,Hell's Kitchen,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+96440,November,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+32137,November,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,2,3,6
+64119,October,8,Hell's Kitchen,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+51528,December,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2,2.5,5
+39438,October,8,Hell's Kitchen,77,Bakery,Scone,Oatmeal Scone,1,3,3
+64744,December,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+36224,November,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+25337,October,3,Astoria,41,Coffee,Barista Espresso,Cappuccino Lg,1,4.25,4.25
+56127,December,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,2,3.5,7
+69887,December,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,1,3.1,3.1
+96593,November,8,Hell's Kitchen,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+40853,October,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,1,3,3
+23288,October,5,Lower Manhattan,70,Bakery,Scone,Cranberry Scone,1,3.25,3.25
+32417,October,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+25282,October,3,Astoria,75,Bakery,Pastry,Croissant,1,3.5,3.5
+53178,December,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+11912,November,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,1,3,3
+98253,November,3,Astoria,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+89074,December,8,Hell's Kitchen,42,Tea,Brewed herbal tea,Lemon Grass Rg,1,2.5,2.5
+40434,November,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+31725,December,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,2,4,8
+80906,October,3,Astoria,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+30198,November,8,Hell's Kitchen,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+80513,October,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+93998,November,3,Astoria,74,Bakery,Biscotti,Ginger Biscotti,1,3.5,3.5
+32112,November,8,Hell's Kitchen,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,1,2.45,2.45
+36359,November,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,1,3.5,3.5
+37964,December,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+70870,November,8,Hell's Kitchen,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+57004,December,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+32757,December,5,Lower Manhattan,45,Tea,Brewed herbal tea,Peppermint Lg,1,3,3
+89052,December,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,2,3.75,7.5
+78616,October,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+64194,December,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2,2.55,5.1
+90634,October,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+58650,November,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,1,4.25,4.25
+23009,December,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,2,3,6
+55062,October,8,Hell's Kitchen,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+77061,November,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+87447,November,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+67276,November,5,Lower Manhattan,49,Tea,Brewed Black tea,English Breakfast Lg,2,3,6
+44579,December,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,1,2,2
+47594,November,3,Astoria,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+31636,October,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,1,2,2
+57003,November,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,2,3,6
+88060,October,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+86798,December,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+20249,November,3,Astoria,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+31799,November,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+34403,November,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+41621,December,8,Hell's Kitchen,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,2,3.1,6.2
+47082,October,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,2,3,6
+30510,November,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+36563,December,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,1,4.5,4.5
+19149,November,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+85271,December,5,Lower Manhattan,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+35359,November,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+44268,December,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,2,4.75,9.5
+13323,November,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,2,3,6
+32529,October,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,1,3,3
+20504,December,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+12341,December,5,Lower Manhattan,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,2,3,6
+44924,December,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+94238,November,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+82202,October,5,Lower Manhattan,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+50369,December,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,2,2.5,5
+35276,October,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,2,4,8
+59694,October,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+91007,November,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+35889,December,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,2,3,6
+16980,December,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+44125,December,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,2,3,6
+11259,December,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+53854,October,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,1,2.5,2.5
+94267,October,3,Astoria,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+85311,December,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,1,2.2,2.2
+39495,October,3,Astoria,38,Coffee,Barista Espresso,Latte,2,3.75,7.5
+19615,October,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,1,3.5,3.5
+31504,October,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,2,3,6
+39053,November,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,1,2,2
+51335,November,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,4
+61412,December,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,2,4.5,9
+20875,October,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2,2.55,5.1
+22170,December,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,2,3,6
+65926,October,8,Hell's Kitchen,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+80960,October,8,Hell's Kitchen,73,Bakery,Pastry,Almond Croissant,1,3.75,3.75
+39220,October,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+65119,December,8,Hell's Kitchen,37,Coffee,Barista Espresso,Espresso shot,2,3,6
+68073,December,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,1,3.75,3.75
+67599,December,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,2,3,6
+99709,October,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+68977,December,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+90814,December,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+62189,November,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,1,4.25,4.25
+86100,October,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+53058,December,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,2,4,8
+55391,October,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,2,3.75,7.5
+51925,November,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+36105,November,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+80156,December,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,1,3,3
+61323,November,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+36136,December,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+85646,December,8,Hell's Kitchen,77,Bakery,Scone,Oatmeal Scone,1,3,3
+56115,October,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,2,2.5,5
+36585,October,3,Astoria,38,Coffee,Barista Espresso,Latte,1,3.75,3.75
+26183,October,3,Astoria,51,Tea,Brewed Black tea,Earl Grey Lg,2,3,6
+97632,December,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+19254,October,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,2,4.75,9.5
+96806,November,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+89635,December,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+27310,November,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+33003,November,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,2,4,8
+82792,December,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+10053,December,3,Astoria,37,Coffee,Barista Espresso,Espresso shot,1,3,3
+81197,December,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,1,2.5,2.5
+52059,October,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+67740,December,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+38917,December,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+18129,October,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,1,3,3
+98339,December,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,1,3.1,3.1
+99009,December,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+15480,October,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,1,4.25,4.25
+59097,October,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,1,3,3
+28065,October,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,1,3,3
+24504,October,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+23713,December,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+27135,December,5,Lower Manhattan,70,Bakery,Scone,Cranberry Scone,1,3.25,3.25
+55428,November,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,2,4.75,9.5
+40366,December,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,1,2.5,2.5
+52820,December,5,Lower Manhattan,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+39815,November,5,Lower Manhattan,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+11432,October,5,Lower Manhattan,41,Coffee,Barista Espresso,Cappuccino Lg,1,4.25,4.25
+34948,November,5,Lower Manhattan,75,Bakery,Pastry,Croissant,1,3.5,3.5
+69336,November,5,Lower Manhattan,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+34623,October,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+18800,November,5,Lower Manhattan,75,Bakery,Pastry,Croissant,1,3.5,3.5
+73850,November,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+14287,November,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+21893,November,8,Hell's Kitchen,25,Coffee,Organic brewed coffee,Brazilian Sm,1,2.2,2.2
+35061,December,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+82186,December,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+58487,November,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+50836,October,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,2,4.75,9.5
+86362,November,8,Hell's Kitchen,74,Bakery,Biscotti,Ginger Biscotti,1,3.5,3.5
+43160,October,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,1,3.5,3.5
+32693,October,5,Lower Manhattan,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+51704,November,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+63918,December,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,2,3,6
+66575,December,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+47050,October,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,2,2.5,5
+31149,October,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,2,3.75,7.5
+13545,December,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+46915,December,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,1,2.2,2.2
+45988,December,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+98434,October,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+96238,October,5,Lower Manhattan,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,1,2.5,2.5
+68315,October,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,1,3.1,3.1
+70635,December,8,Hell's Kitchen,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+97309,December,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+44363,October,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,1,3,3
+92882,November,5,Lower Manhattan,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+20611,October,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,1,2,2
+32098,November,8,Hell's Kitchen,39,Coffee,Barista Espresso,Latte Rg,1,4.25,4.25
+83762,November,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+59612,October,5,Lower Manhattan,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,1,3.5,3.5
+51119,October,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,2,3,6
+56807,October,8,Hell's Kitchen,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,1,4.5,4.5
+26716,October,8,Hell's Kitchen,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+53442,November,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+59171,December,8,Hell's Kitchen,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+12920,October,8,Hell's Kitchen,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+94604,November,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+77866,October,5,Lower Manhattan,75,Bakery,Pastry,Croissant,1,3.5,3.5
+74956,December,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+24964,November,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+81868,November,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+89977,November,5,Lower Manhattan,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,1,2.5,2.5
+90438,October,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+92881,December,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,4
+84910,October,8,Hell's Kitchen,70,Bakery,Scone,Cranberry Scone,1,3.25,3.25
+93805,December,8,Hell's Kitchen,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,2,4.5,9
+77493,November,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+16778,October,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,1,3,3
+90444,November,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,2,3,6
+26372,November,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+32185,December,5,Lower Manhattan,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+12759,October,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2,2.5,5
+17934,October,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+91035,December,8,Hell's Kitchen,27,Coffee,Organic brewed coffee,Brazilian Lg,1,3.5,3.5
+60075,December,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+88121,October,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+49859,October,8,Hell's Kitchen,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,1,2.45,2.45
+44340,October,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,2,4.25,8.5
+79869,December,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,1,3,3
+20506,December,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,2,3,6
+11658,December,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+85929,October,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+99179,November,8,Hell's Kitchen,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+18345,November,5,Lower Manhattan,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,1,3.5,3.5
+50547,October,5,Lower Manhattan,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+55749,October,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+76651,December,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+49236,October,8,Hell's Kitchen,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2,2.55,5.1
+38591,October,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,2,3,6
+19323,November,5,Lower Manhattan,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+59337,October,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,1,2,2
+68890,November,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+80865,November,8,Hell's Kitchen,42,Tea,Brewed herbal tea,Lemon Grass Rg,2,2.5,5
+79657,October,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+92793,December,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+15685,October,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,1,2.2,2.2
+73888,December,8,Hell's Kitchen,42,Tea,Brewed herbal tea,Lemon Grass Rg,1,2.5,2.5
+13943,November,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,2,2.5,5
+24117,October,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+54917,December,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,1,3,3
+73072,October,8,Hell's Kitchen,51,Tea,Brewed Black tea,Earl Grey Lg,2,3,6
+14250,December,5,Lower Manhattan,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+44904,October,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,1,3,3
+62449,November,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+80407,November,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+74019,November,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,1,3,3
+51902,December,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2,2.5,5
+19594,October,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,1,3.5,3.5
+85264,October,3,Astoria,70,Bakery,Scone,Cranberry Scone,1,3.25,3.25
+96376,October,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+78079,October,3,Astoria,77,Bakery,Scone,Oatmeal Scone,1,3,3
+39812,November,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,1,2.2,2.2
+51857,November,8,Hell's Kitchen,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2,2.5,5
+36034,December,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,2,3,6
+45744,December,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,1,4.25,4.25
+63060,November,5,Lower Manhattan,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+86629,November,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,4
+33860,December,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,1,2.5,2.5
+36396,December,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+65500,November,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+87645,October,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+62048,December,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,1,2.5,2.5
+99033,December,3,Astoria,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+50666,November,3,Astoria,75,Bakery,Pastry,Croissant,1,3.5,3.5
+95926,December,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+38321,October,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+59827,November,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,2,3,6
+63168,October,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,1,3.1,3.1
+45576,December,3,Astoria,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2,2.5,5
+99537,October,3,Astoria,38,Coffee,Barista Espresso,Latte,2,3.75,7.5
+81253,December,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+37541,December,5,Lower Manhattan,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+95564,November,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2,2.5,5
+78662,October,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+48030,November,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+72946,November,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,1,3,3
+51031,December,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+84212,October,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+40576,October,3,Astoria,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+19075,December,5,Lower Manhattan,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,2,3.5,7
+66158,December,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,2,3,6
+87931,November,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,2,2.5,5
+74054,December,5,Lower Manhattan,74,Bakery,Biscotti,Ginger Biscotti,1,3.5,3.5
+89869,November,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+13746,December,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+74737,October,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+52551,November,8,Hell's Kitchen,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+69373,October,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,2,3,6
+58950,October,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+98774,December,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,1,3.5,3.5
+73454,October,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,1,3.5,3.5
+98500,November,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,2,2.5,5
+15851,November,8,Hell's Kitchen,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,2,4.5,9
+70812,November,5,Lower Manhattan,43,Tea,Brewed herbal tea,Lemon Grass Lg,2,3,6
+56646,December,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+62254,December,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+65983,October,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,1,2,2
+25130,October,8,Hell's Kitchen,37,Coffee,Barista Espresso,Espresso shot,1,3,3
+36827,October,8,Hell's Kitchen,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+94577,November,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,2,3.1,6.2
+37267,November,8,Hell's Kitchen,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+98561,October,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+64910,November,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+81875,November,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,1,3,3
+10392,November,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,2,3,6
+90416,December,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,1,2.5,2.5
+66283,November,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,1,2.5,2.5
+87000,November,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+27124,October,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+89656,October,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+69495,December,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,1,3,3
+42531,November,5,Lower Manhattan,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+21729,December,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+44840,October,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,1,3,3
+38843,December,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,2,3,6
+95972,December,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+92318,October,5,Lower Manhattan,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+93150,December,5,Lower Manhattan,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+78313,November,5,Lower Manhattan,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+29729,December,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+13659,November,3,Astoria,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+17101,November,5,Lower Manhattan,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,2,3.5,7
+82288,December,5,Lower Manhattan,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+95630,November,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+56837,November,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2,2.55,5.1
+31438,November,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+10580,December,5,Lower Manhattan,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+17074,October,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,1,2,2
+33951,November,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+18112,October,3,Astoria,51,Tea,Brewed Black tea,Earl Grey Lg,2,3,6
+31454,December,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+51972,November,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+98007,November,3,Astoria,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+34308,October,8,Hell's Kitchen,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+16497,December,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+66064,November,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+89128,December,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+86976,November,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,1,2.2,2.2
+15503,December,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,2,3,6
+49401,October,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+48260,October,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,2,3,6
+67518,December,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,1,3,3
+97838,December,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+68346,November,8,Hell's Kitchen,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+58654,October,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+31906,October,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2,2.5,5
+29137,December,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2,2.5,5
+71723,October,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,4
+13594,December,5,Lower Manhattan,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,1,3.5,3.5
+24843,November,5,Lower Manhattan,77,Bakery,Scone,Oatmeal Scone,1,3,3
+88691,November,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+92522,December,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+66059,November,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,2,3,6
+81274,November,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,2,3,6
+53309,October,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,2,3,6
+15887,December,8,Hell's Kitchen,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,1,3.1,3.1
+32325,December,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,1,3,3
+35062,October,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,2,3,6
+88131,October,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+80054,December,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,2,3.75,7.5
+76859,November,8,Hell's Kitchen,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+92491,November,5,Lower Manhattan,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,4
+63407,November,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+89336,November,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,1,3,3
+30282,November,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+37783,October,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+19045,December,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,1,3,3
+87354,November,5,Lower Manhattan,70,Bakery,Scone,Cranberry Scone,1,3.25,3.25
+35683,December,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,1,3.5,3.5
+28916,November,8,Hell's Kitchen,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+95433,December,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,2,3,6
+54222,December,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+91079,November,5,Lower Manhattan,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+44597,October,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2,2.5,5
+69914,October,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+43623,December,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+77469,November,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+27483,December,3,Astoria,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+23178,November,8,Hell's Kitchen,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+34388,October,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,1,3,3
+92577,October,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,2,2.5,5
+94481,November,3,Astoria,38,Coffee,Barista Espresso,Latte,1,3.75,3.75
+18764,November,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+86513,November,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+10113,October,3,Astoria,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+22243,November,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,1,2.5,2.5
+71912,December,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+43352,November,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+33202,December,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,1,2.2,2.2
+14908,October,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+51081,November,5,Lower Manhattan,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+40171,November,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,2,3,6
+78471,December,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+81520,December,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,1,4.25,4.25
+56573,October,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+94184,October,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+54218,October,5,Lower Manhattan,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+22596,October,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+35925,November,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,1,2,2
+42757,December,8,Hell's Kitchen,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,2,4.5,9
+92073,October,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,2,3,6
+28871,November,8,Hell's Kitchen,73,Bakery,Pastry,Almond Croissant,1,3.75,3.75
+34997,November,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+74547,November,3,Astoria,70,Bakery,Scone,Cranberry Scone,1,3.25,3.25
+86606,December,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+70355,December,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+97010,November,8,Hell's Kitchen,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+32984,December,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+51449,December,8,Hell's Kitchen,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+90557,November,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,1,4.25,4.25
+49168,October,8,Hell's Kitchen,38,Coffee,Barista Espresso,Latte,2,3.75,7.5
+32761,October,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+63683,November,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,1,4.25,4.25
+98967,December,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+28000,November,8,Hell's Kitchen,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+57761,December,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,4
+30448,October,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,1,4.5,4.5
+14692,November,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+70003,December,5,Lower Manhattan,75,Bakery,Pastry,Croissant,1,3.5,3.5
+13172,November,3,Astoria,37,Coffee,Barista Espresso,Espresso shot,1,3,3
+43086,October,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+45549,November,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+73803,December,5,Lower Manhattan,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,1,2,2
+55512,October,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+64420,October,5,Lower Manhattan,51,Tea,Brewed Black tea,Earl Grey Lg,2,3,6
+69810,October,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+23693,November,3,Astoria,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+41677,December,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+54258,December,5,Lower Manhattan,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+12353,November,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,2,3.5,7
+42071,October,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+42233,December,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,2,4.75,9.5
+96660,December,3,Astoria,75,Bakery,Pastry,Croissant,1,3.5,3.5
+62996,December,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,1,3,3
+70095,November,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,2,4.25,8.5
+74712,December,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+50064,October,8,Hell's Kitchen,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,1,2.2,2.2
+32423,December,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+31727,October,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,2,3,6
+29864,December,3,Astoria,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+57989,December,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+10320,December,5,Lower Manhattan,37,Coffee,Barista Espresso,Espresso shot,2,3,6
+66174,October,3,Astoria,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+17525,November,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,2,3,6
+93683,October,8,Hell's Kitchen,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+61081,October,8,Hell's Kitchen,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+57730,December,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,2,3.75,7.5
+19043,December,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,1,3,3
+86854,November,3,Astoria,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+84737,November,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+50036,December,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+30055,November,5,Lower Manhattan,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+34385,November,5,Lower Manhattan,41,Coffee,Barista Espresso,Cappuccino Lg,1,4.25,4.25
+34678,October,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,1,3,3
+13845,December,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+70814,October,5,Lower Manhattan,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+19828,October,5,Lower Manhattan,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+99160,November,3,Astoria,37,Coffee,Barista Espresso,Espresso shot,2,3,6
+93517,October,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,1,3,3
+11234,October,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+18360,November,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+40549,November,8,Hell's Kitchen,87,Coffee,Barista Espresso,Ouro Brasileiro shot,2,3,6
+87697,October,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2,2.5,5
+34357,December,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+94911,December,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,2,3,6
+64918,October,3,Astoria,73,Bakery,Pastry,Almond Croissant,1,3.75,3.75
+53870,October,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+55039,December,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,1,3.5,3.5
+53191,October,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+34622,December,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,2,2.2,4.4
+54839,October,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+60315,October,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+62474,December,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+58261,October,3,Astoria,77,Bakery,Scone,Oatmeal Scone,1,3,3
+47542,November,5,Lower Manhattan,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,1,4.5,4.5
+94110,November,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+17142,December,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+95633,December,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+41110,October,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+81779,November,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+41283,October,5,Lower Manhattan,48,Tea,Brewed Black tea,English Breakfast Rg,2,2.5,5
+80129,December,3,Astoria,50,Tea,Brewed Black tea,Earl Grey Rg,1,2.5,2.5
+61549,November,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,2,2.5,5
+29250,November,5,Lower Manhattan,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+86867,December,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,1,3.5,3.5
+67377,November,3,Astoria,41,Coffee,Barista Espresso,Cappuccino Lg,1,4.25,4.25
+55036,November,5,Lower Manhattan,87,Coffee,Barista Espresso,Ouro Brasileiro shot,2,3,6
+67517,November,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,2,2.5,5
+89440,November,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+76887,November,8,Hell's Kitchen,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+20461,October,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+45640,December,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,1,3,3
+49683,November,8,Hell's Kitchen,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+72962,October,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+24525,November,5,Lower Manhattan,70,Bakery,Scone,Cranberry Scone,1,3.25,3.25
+84499,December,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2,2.5,5
+72645,December,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+42194,December,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,2,3.5,7
+29508,October,8,Hell's Kitchen,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+29077,November,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+39049,November,8,Hell's Kitchen,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+77484,November,8,Hell's Kitchen,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+24626,November,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+39300,December,5,Lower Manhattan,74,Bakery,Biscotti,Ginger Biscotti,1,3.5,3.5
+84661,December,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+52733,October,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,2,2.5,5
+86801,November,5,Lower Manhattan,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+78059,December,5,Lower Manhattan,73,Bakery,Pastry,Almond Croissant,1,3.75,3.75
+34361,November,5,Lower Manhattan,42,Tea,Brewed herbal tea,Lemon Grass Rg,1,2.5,2.5
+28091,November,5,Lower Manhattan,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+45603,October,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+70453,November,3,Astoria,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+77362,October,5,Lower Manhattan,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+22969,December,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2,2.5,5
+20190,November,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,1,2.45,2.45
+80036,November,5,Lower Manhattan,38,Coffee,Barista Espresso,Latte,2,3.75,7.5
+78718,November,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+52879,November,8,Hell's Kitchen,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+23075,November,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+66309,October,5,Lower Manhattan,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+80244,December,5,Lower Manhattan,79,Bakery,Scone,Jumbo Savory Scone,1,3.75,3.75
+66656,November,5,Lower Manhattan,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,2,2.55,5.1
+66768,October,8,Hell's Kitchen,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+32660,November,5,Lower Manhattan,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2,2.5,5
+40777,October,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,1,3.5,3.5
+42544,December,3,Astoria,43,Tea,Brewed herbal tea,Lemon Grass Lg,2,3,6
+64499,November,3,Astoria,51,Tea,Brewed Black tea,Earl Grey Lg,2,3,6
+45490,December,3,Astoria,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+71789,October,5,Lower Manhattan,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+35264,November,5,Lower Manhattan,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+15508,October,5,Lower Manhattan,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+23333,November,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+19343,October,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,1,4.25,4.25
+31263,November,5,Lower Manhattan,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,1,2.5,2.5
+18730,November,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,1,4.25,4.25
+99497,October,3,Astoria,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+27553,December,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+66044,October,8,Hell's Kitchen,26,Coffee,Organic brewed coffee,Brazilian Rg,2,3,6
+76069,October,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+62886,November,5,Lower Manhattan,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+81814,October,5,Lower Manhattan,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+25739,October,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,2,3,6
+77940,December,3,Astoria,38,Coffee,Barista Espresso,Latte,1,3.75,3.75
+59541,October,5,Lower Manhattan,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+62380,October,5,Lower Manhattan,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+34903,October,3,Astoria,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+89258,October,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+81708,October,5,Lower Manhattan,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+30114,October,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+23842,December,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,1,2.2,2.2
+73629,October,3,Astoria,73,Bakery,Pastry,Almond Croissant,1,3.75,3.75
+62179,November,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,1,2.5,2.5
+66603,December,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+61811,December,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+17163,October,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+59150,October,3,Astoria,74,Bakery,Biscotti,Ginger Biscotti,1,3.5,3.5
+90273,November,8,Hell's Kitchen,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,2,3,6
+86814,December,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+11006,November,8,Hell's Kitchen,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+60805,October,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+58626,October,5,Lower Manhattan,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+98909,November,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+83473,December,5,Lower Manhattan,75,Bakery,Pastry,Croissant,1,3.5,3.5
+99512,November,5,Lower Manhattan,50,Tea,Brewed Black tea,Earl Grey Rg,1,2.5,2.5
+24234,November,3,Astoria,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,1,2.2,2.2
+81461,December,3,Astoria,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,2,2.5,5
+88494,October,8,Hell's Kitchen,49,Tea,Brewed Black tea,English Breakfast Lg,2,3,6
+42593,December,3,Astoria,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,1,3,3
+68779,November,5,Lower Manhattan,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,4
+74031,December,3,Astoria,51,Tea,Brewed Black tea,Earl Grey Lg,2,3,6
+36969,November,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,1,2.45,2.45
+20439,December,5,Lower Manhattan,77,Bakery,Scone,Oatmeal Scone,1,3,3
+35082,December,3,Astoria,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+81307,December,5,Lower Manhattan,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+91598,December,3,Astoria,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+32934,December,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,1,3,3
+11803,December,8,Hell's Kitchen,25,Coffee,Organic brewed coffee,Brazilian Sm,1,2.2,2.2
+14830,December,3,Astoria,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+93729,October,3,Astoria,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+22061,October,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,2,3,6
+19281,November,8,Hell's Kitchen,41,Coffee,Barista Espresso,Cappuccino Lg,1,4.25,4.25
+98114,November,5,Lower Manhattan,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,1,2.5,2.5
+52928,December,8,Hell's Kitchen,25,Coffee,Organic brewed coffee,Brazilian Sm,1,2.2,2.2
+71964,December,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,1,2.5,2.5
+27878,December,5,Lower Manhattan,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2,2.5,5
+51202,October,5,Lower Manhattan,77,Bakery,Scone,Oatmeal Scone,1,3,3
+16015,October,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+67665,October,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,2,4,8
+42070,October,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,1,3.5,3.5
+87750,November,3,Astoria,42,Tea,Brewed herbal tea,Lemon Grass Rg,2,2.5,5
+42603,November,8,Hell's Kitchen,43,Tea,Brewed herbal tea,Lemon Grass Lg,1,3,3
+10231,October,5,Lower Manhattan,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+84552,December,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,2,3.1,6.2
+36199,December,3,Astoria,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,2,3,6
+98389,October,3,Astoria,70,Bakery,Scone,Cranberry Scone,1,3.25,3.25
+39246,December,5,Lower Manhattan,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,2,3,6
+74652,October,8,Hell's Kitchen,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,1,2.5,2.5
+26837,October,5,Lower Manhattan,27,Coffee,Organic brewed coffee,Brazilian Lg,1,3.5,3.5
+35807,November,5,Lower Manhattan,74,Bakery,Biscotti,Ginger Biscotti,1,3.5,3.5
+73086,November,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+84468,November,3,Astoria,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,1,2,2
+78143,November,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,2,3,6
+24031,October,8,Hell's Kitchen,47,Tea,Brewed Green tea,Serenity Green Tea Lg,1,3,3
+53764,November,8,Hell's Kitchen,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,1,2.5,2.5
+24307,October,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,2,2.5,5
+59119,November,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+16763,November,8,Hell's Kitchen,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+15858,November,8,Hell's Kitchen,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+36269,October,8,Hell's Kitchen,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,2,2,4
+59113,November,3,Astoria,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2,2.5,5
+36795,December,3,Astoria,51,Tea,Brewed Black tea,Earl Grey Lg,2,3,6
+78384,December,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,1,3,3
+31059,December,5,Lower Manhattan,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+12995,December,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+50862,December,3,Astoria,73,Bakery,Pastry,Almond Croissant,1,3.75,3.75
+24398,December,3,Astoria,38,Coffee,Barista Espresso,Latte,2,3.75,7.5
+48562,December,3,Astoria,27,Coffee,Organic brewed coffee,Brazilian Lg,1,3.5,3.5
+17521,November,8,Hell's Kitchen,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+76991,November,3,Astoria,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+75575,November,8,Hell's Kitchen,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+37029,December,8,Hell's Kitchen,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+44184,November,8,Hell's Kitchen,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,1,2.5,2.5
+79229,November,3,Astoria,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,2,3.1,6.2
+58042,November,5,Lower Manhattan,27,Coffee,Organic brewed coffee,Brazilian Lg,2,3.5,7
+19322,December,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+54960,November,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+21410,November,3,Astoria,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+41345,December,8,Hell's Kitchen,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+87115,December,3,Astoria,37,Coffee,Barista Espresso,Espresso shot,2,3,6
+39932,December,3,Astoria,47,Tea,Brewed Green tea,Serenity Green Tea Lg,2,3,6
+22459,November,3,Astoria,74,Bakery,Biscotti,Ginger Biscotti,1,3.5,3.5
+24582,October,8,Hell's Kitchen,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+85627,November,3,Astoria,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,2,2.5,5
+70019,December,3,Astoria,73,Bakery,Pastry,Almond Croissant,1,3.75,3.75
+50599,November,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,2,3.75,7.5
+42458,December,3,Astoria,75,Bakery,Pastry,Croissant,1,3.5,3.5
+52118,December,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,1,3,3
+33736,December,8,Hell's Kitchen,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+82811,October,5,Lower Manhattan,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,1,4.75,4.75
+49302,November,5,Lower Manhattan,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+41089,December,5,Lower Manhattan,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,2,3.5,7
+94273,October,5,Lower Manhattan,73,Bakery,Pastry,Almond Croissant,1,3.75,3.75
+98896,December,5,Lower Manhattan,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+20934,November,3,Astoria,45,Tea,Brewed herbal tea,Peppermint Lg,2,3,6
+97969,December,8,Hell's Kitchen,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,1,4,4
+32018,October,3,Astoria,51,Tea,Brewed Black tea,Earl Grey Lg,1,3,3
+76577,December,5,Lower Manhattan,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,1,2.2,2.2
+32659,October,8,Hell's Kitchen,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+90897,December,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,2,3.5,7
+48126,November,3,Astoria,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,2,3.1,6.2
+65218,December,8,Hell's Kitchen,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,2,2.45,4.9
+56676,October,8,Hell's Kitchen,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,1,3,3
+97160,December,3,Astoria,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,1,2.55,2.55
+16693,November,3,Astoria,26,Coffee,Organic brewed coffee,Brazilian Rg,2,3,6
+70932,December,5,Lower Manhattan,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,1,2.45,2.45
+53673,December,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,2,3.75,7.5
+26808,November,3,Astoria,75,Bakery,Pastry,Croissant,1,3.5,3.5
+96716,December,8,Hell's Kitchen,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,2,3.5,7
+55142,November,8,Hell's Kitchen,70,Bakery,Scone,Cranberry Scone,1,3.25,3.25
+91519,December,3,Astoria,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+71036,December,3,Astoria,49,Tea,Brewed Black tea,English Breakfast Lg,2,3,6
+10079,October,3,Astoria,44,Tea,Brewed herbal tea,Peppermint Rg,1,2.5,2.5
+31976,November,3,Astoria,77,Bakery,Scone,Oatmeal Scone,1,3,3
+48596,December,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+47018,December,3,Astoria,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,1,3,3
+18568,December,3,Astoria,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,1,3.75,3.75
+37246,October,8,Hell's Kitchen,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,2,4.75,9.5
+30538,December,3,Astoria,37,Coffee,Barista Espresso,Espresso shot,1,3,3
+84074,October,3,Astoria,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,1,3.75,3.75
+21098,November,3,Astoria,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,2,4,8
+83268,December,3,Astoria,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,2,3.5,7
+96942,October,3,Astoria,77,Bakery,Scone,Oatmeal Scone,1,3,3
+78256,December,3,Astoria,46,Tea,Brewed Green tea,Serenity Green Tea Rg,1,2.5,2.5
+72203,December,3,Astoria,76,Bakery,Biscotti,Chocolate Chip Biscotti,1,3.5,3.5
+29247,October,3,Astoria,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,2,2.5,5
+78933,November,3,Astoria,78,Bakery,Scone,Scottish Cream Scone ,1,4.5,4.5
+13773,December,3,Astoria,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+74203,October,8,Hell's Kitchen,51,Tea,Brewed Black tea,Earl Grey Lg,1,3,3
+26567,October,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+59422,October,3,Astoria,48,Tea,Brewed Black tea,English Breakfast Rg,1,2.5,2.5
+60008,December,3,Astoria,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,2,4.5,9
+18373,October,3,Astoria,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
+61939,October,8,Hell's Kitchen,39,Coffee,Barista Espresso,Latte Rg,2,4.25,8.5
+25297,December,8,Hell's Kitchen,70,Bakery,Scone,Cranberry Scone,1,3.25,3.25
+92308,December,3,Astoria,50,Tea,Brewed Black tea,Earl Grey Rg,2,2.5,5
+94990,November,3,Astoria,71,Bakery,Pastry,Chocolate Croissant,1,3.75,3.75
+39087,November,8,Hell's Kitchen,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,1,3.1,3.1
+34892,October,8,Hell's Kitchen,37,Coffee,Barista Espresso,Espresso shot,2,3,6
+73245,November,3,Astoria,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,1,3,3
+88153,October,3,Astoria,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,2,2,4
+91426,December,3,Astoria,72,Bakery,Scone,Ginger Scone,1,3.25,3.25
+74620,October,8,Hell's Kitchen,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,2,2.5,5
+78546,October,8,Hell's Kitchen,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,1,2,2
+78930,December,8,Hell's Kitchen,69,Bakery,Biscotti,Hazelnut Biscotti,1,3.25,3.25
+73971,December,3,Astoria,25,Coffee,Organic brewed coffee,Brazilian Sm,2,2.2,4.4
+65849,October,8,Hell's Kitchen,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,1,2.45,2.45
+28536,October,8,Hell's Kitchen,40,Coffee,Barista Espresso,Cappuccino,1,3.75,3.75
