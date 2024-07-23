@@ -1,0 +1,60 @@
+Customer_ID,Product_ID,Month,Product_Description,Product_Category,Product_Line,Raw_Material,Region,Quantity,Unit_Price,Sales_Revenue
+10820,3413,June,Cycling Jerseys,Sports,Tops,Fabrics,York,1,117.31,117.31
+10092,3249,August,Casual Shirts,Menswear,Tops,Cotton,Worcester,4,32.27,129.09
+10452,3855,July,Casual Shirts,Menswear,Tops,Cotton,Worcester,1,36.19,36.19
+10247,3427,August,Jeans,Menswear,Trousers,Cotton,Winchester,3,29.91,89.74
+10172,3987,August,Shorts,Womenswear,Trousers,Cotton,Winchester,1,41.84,41.84
+10573,3192,August,Belts,Accessories,Leathers,Leather,Wells,3,49.89,149.66
+10048,3009,July,Ties,Accessories,Tops,Leather,Wakefield,2,35.42,70.83
+10864,3888,July,Polo Shirts,Menswear,Tops,Cotton,Wakefield,1,29.08,29.08
+10184,3835,July,Tshirts,Womenswear,Tops,Cotton,Wakefield,3,44.50,133.49
+10461,3302,July,Formal Shirts,Womenswear,Tops,Wool,Winchester,3,38.50,115.49
+10791,3073,August,Formal Shirts,Menswear,Tops,Wool,Wakefield,4,27.05,108.20
+10310,3425,July,Polo Shirts,Menswear,Tops,Cotton,Wakefield,3,28.54,85.62
+10260,3434,July,Formal Shirts,Menswear,Tops,Cotton,York,4,34.74,138.97
+10152,3993,August,Knitwear,Womenswear,Tops,Cashmere,Wells,3,27.03,81.09
+10530,3216,August,Knitwear,Menswear,Tops,Cashmere,Wells,1,34.79,34.79
+10121,3633,July,Suits,Menswear,Tops,Wool,Wakefield,4,43.87,175.49
+10141,3671,June,Sweats,Womenswear,Tops,Polyester,Wakefield,1,51.97,51.97
+10130,3680,July,Shorts,Womenswear,Tops,Cotton,Wakefield,4,33.93,135.73
+10825,3493,June,Pants,Womenswear,Trousers,Cotton,York,3,41.41,124.24
+10835,3318,August,Pants,Womenswear,Trousers,Cotton,Wakefield,1,38.52,38.52
+10498,3884,June,GolfShoes,Sports,Shoes,Leather,Truro,1,21.97,21.97
+10588,3908,August,Dress,Womenswear,Tops,Polyester,Truro,2,38.72,77.44
+10733,3312,July,Coats,Womenswear,Tops,Cotton,Truro,3,36.19,108.57
+10790,3769,July,Underwear,Womenswear,Tops,Cotton,Winchester,1,54.99,54.99
+10105,3385,August,Pyjamas,Womenswear,Tops,Cotton,Truro,2,50.80,101.59
+10592,3720,June,Pyjamas,Menswear,Tops,Cotton,Truro,2,47.43,94.87
+10074,3262,July,Pants,Menswear,Trousers,Leather,Worcester,1,50.00,50.00
+10523,3487,August,Formal Shirts,Menswear,Tops,Wool,York,1,33.47,33.47
+10314,3661,July,Knitwear,Womenswear,Tops,Cashmere,Wells,1,32.75,32.75
+10370,3069,June,Knitwear,Menswear,Tops,Cashmere,Wells,1,31.88,31.88
+10707,3085,August,Cycling Jerseys,Sports,Tops,Fabrics,York,1,117.31,117.31
+10242,3012,August,Casual Shirts,Menswear,Tops,Cotton,Worcester,4,32.27,129.09
+10543,3177,August,Casual Shirts,Menswear,Tops,Cotton,Worcester,1,36.19,36.19
+10738,3638,June,Jeans,Menswear,Trousers,Cotton,Winchester,3,29.91,89.74
+10407,3613,June,Shorts,Womenswear,Trousers,Cotton,Winchester,1,41.84,41.84
+10051,3027,June,Belts,Accessories,Leathers,Leather,Wells,3,49.89,149.66
+10591,3322,July,Ties,Accessories,Tops,Leather,Wakefield,2,35.42,70.83
+10042,3147,August,Polo Shirts,Menswear,Tops,Cotton,Wakefield,1,29.08,29.08
+10688,3812,August,Tshirts,Womenswear,Tops,Cotton,Wakefield,3,44.50,133.49
+10784,3948,July,Formal Shirts,Womenswear,Tops,Wool,Winchester,3,38.50,115.49
+10427,3324,July,Formal Shirts,Menswear,Tops,Wool,Wakefield,4,27.05,108.20
+10671,3928,July,Polo Shirts,Menswear,Tops,Cotton,Wakefield,3,28.54,85.62
+10178,3710,July,Formal Shirts,Menswear,Tops,Cotton,York,2,34.74,69.49
+10754,3807,August,Knitwear,Womenswear,Tops,Cashmere,Wells,3,27.03,81.09
+10444,3146,June,Knitwear,Menswear,Tops,Cashmere,Wells,1,34.79,34.79
+10852,3209,June,Suits,Menswear,Tops,Wool,Wakefield,4,43.87,175.49
+10782,3840,July,Sweats,Womenswear,Tops,Polyester,Wakefield,1,51.97,51.97
+10351,3373,July,Shorts,Womenswear,Tops,Cotton,Wakefield,4,33.93,135.73
+10781,3239,August,Pants,Womenswear,Trousers,Cotton,York,3,41.41,124.24
+10123,3415,June,Pants,Womenswear,Trousers,Cotton,Wakefield,1,38.52,38.52
+10606,3042,July,GolfShoes,Sports,Shoes,Leather,Truro,1,21.97,21.97
+10066,3071,June,Dress,Womenswear,Tops,Polyester,Truro,2,38.72,77.44
+10809,3733,June,Coats,Womenswear,Tops,Cotton,Truro,3,36.19,108.57
+10259,3462,June,Underwear,Womenswear,Tops,Cotton,Winchester,1,54.99,54.99
+10579,3890,July,Pyjamas,Womenswear,Tops,Cotton,Truro,2,50.80,101.59
+10036,3452,June,Pyjamas,Menswear,Tops,Cotton,Truro,2,47.43,94.87
+10047,3112,June,Pants,Menswear,Trousers,Leather,Worcester,1,50.00,50.00
+10569,3955,July,Formal Shirts,Menswear,Tops,Wool,York,1,33.47,33.47
+10296,3763,June,Knitwear,Womenswear,Tops,Cashmere,Wells,2,32.75,65.49
