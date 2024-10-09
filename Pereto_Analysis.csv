@@ -1,4 +1,4 @@
-Product ID,Product Name,Category,Sales (Rs.),Units Sold,Returns
+ProductID,Product_Name,Category,SalesPrice,Units_Sold,Returns
 101,Samsung Galaxy S23,Electronics,69930,300,5
 102,Apple iPhone 14,Electronics,76930,200,3
 103,IKEA Hemnes Sofa,Furniture,34930,150,2
