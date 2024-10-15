@@ -1,0 +1,1473 @@
+TransactionID,ProductName,Reason,Price/Unit,SalesValue,Returns
+3627,Dining Tables,Wrong Size,30000,30000,1
+3628,Bed Frames,Damage or Defect,20000,40000,2
+3629,Bed Frames,Wrong Size,20000,20000,1
+3630,Bed Frames,Damage or Defect,20000,40000,2
+3631,Dressers,Wrong Size,18000,18000,1
+3632,Sofas and Couches,Late Delivery,50000,50000,1
+3633,Coffee Tables,Damage or Defect,10000,10000,1
+3634,Coffee Tables,Change of Mind,10000,10000,1
+3635,Mattresses,Poor Quality,12000,12000,1
+3636,Dressers,Poor Quality,18000,36000,2
+3637,Dressers,Wrong Size,18000,18000,1
+3638,Mattresses,Wrong Size,12000,24000,2
+3639,Recliners,Damage or Defect,25000,50000,2
+3640,Bed Frames,Comfort Issues,20000,40000,2
+3641,Wardrobes,Damage or Defect,35000,70000,2
+3642,Sofas and Couches,Wrong Size,50000,50000,1
+3643,Sofas and Couches,Damage or Defect,50000,50000,1
+3644,Sofas and Couches,Color/Style Mismatch,50000,50000,1
+3645,Bed Frames,Comfort Issues,20000,40000,2
+3646,Mattresses,Poor Quality,12000,12000,1
+3647,Dining Chairs,Late Delivery,5000,10000,2
+3648,Dining Tables,Wrong Size,30000,30000,1
+3649,Bookcases,Assembly Issues,15000,15000,1
+3650,Mattresses,Wrong Size,12000,24000,2
+3651,Dining Tables,Comfort Issues,30000,60000,2
+3652,Bed Frames,Color/Style Mismatch,20000,20000,1
+3653,Recliners,Damage or Defect,25000,50000,2
+3654,Coffee Tables,Wrong Size,10000,10000,1
+3655,Dining Chairs,Assembly Issues,5000,5000,1
+3656,Dining Chairs,Wrong Size,5000,5000,1
+3657,Dining Tables,Wrong Size,30000,60000,2
+3658,Ottomans,Wrong Size,8000,8000,1
+3659,Wardrobes,Color/Style Mismatch,35000,70000,2
+3660,Sofas and Couches,Comfort Issues,50000,50000,1
+3661,Dining Chairs,Poor Quality,5000,10000,2
+3662,Coffee Tables,Comfort Issues,10000,20000,2
+3663,Coffee Tables,Color/Style Mismatch,10000,20000,2
+3664,Recliners,Damage or Defect,25000,25000,1
+3665,Sofas and Couches,Assembly Issues,50000,100000,2
+3666,Bed Frames,Poor Quality,20000,20000,1
+3667,Sofas and Couches,Comfort Issues,50000,100000,2
+3668,Coffee Tables,Damage or Defect,10000,10000,1
+3669,Recliners,Color/Style Mismatch,25000,50000,2
+3670,Wardrobes,Damage or Defect,35000,35000,1
+3671,Nightstands,Damage or Defect,6000,12000,2
+3672,Coffee Tables,Comfort Issues,10000,20000,2
+3673,Wardrobes,Wrong Size,35000,35000,1
+3674,Recliners,Late Delivery,25000,25000,1
+3675,Nightstands,Late Delivery,6000,12000,2
+3676,Mattresses,Damage or Defect,12000,12000,1
+3677,Nightstands,Damage or Defect,6000,12000,2
+3678,Bed Frames,Color/Style Mismatch,20000,40000,2
+3679,Dining Tables,Damage or Defect,30000,60000,2
+3680,Nightstands,Damage or Defect,6000,6000,1
+3681,Dining Chairs,Wrong Size,5000,5000,1
+3682,Mattresses,Wrong Size,12000,12000,1
+3683,Nightstands,Wrong Size,6000,6000,1
+3684,Bed Frames,Change of Mind,20000,40000,2
+3685,Dining Tables,Wrong Size,30000,60000,2
+3686,Bookcases,Damage or Defect,15000,30000,2
+3687,Dining Tables,Late Delivery,30000,30000,1
+3688,Office Chairs,Damage or Defect,8000,8000,1
+3689,Bed Frames,Poor Quality,20000,40000,2
+3690,Office Chairs,Wrong Size,8000,8000,1
+3691,Bed Frames,Assembly Issues,20000,40000,2
+3692,Dressers,Damage or Defect,18000,18000,1
+3693,Recliners,Late Delivery,25000,50000,2
+3694,Sofas and Couches,Wrong Size,50000,100000,2
+3695,Sofas and Couches,Change of Mind,50000,100000,2
+3696,Recliners,Wrong Size,25000,50000,2
+3697,Desks,Assembly Issues,12000,12000,1
+3698,Recliners,Poor Quality,25000,25000,1
+3699,Bookcases,Wrong Size,15000,30000,2
+3700,Bed Frames,Late Delivery,20000,40000,2
+3701,Desks,Wrong Size,12000,12000,1
+3702,Mattresses,Comfort Issues,12000,12000,1
+3703,Mattresses,Comfort Issues,12000,24000,2
+3704,Mattresses,Damage or Defect,12000,12000,1
+3705,Sofas and Couches,Assembly Issues,50000,50000,1
+3706,Dining Chairs,Wrong Size,5000,5000,1
+3707,Bed Frames,Change of Mind,20000,20000,1
+3708,Recliners,Poor Quality,25000,50000,2
+3709,Nightstands,Damage or Defect,6000,6000,1
+3710,Wardrobes,Wrong Size,35000,35000,1
+3711,Sofas and Couches,Damage or Defect,50000,100000,2
+3712,Dressers,Wrong Size,18000,36000,2
+3713,Recliners,Wrong Size,25000,25000,1
+3714,Coffee Tables,Damage or Defect,10000,10000,1
+3715,Wardrobes,Assembly Issues,35000,35000,1
+3716,Wardrobes,Comfort Issues,35000,70000,2
+3717,Sofas and Couches,Damage or Defect,50000,100000,2
+3718,Coffee Tables,Wrong Size,10000,20000,2
+3719,Dining Tables,Wrong Size,30000,60000,2
+3720,Mattresses,Damage or Defect,12000,24000,2
+3721,Mattresses,Damage or Defect,12000,12000,1
+3722,Dining Tables,Wrong Size,30000,60000,2
+3723,Nightstands,Damage or Defect,6000,6000,1
+3724,Dining Chairs,Late Delivery,5000,5000,1
+3725,Bed Frames,Wrong Size,20000,20000,1
+3726,Sofas and Couches,Wrong Size,50000,50000,1
+3727,TV Stands,Wrong Size,10000,20000,2
+3728,Bed Frames,Wrong Size,20000,20000,1
+3729,Wardrobes,Damage or Defect,35000,70000,2
+3730,Recliners,Comfort Issues,25000,25000,1
+3731,Dining Chairs,Damage or Defect,5000,10000,2
+3732,Coffee Tables,Damage or Defect,10000,10000,1
+3733,Dressers,Damage or Defect,18000,36000,2
+3734,Dining Tables,Poor Quality,30000,30000,1
+3735,Coffee Tables,Poor Quality,10000,10000,1
+3736,Wardrobes,Wrong Size,35000,70000,2
+3737,Dining Tables,Wrong Size,30000,30000,1
+3738,Recliners,Wrong Size,25000,50000,2
+3739,Dining Chairs,Wrong Size,5000,10000,2
+3740,Dining Chairs,Comfort Issues,5000,5000,1
+3741,Office Chairs,Wrong Size,8000,16000,2
+3742,Coffee Tables,Poor Quality,10000,20000,2
+3743,Recliners,Change of Mind,25000,50000,2
+3744,Dining Tables,Poor Quality,30000,60000,2
+3745,Recliners,Poor Quality,25000,25000,1
+3746,Bookcases,Damage or Defect,15000,30000,2
+3747,Coffee Tables,Color/Style Mismatch,10000,20000,2
+3748,Mattresses,Damage or Defect,12000,12000,1
+3749,Dining Chairs,Poor Quality,5000,10000,2
+3750,Coffee Tables,Late Delivery,10000,20000,2
+3751,Dining Chairs,Wrong Size,5000,5000,1
+3752,Dining Tables,Damage or Defect,30000,30000,1
+3753,Recliners,Damage or Defect,25000,25000,1
+3754,Wardrobes,Damage or Defect,35000,35000,1
+3755,Bookcases,Damage or Defect,15000,15000,1
+3756,Bookcases,Damage or Defect,15000,15000,1
+3757,Dressers,Damage or Defect,18000,18000,1
+3758,Mattresses,Poor Quality,12000,24000,2
+3759,Recliners,Comfort Issues,25000,50000,2
+3760,Dining Tables,Damage or Defect,30000,60000,2
+3761,Dressers,Wrong Size,18000,18000,1
+3762,Sofas and Couches,Damage or Defect,50000,50000,1
+3763,Sofas and Couches,Comfort Issues,50000,100000,2
+3764,Dining Chairs,Assembly Issues,5000,5000,1
+3765,Wardrobes,Wrong Size,35000,35000,1
+3766,Dining Tables,Wrong Size,30000,30000,1
+3767,Sofas and Couches,Damage or Defect,50000,50000,1
+3768,Nightstands,Damage or Defect,6000,12000,2
+3769,Sofas and Couches,Damage or Defect,50000,50000,1
+3770,Bed Frames,Comfort Issues,20000,20000,1
+3771,Nightstands,Damage or Defect,6000,12000,2
+3772,Sofas and Couches,Comfort Issues,50000,100000,2
+3773,Dining Chairs,Wrong Size,5000,5000,1
+3774,Nightstands,Damage or Defect,6000,12000,2
+3775,Wardrobes,Damage or Defect,35000,70000,2
+3776,Dining Tables,Damage or Defect,30000,60000,2
+3777,Coffee Tables,Damage or Defect,10000,20000,2
+3778,Dressers,Assembly Issues,18000,36000,2
+3779,Bed Frames,Late Delivery,20000,20000,1
+3780,Recliners,Assembly Issues,25000,50000,2
+3781,Dining Tables,Wrong Size,30000,30000,1
+3782,Sofas and Couches,Wrong Size,50000,50000,1
+3783,TV Stands,Change of Mind,10000,10000,1
+3784,Recliners,Color/Style Mismatch,25000,50000,2
+3785,Coffee Tables,Damage or Defect,10000,20000,2
+3786,Sofas and Couches,Damage or Defect,50000,100000,2
+3787,Recliners,Comfort Issues,25000,50000,2
+3788,Bed Frames,Damage or Defect,20000,40000,2
+3789,Dressers,Wrong Size,18000,18000,1
+3790,Wardrobes,Wrong Size,35000,35000,1
+3791,Office Chairs,Wrong Size,8000,8000,1
+3792,Recliners,Damage or Defect,25000,25000,1
+3793,Dining Chairs,Poor Quality,5000,10000,2
+3794,Coffee Tables,Assembly Issues,10000,10000,1
+3795,Recliners,Comfort Issues,25000,25000,1
+3796,Dining Tables,Damage or Defect,30000,30000,1
+3797,Dressers,Wrong Size,18000,18000,1
+3798,Coffee Tables,Poor Quality,10000,20000,2
+3799,Bookcases,Damage or Defect,15000,30000,2
+3800,Dressers,Wrong Size,18000,18000,1
+3801,Dressers,Damage or Defect,18000,18000,1
+3802,Desks,Comfort Issues,12000,12000,1
+3803,Dining Chairs,Comfort Issues,5000,5000,1
+3804,Coffee Tables,Damage or Defect,10000,10000,1
+3805,Bookcases,Damage or Defect,15000,15000,1
+3806,Recliners,Late Delivery,25000,50000,2
+3807,Desks,Damage or Defect,12000,24000,2
+3808,Recliners,Comfort Issues,25000,25000,1
+3809,Sofas and Couches,Assembly Issues,50000,100000,2
+3810,Sofas and Couches,Wrong Size,50000,50000,1
+3811,Dining Tables,Wrong Size,30000,30000,1
+3812,Bookcases,Damage or Defect,15000,15000,1
+3813,Ottomans,Poor Quality,8000,16000,2
+3814,Bed Frames,Comfort Issues,20000,40000,2
+3815,Bed Frames,Assembly Issues,20000,40000,2
+3816,Recliners,Color/Style Mismatch,25000,25000,1
+3817,Sofas and Couches,Damage or Defect,50000,100000,2
+3818,Coffee Tables,Assembly Issues,10000,20000,2
+3819,Coffee Tables,Assembly Issues,10000,10000,1
+3820,Wardrobes,Wrong Size,35000,35000,1
+3821,Recliners,Assembly Issues,25000,50000,2
+3822,Mattresses,Poor Quality,12000,12000,1
+3823,Recliners,Late Delivery,25000,25000,1
+3824,Bookcases,Wrong Size,15000,30000,2
+3825,Wardrobes,Wrong Size,35000,70000,2
+3826,Coffee Tables,Damage or Defect,10000,10000,1
+3827,Desks,Wrong Size,12000,24000,2
+3828,Coffee Tables,Assembly Issues,10000,20000,2
+3829,Office Chairs,Wrong Size,8000,8000,1
+3830,Recliners,Damage or Defect,25000,50000,2
+3831,Dining Chairs,Color/Style Mismatch,5000,5000,1
+3832,Coffee Tables,Damage or Defect,10000,10000,1
+3833,Recliners,Wrong Size,25000,25000,1
+3834,Bed Frames,Damage or Defect,20000,40000,2
+3835,Bed Frames,Comfort Issues,20000,20000,1
+3836,Bookcases,Poor Quality,15000,15000,1
+3837,Mattresses,Damage or Defect,12000,12000,1
+3838,Bookcases,Damage or Defect,15000,15000,1
+3839,Coffee Tables,Damage or Defect,10000,10000,1
+3840,Office Chairs,Poor Quality,8000,8000,1
+3841,Recliners,Wrong Size,25000,25000,1
+3842,Mattresses,Poor Quality,12000,12000,1
+3843,Dining Tables,Color/Style Mismatch,30000,30000,1
+3844,Wardrobes,Wrong Size,35000,35000,1
+3845,Coffee Tables,Color/Style Mismatch,10000,10000,1
+3846,Dining Tables,Poor Quality,30000,60000,2
+3847,Dressers,Wrong Size,18000,18000,1
+3848,Coffee Tables,Damage or Defect,10000,10000,1
+3849,Coffee Tables,Wrong Size,10000,20000,2
+3850,Recliners,Damage or Defect,25000,25000,1
+3851,Coffee Tables,Late Delivery,10000,10000,1
+3852,Recliners,Wrong Size,25000,25000,1
+3853,Bed Frames,Damage or Defect,20000,40000,2
+3854,Coffee Tables,Late Delivery,10000,10000,1
+3855,Recliners,Color/Style Mismatch,25000,25000,1
+3856,Coffee Tables,Damage or Defect,10000,10000,1
+3857,Wardrobes,Damage or Defect,35000,70000,2
+3858,Sofas and Couches,Wrong Size,50000,100000,2
+3859,Sofas and Couches,Change of Mind,50000,100000,2
+3860,Recliners,Wrong Size,25000,25000,1
+3861,Bed Frames,Damage or Defect,20000,20000,1
+3862,Dining Chairs,Damage or Defect,5000,10000,2
+3863,Wardrobes,Wrong Size,35000,70000,2
+3864,TV Stands,Color/Style Mismatch,10000,20000,2
+3865,Dressers,Late Delivery,18000,36000,2
+3866,Sofas and Couches,Assembly Issues,50000,50000,1
+3867,Sofas and Couches,Wrong Size,50000,50000,1
+3868,Sofas and Couches,Wrong Size,50000,50000,1
+3869,Recliners,Wrong Size,25000,50000,2
+3870,Desks,Wrong Size,12000,24000,2
+3871,Dining Chairs,Poor Quality,5000,10000,2
+3872,Dining Chairs,Damage or Defect,5000,10000,2
+3873,Dining Tables,Color/Style Mismatch,30000,60000,2
+3874,Dining Tables,Wrong Size,30000,60000,2
+3875,Dining Chairs,Wrong Size,5000,5000,1
+3876,Coffee Tables,Damage or Defect,10000,10000,1
+3877,Bookcases,Comfort Issues,15000,30000,2
+3878,Wardrobes,Wrong Size,35000,70000,2
+3879,Dining Tables,Poor Quality,30000,60000,2
+3880,Mattresses,Change of Mind,12000,24000,2
+3881,Recliners,Damage or Defect,25000,50000,2
+3882,Dressers,Damage or Defect,18000,18000,1
+3883,Sofas and Couches,Damage or Defect,50000,50000,1
+3884,Nightstands,Damage or Defect,6000,12000,2
+3885,Mattresses,Wrong Size,12000,24000,2
+3886,Bed Frames,Assembly Issues,20000,40000,2
+3887,Desks,Comfort Issues,12000,12000,1
+3888,Bed Frames,Damage or Defect,20000,40000,2
+3889,Bed Frames,Damage or Defect,20000,40000,2
+3890,Sofas and Couches,Change of Mind,50000,100000,2
+3891,Nightstands,Assembly Issues,6000,6000,1
+3892,TV Stands,Change of Mind,10000,10000,1
+3893,Mattresses,Damage or Defect,12000,24000,2
+3894,Mattresses,Damage or Defect,12000,24000,2
+3895,Mattresses,Assembly Issues,12000,12000,1
+3896,Dining Tables,Assembly Issues,30000,30000,1
+3897,Coffee Tables,Damage or Defect,10000,20000,2
+3898,Dining Chairs,Color/Style Mismatch,5000,10000,2
+3899,Dressers,Wrong Size,18000,18000,1
+3900,Wardrobes,Comfort Issues,35000,35000,1
+3901,Dressers,Comfort Issues,18000,36000,2
+3902,Recliners,Damage or Defect,25000,50000,2
+3903,Wardrobes,Damage or Defect,35000,35000,1
+3904,Sofas and Couches,Damage or Defect,50000,100000,2
+3905,Wardrobes,Wrong Size,35000,35000,1
+3906,Coffee Tables,Damage or Defect,10000,20000,2
+3907,Dressers,Poor Quality,18000,18000,1
+3908,Bed Frames,Damage or Defect,20000,40000,2
+3909,Dressers,Wrong Size,18000,36000,2
+3910,Coffee Tables,Assembly Issues,10000,10000,1
+3911,Coffee Tables,Comfort Issues,10000,20000,2
+3912,Coffee Tables,Damage or Defect,10000,10000,1
+3913,Wardrobes,Damage or Defect,35000,70000,2
+3914,Dining Tables,Wrong Size,30000,30000,1
+3915,Bed Frames,Damage or Defect,20000,40000,2
+3916,Recliners,Comfort Issues,25000,50000,2
+3917,Recliners,Assembly Issues,25000,50000,2
+3918,Dining Chairs,Wrong Size,5000,5000,1
+3919,Wardrobes,Wrong Size,35000,35000,1
+3920,Sofas and Couches,Wrong Size,50000,50000,1
+3921,Dining Tables,Poor Quality,30000,60000,2
+3922,Sofas and Couches,Late Delivery,50000,50000,1
+3923,Recliners,Wrong Size,25000,50000,2
+3924,Coffee Tables,Damage or Defect,10000,20000,2
+3925,Coffee Tables,Damage or Defect,10000,20000,2
+3926,Recliners,Damage or Defect,25000,25000,1
+3927,Coffee Tables,Poor Quality,10000,20000,2
+3928,Dining Chairs,Comfort Issues,5000,10000,2
+3929,Recliners,Poor Quality,25000,50000,2
+3930,Sofas and Couches,Assembly Issues,50000,100000,2
+3931,Recliners,Wrong Size,25000,25000,1
+3932,Coffee Tables,Wrong Size,10000,20000,2
+3933,Dressers,Wrong Size,18000,36000,2
+3934,Bookcases,Color/Style Mismatch,15000,15000,1
+3935,Bed Frames,Wrong Size,20000,40000,2
+3936,Sofas and Couches,Damage or Defect,50000,50000,1
+3937,Dining Chairs,Late Delivery,5000,10000,2
+3938,Sofas and Couches,Comfort Issues,50000,50000,1
+3939,Dining Tables,Poor Quality,30000,30000,1
+3940,Mattresses,Color/Style Mismatch,12000,24000,2
+3941,Recliners,Damage or Defect,25000,50000,2
+3942,Sofas and Couches,Wrong Size,50000,100000,2
+3943,Coffee Tables,Damage or Defect,10000,10000,1
+3944,Mattresses,Wrong Size,12000,24000,2
+3945,Bed Frames,Comfort Issues,20000,40000,2
+3946,Coffee Tables,Late Delivery,10000,20000,2
+3947,Recliners,Wrong Size,25000,50000,2
+3948,Recliners,Damage or Defect,25000,25000,1
+3949,Coffee Tables,Assembly Issues,10000,10000,1
+3950,Office Chairs,Wrong Size,8000,8000,1
+3951,Wardrobes,Color/Style Mismatch,35000,35000,1
+3952,TV Stands,Comfort Issues,10000,10000,1
+3953,Dining Tables,Comfort Issues,30000,30000,1
+3954,Bed Frames,Damage or Defect,20000,40000,2
+3955,Bookcases,Damage or Defect,15000,30000,2
+3956,Bed Frames,Assembly Issues,20000,40000,2
+3957,Sofas and Couches,Poor Quality,50000,100000,2
+3958,TV Stands,Damage or Defect,10000,10000,1
+3959,Sofas and Couches,Comfort Issues,50000,50000,1
+3960,Coffee Tables,Assembly Issues,10000,10000,1
+3961,Desks,Comfort Issues,12000,12000,1
+3962,Dining Tables,Change of Mind,30000,60000,2
+3963,Sofas and Couches,Wrong Size,50000,50000,1
+3964,Dressers,Damage or Defect,18000,18000,1
+3965,Dining Chairs,Assembly Issues,5000,10000,2
+3966,Dining Chairs,Comfort Issues,5000,5000,1
+3967,Coffee Tables,Comfort Issues,10000,20000,2
+3968,Dining Tables,Damage or Defect,30000,60000,2
+3969,Dining Chairs,Wrong Size,5000,10000,2
+3970,Nightstands,Assembly Issues,6000,6000,1
+3971,Dressers,Wrong Size,18000,36000,2
+3972,Dining Tables,Late Delivery,30000,30000,1
+3973,Dining Chairs,Comfort Issues,5000,10000,2
+3974,Nightstands,Poor Quality,6000,12000,2
+3975,Dressers,Color/Style Mismatch,18000,36000,2
+3976,Dining Tables,Damage or Defect,30000,60000,2
+3977,Dining Tables,Comfort Issues,30000,60000,2
+3978,Bed Frames,Comfort Issues,20000,40000,2
+3979,Wardrobes,Damage or Defect,35000,70000,2
+3980,Recliners,Comfort Issues,25000,50000,2
+3981,Mattresses,Poor Quality,12000,12000,1
+3982,Recliners,Comfort Issues,25000,50000,2
+3983,Nightstands,Poor Quality,6000,6000,1
+3984,Dining Tables,Damage or Defect,30000,60000,2
+3985,Sofas and Couches,Wrong Size,50000,100000,2
+3986,Coffee Tables,Color/Style Mismatch,10000,10000,1
+3987,Dining Chairs,Wrong Size,5000,5000,1
+3988,Sofas and Couches,Poor Quality,50000,50000,1
+3989,Recliners,Damage or Defect,25000,25000,1
+3990,Bed Frames,Poor Quality,20000,20000,1
+3991,Dining Tables,Damage or Defect,30000,60000,2
+3992,Sofas and Couches,Damage or Defect,50000,100000,2
+3993,Nightstands,Poor Quality,6000,12000,2
+3994,Dining Tables,Damage or Defect,30000,30000,1
+3995,Recliners,Assembly Issues,25000,50000,2
+3996,Recliners,Wrong Size,25000,25000,1
+3997,Dining Tables,Damage or Defect,30000,30000,1
+3998,Desks,Late Delivery,12000,24000,2
+3999,Nightstands,Damage or Defect,6000,12000,2
+4000,Nightstands,Assembly Issues,6000,12000,2
+4001,Coffee Tables,Wrong Size,10000,10000,1
+4002,Desks,Damage or Defect,12000,12000,1
+4003,Bed Frames,Comfort Issues,20000,40000,2
+4004,Bookcases,Wrong Size,15000,15000,1
+4005,Coffee Tables,Wrong Size,10000,10000,1
+4006,Bookcases,Damage or Defect,15000,30000,2
+4007,Ottomans,Damage or Defect,8000,16000,2
+4008,Nightstands,Change of Mind,6000,6000,1
+4009,Mattresses,Wrong Size,12000,24000,2
+4010,Recliners,Color/Style Mismatch,25000,25000,1
+4011,Bookcases,Damage or Defect,15000,30000,2
+4012,Dining Tables,Assembly Issues,30000,30000,1
+4013,Dining Tables,Comfort Issues,30000,30000,1
+4014,Office Chairs,Wrong Size,8000,8000,1
+4015,Coffee Tables,Wrong Size,10000,20000,2
+4016,Dining Tables,Comfort Issues,30000,60000,2
+4017,Dining Tables,Color/Style Mismatch,30000,60000,2
+4018,Sofas and Couches,Damage or Defect,50000,50000,1
+4019,Mattresses,Damage or Defect,12000,24000,2
+4020,Bed Frames,Damage or Defect,20000,40000,2
+4021,Wardrobes,Wrong Size,35000,35000,1
+4022,Dressers,Assembly Issues,18000,36000,2
+4023,Sofas and Couches,Poor Quality,50000,100000,2
+4024,Wardrobes,Damage or Defect,35000,35000,1
+4025,Bed Frames,Wrong Size,20000,40000,2
+4026,Mattresses,Poor Quality,12000,24000,2
+4027,Wardrobes,Damage or Defect,35000,35000,1
+4028,Coffee Tables,Color/Style Mismatch,10000,20000,2
+4029,Bed Frames,Late Delivery,20000,20000,1
+4030,Bed Frames,Damage or Defect,20000,40000,2
+4031,Bookcases,Damage or Defect,15000,15000,1
+4032,Recliners,Damage or Defect,25000,25000,1
+4033,Recliners,Poor Quality,25000,25000,1
+4034,Nightstands,Poor Quality,6000,12000,2
+4035,Bookcases,Late Delivery,15000,15000,1
+4036,Sofas and Couches,Wrong Size,50000,100000,2
+4037,Dressers,Damage or Defect,18000,18000,1
+4038,Coffee Tables,Assembly Issues,10000,10000,1
+4039,Office Chairs,Damage or Defect,8000,8000,1
+4040,Recliners,Damage or Defect,25000,25000,1
+4041,Mattresses,Color/Style Mismatch,12000,12000,1
+4042,Coffee Tables,Change of Mind,10000,10000,1
+4043,Wardrobes,Wrong Size,35000,35000,1
+4044,Sofas and Couches,Assembly Issues,50000,100000,2
+4045,Bookcases,Comfort Issues,15000,15000,1
+4046,Dressers,Wrong Size,18000,18000,1
+4047,Dining Chairs,Change of Mind,5000,10000,2
+4048,Recliners,Damage or Defect,25000,50000,2
+4049,Bookcases,Color/Style Mismatch,15000,30000,2
+4050,TV Stands,Damage or Defect,10000,20000,2
+4051,Wardrobes,Wrong Size,35000,70000,2
+4052,Dining Chairs,Change of Mind,5000,5000,1
+4053,Coffee Tables,Damage or Defect,10000,20000,2
+4054,Sofas and Couches,Damage or Defect,50000,100000,2
+4055,Bookcases,Damage or Defect,15000,15000,1
+4056,Recliners,Damage or Defect,25000,25000,1
+4057,Sofas and Couches,Late Delivery,50000,100000,2
+4058,Recliners,Wrong Size,25000,50000,2
+4059,Dining Chairs,Wrong Size,5000,10000,2
+4060,Sofas and Couches,Damage or Defect,50000,50000,1
+4061,Office Chairs,Damage or Defect,8000,16000,2
+4062,Mattresses,Change of Mind,12000,24000,2
+4063,Recliners,Wrong Size,25000,25000,1
+4064,Dressers,Change of Mind,18000,18000,1
+4065,Dressers,Color/Style Mismatch,18000,36000,2
+4066,Dining Tables,Wrong Size,30000,30000,1
+4067,Sofas and Couches,Color/Style Mismatch,50000,100000,2
+4068,Dining Chairs,Damage or Defect,5000,10000,2
+4069,Mattresses,Color/Style Mismatch,12000,24000,2
+4070,Recliners,Damage or Defect,25000,25000,1
+4071,Mattresses,Comfort Issues,12000,12000,1
+4072,Recliners,Assembly Issues,25000,25000,1
+4073,Wardrobes,Late Delivery,35000,35000,1
+4074,Dressers,Wrong Size,18000,36000,2
+4075,Desks,Comfort Issues,12000,12000,1
+4076,Dressers,Damage or Defect,18000,36000,2
+4077,Recliners,Damage or Defect,25000,50000,2
+4078,Nightstands,Wrong Size,6000,12000,2
+4079,Wardrobes,Damage or Defect,35000,70000,2
+4080,Coffee Tables,Damage or Defect,10000,10000,1
+4081,Dining Tables,Assembly Issues,30000,60000,2
+4082,Wardrobes,Comfort Issues,35000,70000,2
+4083,Mattresses,Wrong Size,12000,24000,2
+4084,Coffee Tables,Comfort Issues,10000,10000,1
+4085,Sofas and Couches,Wrong Size,50000,50000,1
+4086,Bed Frames,Assembly Issues,20000,20000,1
+4087,Bed Frames,Late Delivery,20000,20000,1
+4088,Dining Tables,Assembly Issues,30000,30000,1
+4089,Sofas and Couches,Wrong Size,50000,100000,2
+4090,Mattresses,Wrong Size,12000,12000,1
+4091,Nightstands,Assembly Issues,6000,12000,2
+4092,Mattresses,Poor Quality,12000,12000,1
+4093,Sofas and Couches,Poor Quality,50000,100000,2
+4094,Wardrobes,Wrong Size,35000,35000,1
+4095,Wardrobes,Color/Style Mismatch,35000,35000,1
+4096,Mattresses,Change of Mind,12000,24000,2
+4097,Sofas and Couches,Wrong Size,50000,50000,1
+4098,Recliners,Wrong Size,25000,50000,2
+4099,Coffee Tables,Damage or Defect,10000,20000,2
+4100,Dining Tables,Wrong Size,30000,60000,2
+4101,Dining Tables,Late Delivery,30000,60000,2
+4102,Nightstands,Damage or Defect,6000,6000,1
+4103,Recliners,Damage or Defect,25000,25000,1
+4104,Wardrobes,Change of Mind,35000,35000,1
+4105,Bed Frames,Damage or Defect,20000,20000,1
+4106,Dressers,Damage or Defect,18000,18000,1
+4107,Bookcases,Damage or Defect,15000,30000,2
+4108,Mattresses,Wrong Size,12000,24000,2
+4109,Bed Frames,Comfort Issues,20000,20000,1
+4110,Bed Frames,Wrong Size,20000,40000,2
+4111,Recliners,Comfort Issues,25000,25000,1
+4112,Mattresses,Damage or Defect,12000,24000,2
+4113,Recliners,Wrong Size,25000,25000,1
+4114,Dressers,Color/Style Mismatch,18000,18000,1
+4115,Dining Tables,Comfort Issues,30000,30000,1
+4116,Bed Frames,Wrong Size,20000,20000,1
+4117,Dressers,Color/Style Mismatch,18000,36000,2
+4118,Wardrobes,Change of Mind,35000,70000,2
+4119,Bed Frames,Color/Style Mismatch,20000,20000,1
+4120,Dining Chairs,Wrong Size,5000,10000,2
+4121,Recliners,Damage or Defect,25000,50000,2
+4122,TV Stands,Damage or Defect,10000,20000,2
+4123,Sofas and Couches,Comfort Issues,50000,100000,2
+4124,Wardrobes,Poor Quality,35000,35000,1
+4125,Desks,Wrong Size,12000,24000,2
+4126,Dining Tables,Poor Quality,30000,30000,1
+4127,Dining Chairs,Wrong Size,5000,5000,1
+4128,Wardrobes,Late Delivery,35000,70000,2
+4129,Mattresses,Damage or Defect,12000,24000,2
+4130,Bed Frames,Wrong Size,20000,40000,2
+4131,Coffee Tables,Color/Style Mismatch,10000,10000,1
+4132,Coffee Tables,Assembly Issues,10000,10000,1
+4133,Nightstands,Damage or Defect,6000,6000,1
+4134,Recliners,Wrong Size,25000,25000,1
+4135,Dining Tables,Damage or Defect,30000,30000,1
+4136,Bookcases,Wrong Size,15000,30000,2
+4137,Dining Tables,Poor Quality,30000,60000,2
+4138,Coffee Tables,Wrong Size,10000,20000,2
+4139,Bookcases,Wrong Size,15000,15000,1
+4140,Bed Frames,Wrong Size,20000,40000,2
+4141,Dining Tables,Damage or Defect,30000,60000,2
+4142,Desks,Wrong Size,12000,12000,1
+4143,TV Stands,Wrong Size,10000,10000,1
+4144,Sofas and Couches,Damage or Defect,50000,100000,2
+4145,Recliners,Damage or Defect,25000,25000,1
+4146,Desks,Color/Style Mismatch,12000,12000,1
+4147,Bookcases,Late Delivery,15000,15000,1
+4148,Dining Chairs,Wrong Size,5000,10000,2
+4149,Sofas and Couches,Damage or Defect,50000,100000,2
+4150,Desks,Damage or Defect,12000,24000,2
+4151,Dining Tables,Late Delivery,30000,60000,2
+4152,Mattresses,Comfort Issues,12000,24000,2
+4153,Nightstands,Assembly Issues,6000,12000,2
+4154,Recliners,Comfort Issues,25000,50000,2
+4155,Coffee Tables,Damage or Defect,10000,20000,2
+4156,Sofas and Couches,Damage or Defect,50000,100000,2
+4157,Sofas and Couches,Damage or Defect,50000,100000,2
+4158,Coffee Tables,Wrong Size,10000,10000,1
+4159,Dressers,Damage or Defect,18000,18000,1
+4160,Desks,Assembly Issues,12000,12000,1
+4161,Mattresses,Wrong Size,12000,24000,2
+4162,Dining Chairs,Damage or Defect,5000,5000,1
+4163,Dressers,Late Delivery,18000,18000,1
+4164,Sofas and Couches,Color/Style Mismatch,50000,100000,2
+4165,Mattresses,Damage or Defect,12000,12000,1
+4166,Dressers,Late Delivery,18000,36000,2
+4167,Nightstands,Assembly Issues,6000,12000,2
+4168,Sofas and Couches,Assembly Issues,50000,50000,1
+4169,Nightstands,Damage or Defect,6000,6000,1
+4170,Sofas and Couches,Comfort Issues,50000,50000,1
+4171,Bed Frames,Assembly Issues,20000,20000,1
+4172,Bookcases,Damage or Defect,15000,15000,1
+4173,Mattresses,Damage or Defect,12000,12000,1
+4174,Desks,Damage or Defect,12000,12000,1
+4175,Dining Tables,Damage or Defect,30000,30000,1
+4176,Desks,Damage or Defect,12000,24000,2
+4177,TV Stands,Assembly Issues,10000,10000,1
+4178,Dining Tables,Wrong Size,30000,30000,1
+4179,Bookcases,Comfort Issues,15000,30000,2
+4180,Coffee Tables,Damage or Defect,10000,20000,2
+4181,Recliners,Color/Style Mismatch,25000,50000,2
+4182,Dressers,Color/Style Mismatch,18000,18000,1
+4183,Mattresses,Change of Mind,12000,12000,1
+4184,Wardrobes,Comfort Issues,35000,35000,1
+4185,Dining Tables,Damage or Defect,30000,60000,2
+4186,Sofas and Couches,Wrong Size,50000,100000,2
+4187,Coffee Tables,Damage or Defect,10000,10000,1
+4188,Bookcases,Assembly Issues,15000,15000,1
+4189,Office Chairs,Wrong Size,8000,16000,2
+4190,Office Chairs,Damage or Defect,8000,8000,1
+4191,Coffee Tables,Wrong Size,10000,20000,2
+4192,Sofas and Couches,Wrong Size,50000,100000,2
+4193,Recliners,Wrong Size,25000,50000,2
+4194,Dining Tables,Change of Mind,30000,60000,2
+4195,Dressers,Poor Quality,18000,36000,2
+4196,Dining Chairs,Wrong Size,5000,5000,1
+4197,Recliners,Late Delivery,25000,25000,1
+4198,Bed Frames,Wrong Size,20000,20000,1
+4199,Recliners,Wrong Size,25000,25000,1
+4200,Dining Tables,Damage or Defect,30000,60000,2
+4201,Sofas and Couches,Color/Style Mismatch,50000,100000,2
+4202,TV Stands,Color/Style Mismatch,10000,10000,1
+4203,Dining Tables,Poor Quality,30000,60000,2
+4204,Bookcases,Comfort Issues,15000,15000,1
+4205,Dining Tables,Wrong Size,30000,30000,1
+4206,Recliners,Damage or Defect,25000,25000,1
+4207,Coffee Tables,Wrong Size,10000,10000,1
+4208,Coffee Tables,Comfort Issues,10000,10000,1
+4209,Sofas and Couches,Damage or Defect,50000,100000,2
+4210,Mattresses,Wrong Size,12000,24000,2
+4211,Recliners,Color/Style Mismatch,25000,25000,1
+4212,Recliners,Damage or Defect,25000,25000,1
+4213,Bed Frames,Wrong Size,20000,40000,2
+4214,Mattresses,Damage or Defect,12000,12000,1
+4215,Desks,Damage or Defect,12000,24000,2
+4216,Mattresses,Wrong Size,12000,24000,2
+4217,Sofas and Couches,Wrong Size,50000,100000,2
+4218,Dining Chairs,Wrong Size,5000,10000,2
+4219,Coffee Tables,Change of Mind,10000,20000,2
+4220,Coffee Tables,Poor Quality,10000,20000,2
+4221,Coffee Tables,Color/Style Mismatch,10000,20000,2
+4222,Sofas and Couches,Wrong Size,50000,50000,1
+4223,Dining Chairs,Assembly Issues,5000,10000,2
+4224,Dining Chairs,Damage or Defect,5000,10000,2
+4225,Recliners,Assembly Issues,25000,50000,2
+4226,Dressers,Late Delivery,18000,18000,1
+4227,Dining Chairs,Wrong Size,5000,10000,2
+4228,Office Chairs,Color/Style Mismatch,8000,16000,2
+4229,Wardrobes,Assembly Issues,35000,35000,1
+4230,Nightstands,Assembly Issues,6000,12000,2
+4231,Bed Frames,Color/Style Mismatch,20000,40000,2
+4232,Dining Chairs,Wrong Size,5000,10000,2
+4233,Bookcases,Damage or Defect,15000,30000,2
+4234,Sofas and Couches,Wrong Size,50000,100000,2
+4235,TV Stands,Wrong Size,10000,10000,1
+4236,Sofas and Couches,Comfort Issues,50000,100000,2
+4237,Wardrobes,Wrong Size,35000,35000,1
+4238,Coffee Tables,Late Delivery,10000,10000,1
+4239,Recliners,Late Delivery,25000,25000,1
+4240,Bookcases,Color/Style Mismatch,15000,15000,1
+4241,Sofas and Couches,Damage or Defect,50000,100000,2
+4242,Recliners,Color/Style Mismatch,25000,50000,2
+4243,Coffee Tables,Wrong Size,10000,20000,2
+4244,Mattresses,Wrong Size,12000,24000,2
+4245,Dining Tables,Wrong Size,30000,30000,1
+4246,Coffee Tables,Wrong Size,10000,20000,2
+4247,Dining Tables,Comfort Issues,30000,60000,2
+4248,Bookcases,Color/Style Mismatch,15000,15000,1
+4249,Recliners,Damage or Defect,25000,25000,1
+4250,Dining Chairs,Comfort Issues,5000,10000,2
+4251,Sofas and Couches,Damage or Defect,50000,50000,1
+4252,Dining Chairs,Wrong Size,5000,10000,2
+4253,Coffee Tables,Comfort Issues,10000,10000,1
+4254,Wardrobes,Wrong Size,35000,70000,2
+4255,Coffee Tables,Late Delivery,10000,10000,1
+4256,Desks,Assembly Issues,12000,24000,2
+4257,Desks,Damage or Defect,12000,12000,1
+4258,Recliners,Wrong Size,25000,50000,2
+4259,Wardrobes,Wrong Size,35000,35000,1
+4260,Dining Tables,Wrong Size,30000,60000,2
+4261,Wardrobes,Comfort Issues,35000,35000,1
+4262,Wardrobes,Damage or Defect,35000,35000,1
+4263,Bed Frames,Assembly Issues,20000,40000,2
+4264,Coffee Tables,Damage or Defect,10000,20000,2
+4265,Office Chairs,Wrong Size,8000,8000,1
+4266,Bed Frames,Change of Mind,20000,40000,2
+4267,Recliners,Wrong Size,25000,50000,2
+4268,Bed Frames,Comfort Issues,20000,20000,1
+4269,Dining Tables,Wrong Size,30000,30000,1
+4270,Recliners,Damage or Defect,25000,25000,1
+4271,Sofas and Couches,Wrong Size,50000,50000,1
+4272,Recliners,Wrong Size,25000,25000,1
+4273,Recliners,Wrong Size,25000,25000,1
+4274,Nightstands,Wrong Size,6000,6000,1
+4275,Dining Chairs,Assembly Issues,5000,5000,1
+4276,Dining Tables,Comfort Issues,30000,30000,1
+4277,Mattresses,Color/Style Mismatch,12000,24000,2
+4278,Sofas and Couches,Wrong Size,50000,50000,1
+4279,Nightstands,Late Delivery,6000,12000,2
+4280,Dining Chairs,Damage or Defect,5000,10000,2
+4281,Dining Tables,Damage or Defect,30000,60000,2
+4282,Mattresses,Comfort Issues,12000,24000,2
+4283,Sofas and Couches,Wrong Size,50000,100000,2
+4284,Dressers,Wrong Size,18000,18000,1
+4285,Mattresses,Assembly Issues,12000,24000,2
+4286,Coffee Tables,Color/Style Mismatch,10000,20000,2
+4287,Coffee Tables,Poor Quality,10000,10000,1
+4288,Sofas and Couches,Wrong Size,50000,50000,1
+4289,Sofas and Couches,Damage or Defect,50000,100000,2
+4290,Recliners,Damage or Defect,25000,25000,1
+4291,Sofas and Couches,Comfort Issues,50000,50000,1
+4292,Mattresses,Damage or Defect,12000,24000,2
+4293,Dining Chairs,Poor Quality,5000,5000,1
+4294,Dining Tables,Damage or Defect,30000,60000,2
+4295,Desks,Late Delivery,12000,12000,1
+4296,Sofas and Couches,Wrong Size,50000,50000,1
+4297,Dressers,Comfort Issues,18000,18000,1
+4298,Bed Frames,Damage or Defect,20000,40000,2
+4299,Dining Chairs,Poor Quality,5000,5000,1
+4300,Dining Chairs,Wrong Size,5000,10000,2
+4301,Nightstands,Wrong Size,6000,6000,1
+4302,Wardrobes,Poor Quality,35000,70000,2
+4303,TV Stands,Assembly Issues,10000,20000,2
+4304,Dining Tables,Wrong Size,30000,60000,2
+4305,Dressers,Damage or Defect,18000,36000,2
+4306,Dining Chairs,Damage or Defect,5000,5000,1
+4307,Sofas and Couches,Damage or Defect,50000,50000,1
+4308,Sofas and Couches,Damage or Defect,50000,50000,1
+4309,Sofas and Couches,Damage or Defect,50000,100000,2
+4310,Coffee Tables,Color/Style Mismatch,10000,20000,2
+4311,Bed Frames,Poor Quality,20000,40000,2
+4312,Bookcases,Assembly Issues,15000,15000,1
+4313,Coffee Tables,Damage or Defect,10000,10000,1
+4314,Recliners,Wrong Size,25000,25000,1
+4315,Mattresses,Damage or Defect,12000,24000,2
+4316,Sofas and Couches,Wrong Size,50000,50000,1
+4317,Sofas and Couches,Damage or Defect,50000,50000,1
+4318,Dining Chairs,Comfort Issues,5000,5000,1
+4319,Dining Tables,Wrong Size,30000,60000,2
+4320,Sofas and Couches,Comfort Issues,50000,100000,2
+4321,Bed Frames,Color/Style Mismatch,20000,20000,1
+4322,Dining Tables,Poor Quality,30000,30000,1
+4323,Dining Tables,Late Delivery,30000,30000,1
+4324,Bed Frames,Damage or Defect,20000,40000,2
+4325,Mattresses,Change of Mind,12000,24000,2
+4326,Bookcases,Damage or Defect,15000,15000,1
+4327,Mattresses,Poor Quality,12000,24000,2
+4328,Dining Chairs,Damage or Defect,5000,10000,2
+4329,Sofas and Couches,Wrong Size,50000,50000,1
+4330,Dining Chairs,Wrong Size,5000,10000,2
+4331,Coffee Tables,Damage or Defect,10000,20000,2
+4332,Dressers,Assembly Issues,18000,36000,2
+4333,Dining Chairs,Damage or Defect,5000,5000,1
+4334,Mattresses,Change of Mind,12000,24000,2
+4335,Mattresses,Damage or Defect,12000,12000,1
+4336,Dressers,Wrong Size,18000,18000,1
+4337,Mattresses,Poor Quality,12000,12000,1
+4338,Wardrobes,Comfort Issues,35000,35000,1
+4339,Wardrobes,Damage or Defect,35000,70000,2
+4340,Sofas and Couches,Wrong Size,50000,100000,2
+4341,Dining Chairs,Wrong Size,5000,5000,1
+4342,Sofas and Couches,Damage or Defect,50000,50000,1
+4343,Ottomans,Wrong Size,8000,8000,1
+4344,Recliners,Wrong Size,25000,50000,2
+4345,Dining Chairs,Wrong Size,5000,10000,2
+4346,Mattresses,Change of Mind,12000,12000,1
+4347,Dressers,Color/Style Mismatch,18000,36000,2
+4348,Dining Tables,Wrong Size,30000,60000,2
+4349,Nightstands,Damage or Defect,6000,6000,1
+4350,Dining Tables,Color/Style Mismatch,30000,30000,1
+4351,Dining Tables,Color/Style Mismatch,30000,30000,1
+4352,Dining Chairs,Wrong Size,5000,5000,1
+4353,Coffee Tables,Damage or Defect,10000,20000,2
+4354,Dining Chairs,Damage or Defect,5000,5000,1
+4355,Recliners,Color/Style Mismatch,25000,25000,1
+4356,Dining Tables,Wrong Size,30000,60000,2
+4357,Dressers,Late Delivery,18000,36000,2
+4358,Nightstands,Wrong Size,6000,6000,1
+4359,Dining Tables,Wrong Size,30000,30000,1
+4360,Bed Frames,Color/Style Mismatch,20000,20000,1
+4361,Coffee Tables,Damage or Defect,10000,20000,2
+4362,Coffee Tables,Wrong Size,10000,10000,1
+4363,Dining Tables,Damage or Defect,30000,60000,2
+4364,Bed Frames,Damage or Defect,20000,40000,2
+4365,Mattresses,Damage or Defect,12000,12000,1
+4366,Mattresses,Comfort Issues,12000,12000,1
+4367,Dressers,Damage or Defect,18000,36000,2
+4368,TV Stands,Damage or Defect,10000,20000,2
+4369,Bed Frames,Wrong Size,20000,20000,1
+4370,Coffee Tables,Assembly Issues,10000,20000,2
+4371,Coffee Tables,Damage or Defect,10000,10000,1
+4372,Office Chairs,Damage or Defect,8000,16000,2
+4373,Sofas and Couches,Wrong Size,50000,100000,2
+4374,Sofas and Couches,Wrong Size,50000,50000,1
+4375,Dining Tables,Damage or Defect,30000,60000,2
+4376,Dining Tables,Damage or Defect,30000,30000,1
+4377,Dining Chairs,Wrong Size,5000,10000,2
+4378,Dressers,Comfort Issues,18000,18000,1
+4379,Bed Frames,Damage or Defect,20000,20000,1
+4380,Bed Frames,Damage or Defect,20000,40000,2
+4381,Mattresses,Damage or Defect,12000,12000,1
+4382,Sofas and Couches,Wrong Size,50000,50000,1
+4383,Coffee Tables,Damage or Defect,10000,20000,2
+4384,Dining Chairs,Color/Style Mismatch,5000,5000,1
+4385,Recliners,Wrong Size,25000,25000,1
+4386,Recliners,Damage or Defect,25000,25000,1
+4387,Wardrobes,Poor Quality,35000,35000,1
+4388,Dining Tables,Damage or Defect,30000,60000,2
+4389,Wardrobes,Color/Style Mismatch,35000,35000,1
+4390,Recliners,Poor Quality,25000,25000,1
+4391,Bookcases,Wrong Size,15000,30000,2
+4392,Bed Frames,Damage or Defect,20000,20000,1
+4393,Dining Chairs,Change of Mind,5000,10000,2
+4394,Sofas and Couches,Wrong Size,50000,50000,1
+4395,Bed Frames,Damage or Defect,20000,20000,1
+4396,Mattresses,Damage or Defect,12000,12000,1
+4397,Dressers,Late Delivery,18000,36000,2
+4398,Sofas and Couches,Damage or Defect,50000,100000,2
+4399,Dining Tables,Assembly Issues,30000,30000,1
+4400,Coffee Tables,Damage or Defect,10000,10000,1
+4401,Desks,Damage or Defect,12000,12000,1
+4402,Dining Tables,Assembly Issues,30000,60000,2
+4403,Dining Tables,Wrong Size,30000,30000,1
+4404,Recliners,Comfort Issues,25000,50000,2
+4405,Bookcases,Wrong Size,15000,30000,2
+4406,Coffee Tables,Wrong Size,10000,10000,1
+4407,Sofas and Couches,Late Delivery,50000,100000,2
+4408,TV Stands,Damage or Defect,10000,10000,1
+4409,Dining Chairs,Wrong Size,5000,5000,1
+4410,Recliners,Damage or Defect,25000,50000,2
+4411,Dressers,Assembly Issues,18000,18000,1
+4412,Recliners,Color/Style Mismatch,25000,50000,2
+4413,Sofas and Couches,Poor Quality,50000,100000,2
+4414,Dining Tables,Damage or Defect,30000,30000,1
+4415,Recliners,Wrong Size,25000,50000,2
+4416,Sofas and Couches,Wrong Size,50000,100000,2
+4417,Recliners,Color/Style Mismatch,25000,25000,1
+4418,Sofas and Couches,Poor Quality,50000,100000,2
+4419,Bookcases,Damage or Defect,15000,30000,2
+4420,Wardrobes,Damage or Defect,35000,35000,1
+4421,Sofas and Couches,Damage or Defect,50000,50000,1
+4422,Nightstands,Wrong Size,6000,12000,2
+4423,Recliners,Wrong Size,25000,50000,2
+4424,Bed Frames,Damage or Defect,20000,20000,1
+4425,Desks,Poor Quality,12000,24000,2
+4426,Sofas and Couches,Comfort Issues,50000,100000,2
+4427,Nightstands,Damage or Defect,6000,6000,1
+4428,Dining Chairs,Assembly Issues,5000,5000,1
+4429,Mattresses,Damage or Defect,12000,12000,1
+4430,Dining Tables,Assembly Issues,30000,60000,2
+4431,Dressers,Damage or Defect,18000,18000,1
+4432,Recliners,Damage or Defect,25000,25000,1
+4433,Dressers,Wrong Size,18000,18000,1
+4434,Dining Tables,Damage or Defect,30000,60000,2
+4435,Recliners,Wrong Size,25000,50000,2
+4436,Coffee Tables,Color/Style Mismatch,10000,10000,1
+4437,Dressers,Wrong Size,18000,18000,1
+4438,Dining Chairs,Damage or Defect,5000,10000,2
+4439,Nightstands,Color/Style Mismatch,6000,12000,2
+4440,Dining Chairs,Color/Style Mismatch,5000,10000,2
+4441,Office Chairs,Comfort Issues,8000,8000,1
+4442,Bookcases,Wrong Size,15000,15000,1
+4443,Mattresses,Comfort Issues,12000,24000,2
+4444,Mattresses,Wrong Size,12000,12000,1
+4445,Coffee Tables,Wrong Size,10000,10000,1
+4446,Dining Chairs,Wrong Size,5000,10000,2
+4447,Dressers,Damage or Defect,18000,36000,2
+4448,Coffee Tables,Damage or Defect,10000,20000,2
+4449,Bookcases,Change of Mind,15000,15000,1
+4450,TV Stands,Wrong Size,10000,20000,2
+4451,Bookcases,Wrong Size,15000,30000,2
+4452,Bookcases,Wrong Size,15000,30000,2
+4453,Sofas and Couches,Damage or Defect,50000,100000,2
+4454,Coffee Tables,Wrong Size,10000,20000,2
+4455,Dining Tables,Comfort Issues,30000,30000,1
+4456,Recliners,Poor Quality,25000,25000,1
+4457,Mattresses,Wrong Size,12000,12000,1
+4458,Sofas and Couches,Poor Quality,50000,100000,2
+4459,Dining Tables,Damage or Defect,30000,30000,1
+4460,Recliners,Damage or Defect,25000,50000,2
+4461,Wardrobes,Late Delivery,35000,70000,2
+4462,Wardrobes,Wrong Size,35000,70000,2
+4463,Coffee Tables,Wrong Size,10000,20000,2
+4464,Recliners,Damage or Defect,25000,50000,2
+4465,Dining Tables,Wrong Size,30000,30000,1
+4466,Dressers,Assembly Issues,18000,36000,2
+4467,Dining Tables,Assembly Issues,30000,30000,1
+4468,Sofas and Couches,Damage or Defect,50000,100000,2
+4469,Desks,Assembly Issues,12000,24000,2
+4470,Mattresses,Assembly Issues,12000,12000,1
+4471,Dining Tables,Late Delivery,30000,60000,2
+4472,Mattresses,Color/Style Mismatch,12000,12000,1
+4473,Nightstands,Assembly Issues,6000,6000,1
+4474,Sofas and Couches,Change of Mind,50000,100000,2
+4475,Wardrobes,Wrong Size,35000,35000,1
+4476,Sofas and Couches,Comfort Issues,50000,100000,2
+4477,Coffee Tables,Wrong Size,10000,20000,2
+4478,Bed Frames,Poor Quality,20000,40000,2
+4479,Dressers,Wrong Size,18000,18000,1
+4480,Dining Tables,Damage or Defect,30000,30000,1
+4481,Desks,Comfort Issues,12000,24000,2
+4482,TV Stands,Wrong Size,10000,10000,1
+4483,Wardrobes,Wrong Size,35000,35000,1
+4484,Bookcases,Damage or Defect,15000,30000,2
+4485,Dining Tables,Poor Quality,30000,30000,1
+4486,Sofas and Couches,Damage or Defect,50000,100000,2
+4487,Coffee Tables,Poor Quality,10000,20000,2
+4488,Coffee Tables,Wrong Size,10000,10000,1
+4489,Bed Frames,Assembly Issues,20000,20000,1
+4490,Dining Tables,Wrong Size,30000,60000,2
+4491,Nightstands,Damage or Defect,6000,12000,2
+4492,Wardrobes,Comfort Issues,35000,70000,2
+4493,Dining Tables,Poor Quality,30000,30000,1
+4494,Recliners,Wrong Size,25000,25000,1
+4495,Recliners,Late Delivery,25000,50000,2
+4496,Bed Frames,Wrong Size,20000,40000,2
+4497,Sofas and Couches,Wrong Size,50000,50000,1
+4498,Recliners,Wrong Size,25000,25000,1
+4499,Dressers,Wrong Size,18000,36000,2
+4500,Desks,Poor Quality,12000,12000,1
+4501,Dining Tables,Wrong Size,30000,60000,2
+4502,Dining Chairs,Comfort Issues,5000,10000,2
+4503,Coffee Tables,Comfort Issues,10000,20000,2
+4504,TV Stands,Damage or Defect,10000,10000,1
+4505,Bookcases,Damage or Defect,15000,30000,2
+4506,Dressers,Damage or Defect,18000,36000,2
+4507,Dining Tables,Wrong Size,30000,60000,2
+4508,Dining Chairs,Damage or Defect,5000,5000,1
+4509,Bed Frames,Comfort Issues,20000,40000,2
+4510,Dining Chairs,Assembly Issues,5000,10000,2
+4511,Dining Tables,Damage or Defect,30000,30000,1
+4512,Dressers,Damage or Defect,18000,18000,1
+4513,Wardrobes,Wrong Size,35000,70000,2
+4514,Wardrobes,Color/Style Mismatch,35000,70000,2
+4515,Sofas and Couches,Assembly Issues,50000,100000,2
+4516,Recliners,Damage or Defect,25000,25000,1
+4517,Dining Chairs,Late Delivery,5000,5000,1
+4518,Nightstands,Damage or Defect,6000,6000,1
+4519,Recliners,Damage or Defect,25000,25000,1
+4520,Office Chairs,Damage or Defect,8000,8000,1
+4521,Dining Chairs,Damage or Defect,5000,10000,2
+4522,Dining Chairs,Wrong Size,5000,5000,1
+4523,Dressers,Wrong Size,18000,18000,1
+4524,Recliners,Damage or Defect,25000,50000,2
+4525,Dining Tables,Assembly Issues,30000,60000,2
+4526,Coffee Tables,Wrong Size,10000,10000,1
+4527,Recliners,Damage or Defect,25000,50000,2
+4528,Dining Tables,Wrong Size,30000,60000,2
+4529,Sofas and Couches,Wrong Size,50000,50000,1
+4530,Sofas and Couches,Damage or Defect,50000,100000,2
+4531,Dressers,Wrong Size,18000,18000,1
+4532,Coffee Tables,Comfort Issues,10000,10000,1
+4533,Recliners,Late Delivery,25000,25000,1
+4534,Recliners,Poor Quality,25000,25000,1
+4535,Ottomans,Damage or Defect,8000,8000,1
+4536,Dining Tables,Damage or Defect,30000,60000,2
+4537,Dining Tables,Assembly Issues,30000,30000,1
+4538,Mattresses,Damage or Defect,12000,24000,2
+4539,Coffee Tables,Poor Quality,10000,20000,2
+4540,Dining Chairs,Wrong Size,5000,5000,1
+4541,Office Chairs,Wrong Size,8000,8000,1
+4542,Mattresses,Wrong Size,12000,24000,2
+4543,Coffee Tables,Wrong Size,10000,20000,2
+4544,Sofas and Couches,Wrong Size,50000,50000,1
+4545,Dining Chairs,Damage or Defect,5000,10000,2
+4546,Bookcases,Wrong Size,15000,30000,2
+4547,Bed Frames,Damage or Defect,20000,20000,1
+4548,Recliners,Color/Style Mismatch,25000,50000,2
+4549,Office Chairs,Damage or Defect,8000,16000,2
+4550,Sofas and Couches,Poor Quality,50000,100000,2
+4551,Dining Tables,Comfort Issues,30000,60000,2
+4552,Bookcases,Wrong Size,15000,30000,2
+4553,Recliners,Damage or Defect,25000,25000,1
+4554,Mattresses,Color/Style Mismatch,12000,24000,2
+4555,Mattresses,Comfort Issues,12000,24000,2
+4556,Recliners,Comfort Issues,25000,25000,1
+4557,Dressers,Damage or Defect,18000,18000,1
+4558,Coffee Tables,Assembly Issues,10000,20000,2
+4559,Coffee Tables,Wrong Size,10000,20000,2
+4560,Recliners,Damage or Defect,25000,50000,2
+4561,Office Chairs,Assembly Issues,8000,8000,1
+4562,Coffee Tables,Damage or Defect,10000,10000,1
+4563,Recliners,Damage or Defect,25000,25000,1
+4564,Sofas and Couches,Change of Mind,50000,100000,2
+4565,Wardrobes,Late Delivery,35000,70000,2
+4566,Mattresses,Damage or Defect,12000,12000,1
+4567,Bed Frames,Assembly Issues,20000,20000,1
+4568,Mattresses,Damage or Defect,12000,12000,1
+4569,Recliners,Late Delivery,25000,25000,1
+4570,Bookcases,Damage or Defect,15000,15000,1
+4571,Mattresses,Comfort Issues,12000,24000,2
+4572,Sofas and Couches,Wrong Size,50000,50000,1
+4573,Coffee Tables,Late Delivery,10000,10000,1
+4574,Coffee Tables,Damage or Defect,10000,20000,2
+4575,Bed Frames,Damage or Defect,20000,40000,2
+4576,Coffee Tables,Poor Quality,10000,20000,2
+4577,Sofas and Couches,Comfort Issues,50000,50000,1
+4578,Wardrobes,Damage or Defect,35000,35000,1
+4579,Dining Tables,Color/Style Mismatch,30000,60000,2
+4580,Dining Tables,Wrong Size,30000,30000,1
+4581,Desks,Wrong Size,12000,24000,2
+4582,Wardrobes,Comfort Issues,35000,70000,2
+4583,Recliners,Assembly Issues,25000,25000,1
+4584,Dining Chairs,Wrong Size,5000,5000,1
+4585,Sofas and Couches,Late Delivery,50000,100000,2
+4586,Mattresses,Late Delivery,12000,24000,2
+4587,Recliners,Damage or Defect,25000,50000,2
+4588,Dining Chairs,Wrong Size,5000,5000,1
+4589,Dining Chairs,Damage or Defect,5000,10000,2
+4590,Recliners,Wrong Size,25000,50000,2
+4591,Office Chairs,Damage or Defect,8000,8000,1
+4592,Dining Chairs,Poor Quality,5000,5000,1
+4593,Mattresses,Poor Quality,12000,24000,2
+4594,Sofas and Couches,Change of Mind,50000,50000,1
+4595,Coffee Tables,Damage or Defect,10000,10000,1
+4596,Nightstands,Change of Mind,6000,6000,1
+4597,Dining Tables,Wrong Size,30000,30000,1
+4598,Bed Frames,Color/Style Mismatch,20000,40000,2
+4599,Recliners,Wrong Size,25000,50000,2
+4600,Mattresses,Color/Style Mismatch,12000,12000,1
+4601,Sofas and Couches,Assembly Issues,50000,100000,2
+4602,Mattresses,Wrong Size,12000,24000,2
+4603,Dining Chairs,Damage or Defect,5000,5000,1
+4604,Wardrobes,Damage or Defect,35000,70000,2
+4605,Sofas and Couches,Color/Style Mismatch,50000,50000,1
+4606,Coffee Tables,Damage or Defect,10000,20000,2
+4607,Dining Chairs,Late Delivery,5000,5000,1
+4608,Dining Tables,Damage or Defect,30000,30000,1
+4609,Dining Chairs,Wrong Size,5000,5000,1
+4610,Sofas and Couches,Poor Quality,50000,50000,1
+4611,Dining Chairs,Wrong Size,5000,10000,2
+4612,Recliners,Wrong Size,25000,25000,1
+4613,Recliners,Assembly Issues,25000,25000,1
+4614,Dining Chairs,Wrong Size,5000,10000,2
+4615,Mattresses,Wrong Size,12000,12000,1
+4616,Coffee Tables,Comfort Issues,10000,10000,1
+4617,Bed Frames,Poor Quality,20000,40000,2
+4618,Recliners,Poor Quality,25000,25000,1
+4619,Office Chairs,Wrong Size,8000,8000,1
+4620,Desks,Damage or Defect,12000,24000,2
+4621,Coffee Tables,Comfort Issues,10000,10000,1
+4622,Bookcases,Change of Mind,15000,15000,1
+4623,Recliners,Wrong Size,25000,25000,1
+4624,Sofas and Couches,Wrong Size,50000,50000,1
+4625,Wardrobes,Color/Style Mismatch,35000,35000,1
+4626,Dining Tables,Wrong Size,30000,30000,2
+4627,Bed Frames,Damage or Defect,20000,40000,2
+4628,Dining Tables,Wrong Size,30000,30000,1
+4629,Bed Frames,Damage or Defect,20000,40000,2
+4630,Dining Tables,Wrong Size,30000,60000,2
+4631,Bed Frames,Damage or Defect,20000,40000,2
+4632,Dining Tables,Wrong Size,30000,30000,1
+4633,Bed Frames,Damage or Defect,20000,40000,2
+4634,Dining Tables,Wrong Size,30000,60000,2
+4635,Bed Frames,Damage or Defect,20000,40000,2
+4636,Dining Tables,Wrong Size,30000,30000,1
+4637,Bed Frames,Damage or Defect,20000,40000,2
+4638,Dining Tables,Wrong Size,30000,30000,1
+4639,Bed Frames,Damage or Defect,20000,40000,2
+4640,Dining Tables,Wrong Size,30000,60000,2
+4641,Bed Frames,Damage or Defect,20000,40000,2
+4642,Dining Tables,Wrong Size,30000,30000,1
+4643,Bed Frames,Damage or Defect,20000,40000,2
+4644,Dining Tables,Wrong Size,30000,60000,2
+4645,Bed Frames,Damage or Defect,20000,40000,2
+4646,Dining Tables,Wrong Size,30000,30000,1
+4647,Bed Frames,Damage or Defect,20000,20000,1
+4648,Dining Tables,Wrong Size,30000,60000,2
+4649,Bed Frames,Damage or Defect,20000,40000,2
+4650,Dining Tables,Wrong Size,30000,30000,1
+4651,Bed Frames,Damage or Defect,20000,40000,2
+4652,Dining Tables,Wrong Size,30000,60000,2
+4653,Bed Frames,Damage or Defect,20000,40000,2
+4654,Dining Tables,Wrong Size,30000,30000,1
+4655,Bed Frames,Damage or Defect,20000,40000,2
+4656,Dining Tables,Wrong Size,30000,60000,2
+4657,Bed Frames,Damage or Defect,20000,40000,2
+4658,Dining Tables,Wrong Size,30000,30000,1
+4659,Bed Frames,Damage or Defect,20000,20000,1
+4660,Dining Tables,Wrong Size,30000,60000,2
+4661,Bed Frames,Damage or Defect,20000,40000,2
+4662,Dining Tables,Wrong Size,30000,30000,1
+4663,Bed Frames,Damage or Defect,20000,40000,2
+4664,Dining Tables,Wrong Size,30000,30000,1
+4665,Bed Frames,Damage or Defect,20000,40000,2
+4666,Dining Tables,Wrong Size,30000,30000,1
+4667,Bed Frames,Damage or Defect,20000,40000,2
+4668,Dining Tables,Wrong Size,30000,60000,2
+4669,Bed Frames,Damage or Defect,20000,40000,2
+4670,Dining Tables,Wrong Size,30000,30000,1
+4671,Bed Frames,Damage or Defect,20000,20000,1
+4672,Dining Tables,Wrong Size,30000,60000,2
+4673,Bed Frames,Damage or Defect,20000,40000,2
+4674,Dining Tables,Wrong Size,30000,30000,1
+4675,Bed Frames,Damage or Defect,20000,20000,1
+4676,Dining Tables,Wrong Size,30000,60000,2
+4677,Bed Frames,Damage or Defect,20000,40000,2
+4678,Dining Tables,Wrong Size,30000,30000,1
+4679,Bed Frames,Damage or Defect,20000,40000,2
+4680,Dining Tables,Wrong Size,30000,30000,1
+4681,Bed Frames,Damage or Defect,20000,40000,2
+4682,Dining Tables,Wrong Size,30000,30000,1
+4683,Bed Frames,Damage or Defect,20000,40000,2
+4684,Dining Tables,Wrong Size,30000,60000,2
+4685,Bed Frames,Damage or Defect,20000,40000,2
+4686,Dining Tables,Wrong Size,30000,30000,1
+4687,Bed Frames,Damage or Defect,20000,20000,1
+4688,Dining Tables,Wrong Size,30000,60000,2
+4689,Bed Frames,Damage or Defect,20000,40000,2
+4690,Dining Tables,Wrong Size,30000,30000,1
+4691,Bed Frames,Damage or Defect,20000,40000,2
+4692,Dining Tables,Wrong Size,30000,60000,2
+4693,Bed Frames,Damage or Defect,20000,40000,2
+4694,Dining Tables,Wrong Size,30000,30000,1
+4695,Bed Frames,Damage or Defect,20000,40000,2
+4696,Dining Tables,Wrong Size,30000,30000,1
+4697,Bed Frames,Damage or Defect,20000,40000,2
+4698,Dining Tables,Wrong Size,30000,30000,1
+4699,Bed Frames,Damage or Defect,20000,40000,2
+4700,Dining Tables,Wrong Size,30000,60000,2
+4701,Bed Frames,Damage or Defect,20000,40000,2
+4702,Dining Tables,Wrong Size,30000,30000,1
+4703,Bed Frames,Damage or Defect,20000,40000,2
+4704,Dining Tables,Wrong Size,30000,60000,2
+4705,Bed Frames,Damage or Defect,20000,40000,2
+4706,Dining Tables,Wrong Size,30000,30000,1
+4707,Bed Frames,Damage or Defect,20000,40000,2
+4708,Dining Tables,Wrong Size,30000,30000,1
+4709,Bed Frames,Damage or Defect,20000,40000,2
+4710,Dining Tables,Wrong Size,30000,30000,1
+4711,Bed Frames,Damage or Defect,20000,40000,2
+4712,Dining Tables,Wrong Size,30000,30000,1
+4713,Bed Frames,Damage or Defect,20000,20000,1
+4714,Dining Tables,Wrong Size,30000,60000,2
+4715,Bed Frames,Damage or Defect,20000,40000,2
+4716,Dining Tables,Wrong Size,30000,30000,1
+4717,Bed Frames,Damage or Defect,20000,20000,1
+4718,Dining Tables,Wrong Size,30000,60000,2
+4719,Bed Frames,Damage or Defect,20000,40000,2
+4720,Dining Tables,Wrong Size,30000,30000,1
+4721,Dining Tables,Wrong Size,30000,30000,1
+4722,Bed Frames,Damage or Defect,20000,40000,2
+4723,Dining Tables,Wrong Size,30000,30000,1
+4724,Bed Frames,Damage or Defect,20000,40000,2
+4725,Dining Tables,Wrong Size,30000,30000,1
+4726,Bed Frames,Damage or Defect,20000,40000,2
+4727,Dining Tables,Wrong Size,30000,30000,1
+4728,Bed Frames,Damage or Defect,20000,40000,2
+4729,Dining Tables,Wrong Size,30000,30000,1
+4730,Bed Frames,Damage or Defect,20000,40000,2
+4731,Dining Tables,Wrong Size,30000,30000,1
+4732,Bed Frames,Damage or Defect,20000,40000,2
+4733,Dining Tables,Wrong Size,30000,60000,2
+4734,Bed Frames,Damage or Defect,20000,20000,1
+4735,Dining Tables,Wrong Size,30000,60000,2
+4736,Bed Frames,Damage or Defect,20000,20000,1
+4737,Dining Tables,Wrong Size,30000,60000,2
+4738,Bed Frames,Damage or Defect,20000,20000,1
+4739,Dining Tables,Wrong Size,30000,60000,2
+4740,Bed Frames,Damage or Defect,20000,20000,1
+4741,Dining Tables,Wrong Size,30000,60000,2
+4742,Bed Frames,Damage or Defect,20000,20000,1
+4743,Dining Tables,Wrong Size,30000,60000,2
+4744,Bed Frames,Damage or Defect,20000,20000,1
+4745,Dining Tables,Wrong Size,30000,60000,2
+4746,Bed Frames,Damage or Defect,20000,20000,1
+4747,Dining Tables,Wrong Size,30000,60000,2
+4748,Dining Tables,Wrong Size,30000,60000,2
+4749,Dining Tables,Wrong Size,30000,60000,2
+4750,Dining Tables,Wrong Size,30000,60000,2
+4751,Bed Frames,Damage or Defect,20000,20000,1
+4752,Dining Tables,Wrong Size,30000,60000,2
+4753,Bed Frames,Damage or Defect,20000,20000,1
+4754,Dining Tables,Wrong Size,30000,60000,2
+4755,Bed Frames,Damage or Defect,20000,20000,1
+4756,Dining Tables,Wrong Size,30000,60000,2
+4757,Bed Frames,Damage or Defect,20000,20000,1
+4758,Dining Tables,Wrong Size,30000,60000,2
+4759,Bed Frames,Damage or Defect,20000,20000,1
+4760,Dining Tables,Wrong Size,30000,60000,2
+4761,Bed Frames,Damage or Defect,20000,20000,1
+4762,Dining Tables,Wrong Size,30000,60000,2
+4763,Bed Frames,Damage or Defect,20000,20000,1
+4764,Dining Tables,Wrong Size,30000,60000,2
+4765,Bed Frames,Damage or Defect,20000,20000,1
+4766,Dining Tables,Wrong Size,30000,60000,2
+4767,Bed Frames,Damage or Defect,20000,20000,1
+4768,Dining Tables,Wrong Size,30000,60000,2
+4769,Bed Frames,Damage or Defect,20000,20000,1
+4770,Dining Tables,Wrong Size,30000,60000,2
+4771,Bed Frames,Damage or Defect,20000,20000,1
+4772,Dining Tables,Wrong Size,30000,60000,2
+4773,Bed Frames,Damage or Defect,20000,20000,1
+4774,Dining Tables,Wrong Size,30000,60000,2
+4775,Bed Frames,Damage or Defect,20000,20000,1
+4776,Dining Tables,Wrong Size,30000,60000,2
+4777,Bed Frames,Damage or Defect,20000,20000,1
+4778,Dining Tables,Wrong Size,30000,60000,2
+4779,Bed Frames,Damage or Defect,20000,20000,1
+4780,Dining Tables,Wrong Size,30000,60000,2
+4781,Bed Frames,Damage or Defect,20000,20000,1
+4782,Dining Tables,Wrong Size,30000,60000,2
+4783,Bed Frames,Damage or Defect,20000,20000,1
+4784,Dining Tables,Wrong Size,30000,60000,2
+4785,Bed Frames,Damage or Defect,20000,20000,1
+4786,Dining Tables,Wrong Size,30000,60000,2
+4787,Bed Frames,Damage or Defect,20000,20000,1
+4788,Dining Tables,Wrong Size,30000,60000,2
+4789,Bed Frames,Damage or Defect,20000,20000,1
+4790,Dining Tables,Wrong Size,30000,60000,2
+4791,Bed Frames,Damage or Defect,20000,20000,1
+4792,Dining Tables,Wrong Size,30000,60000,2
+4793,Bed Frames,Damage or Defect,20000,20000,1
+4794,Dining Tables,Wrong Size,30000,60000,2
+4795,Bed Frames,Damage or Defect,20000,20000,1
+4796,Dining Tables,Wrong Size,30000,60000,2
+4797,Bed Frames,Damage or Defect,20000,20000,1
+4798,Dining Tables,Wrong Size,30000,60000,2
+4799,Bed Frames,Damage or Defect,20000,20000,1
+4800,Dining Tables,Wrong Size,30000,60000,2
+4801,Bed Frames,Damage or Defect,20000,20000,1
+4802,Dining Tables,Wrong Size,30000,60000,2
+4803,Bed Frames,Damage or Defect,20000,20000,1
+4804,Dining Tables,Wrong Size,30000,60000,2
+4805,Bed Frames,Damage or Defect,20000,20000,1
+4806,Dining Tables,Wrong Size,30000,60000,2
+4807,Bed Frames,Damage or Defect,20000,20000,1
+4808,Dining Tables,Wrong Size,30000,60000,2
+4809,Bed Frames,Damage or Defect,20000,20000,1
+4810,Dining Tables,Wrong Size,30000,60000,2
+4811,Bed Frames,Damage or Defect,20000,20000,1
+4812,Dining Tables,Wrong Size,30000,60000,2
+4813,Bed Frames,Damage or Defect,20000,20000,1
+4814,Dining Tables,Wrong Size,30000,60000,2
+4815,Bed Frames,Damage or Defect,20000,20000,1
+4816,Dining Tables,Wrong Size,30000,60000,2
+4817,Bed Frames,Damage or Defect,20000,20000,1
+4818,Dining Tables,Wrong Size,30000,60000,2
+4819,Bed Frames,Damage or Defect,20000,20000,1
+4820,Dining Tables,Wrong Size,30000,60000,2
+4821,Bed Frames,Damage or Defect,20000,20000,1
+4822,Dining Tables,Wrong Size,30000,60000,2
+4823,Bed Frames,Damage or Defect,20000,20000,1
+4824,Dining Tables,Wrong Size,30000,60000,2
+4825,Bed Frames,Damage or Defect,20000,20000,1
+4826,Dining Tables,Wrong Size,30000,60000,2
+4827,Bed Frames,Damage or Defect,20000,20000,1
+4828,Dining Tables,Wrong Size,30000,60000,2
+4829,Bed Frames,Damage or Defect,20000,20000,1
+4830,Dining Tables,Wrong Size,30000,60000,2
+4831,Bed Frames,Damage or Defect,20000,20000,1
+4832,Dining Tables,Wrong Size,30000,60000,2
+4833,Bed Frames,Damage or Defect,20000,20000,1
+4834,Dining Tables,Wrong Size,30000,60000,2
+4835,Bed Frames,Damage or Defect,20000,20000,1
+4836,Dining Tables,Wrong Size,30000,60000,2
+4837,Bed Frames,Damage or Defect,20000,20000,1
+4838,Dining Tables,Wrong Size,30000,60000,2
+4839,Bed Frames,Damage or Defect,20000,20000,1
+4840,Dining Tables,Wrong Size,30000,60000,2
+4841,Bed Frames,Damage or Defect,20000,20000,1
+4842,Dining Tables,Wrong Size,30000,60000,2
+4843,Bed Frames,Damage or Defect,20000,20000,1
+4844,Dining Tables,Wrong Size,30000,60000,2
+4845,Bed Frames,Damage or Defect,20000,20000,1
+4846,Dining Tables,Wrong Size,30000,60000,2
+4847,Bed Frames,Damage or Defect,20000,20000,1
+4848,Dining Tables,Wrong Size,30000,60000,2
+4849,Bed Frames,Damage or Defect,20000,20000,1
+4850,Dining Tables,Wrong Size,30000,60000,2
+4851,Bed Frames,Damage or Defect,20000,20000,1
+4852,Dining Tables,Wrong Size,30000,60000,2
+4853,Bed Frames,Damage or Defect,20000,20000,1
+4854,Dining Tables,Wrong Size,30000,60000,2
+4855,Bed Frames,Damage or Defect,20000,20000,1
+4856,Dining Tables,Wrong Size,30000,60000,2
+4857,Bed Frames,Damage or Defect,20000,20000,1
+4858,Dining Tables,Wrong Size,30000,60000,2
+4859,Bed Frames,Damage or Defect,20000,20000,1
+4860,Dining Tables,Wrong Size,30000,60000,2
+4861,Dining Tables,Wrong Size,30000,60000,2
+4862,Bed Frames,Damage or Defect,20000,20000,1
+4863,Dining Tables,Wrong Size,30000,60000,2
+4864,Bed Frames,Damage or Defect,20000,20000,1
+4865,Dining Tables,Wrong Size,30000,60000,2
+4866,Bed Frames,Damage or Defect,20000,20000,1
+4867,Bed Frames,Damage or Defect,20000,20000,1
+4868,Dining Tables,Wrong Size,30000,60000,2
+4869,Bed Frames,Damage or Defect,20000,20000,1
+4870,Dining Tables,Wrong Size,30000,60000,2
+4871,Bed Frames,Damage or Defect,20000,20000,1
+4872,Dining Tables,Wrong Size,30000,60000,2
+4873,Bed Frames,Damage or Defect,20000,20000,1
+4874,Dining Tables,Wrong Size,30000,60000,2
+4875,Bed Frames,Damage or Defect,20000,20000,1
+4876,Dining Tables,Wrong Size,30000,60000,2
+4877,Bed Frames,Damage or Defect,20000,20000,1
+4878,Bed Frames,Damage or Defect,20000,20000,1
+4879,Dining Tables,Wrong Size,30000,60000,2
+4880,Bed Frames,Damage or Defect,20000,20000,1
+4881,Dining Tables,Wrong Size,30000,60000,2
+4882,Bed Frames,Damage or Defect,20000,20000,1
+4883,Dining Tables,Wrong Size,30000,60000,2
+4884,Bed Frames,Damage or Defect,20000,20000,1
+4885,Dining Tables,Wrong Size,30000,60000,2
+4886,Bed Frames,Damage or Defect,20000,20000,1
+4887,Dining Tables,Wrong Size,30000,60000,2
+4888,Bed Frames,Damage or Defect,20000,20000,1
+4889,Dining Tables,Wrong Size,30000,60000,2
+4890,Bed Frames,Damage or Defect,20000,20000,1
+4891,Dining Tables,Wrong Size,30000,60000,2
+4892,Bed Frames,Damage or Defect,20000,20000,1
+4893,Dining Tables,Wrong Size,30000,60000,2
+4894,Dining Tables,Wrong Size,30000,60000,2
+4895,Bed Frames,Damage or Defect,20000,20000,1
+4896,Dining Tables,Wrong Size,30000,60000,2
+4897,Bed Frames,Damage or Defect,20000,20000,1
+4898,Dining Tables,Wrong Size,30000,60000,2
+4899,Bed Frames,Damage or Defect,20000,20000,1
+4900,Dining Tables,Wrong Size,30000,60000,2
+4901,Bed Frames,Damage or Defect,20000,20000,1
+4902,Dining Tables,Wrong Size,30000,60000,2
+4903,Bed Frames,Damage or Defect,20000,20000,1
+4904,Dining Tables,Wrong Size,30000,60000,2
+4905,Bed Frames,Damage or Defect,20000,20000,1
+4906,Dining Tables,Wrong Size,30000,60000,2
+4907,Bed Frames,Damage or Defect,20000,20000,1
+4908,Dining Tables,Wrong Size,30000,60000,2
+4909,Bed Frames,Damage or Defect,20000,20000,1
+4910,Dining Tables,Wrong Size,30000,60000,2
+4911,Bed Frames,Damage or Defect,20000,20000,1
+4912,Dining Tables,Wrong Size,30000,30000,1
+4913,Bed Frames,Damage or Defect,20000,40000,2
+4914,Dining Tables,Wrong Size,30000,30000,1
+4915,Bed Frames,Damage or Defect,20000,40000,2
+4916,Dining Tables,Wrong Size,30000,30000,1
+4917,Bed Frames,Damage or Defect,20000,40000,2
+4918,Dining Tables,Wrong Size,30000,30000,1
+4919,Bed Frames,Damage or Defect,20000,40000,2
+4920,Dining Tables,Wrong Size,30000,60000,2
+4921,Bed Frames,Damage or Defect,20000,20000,1
+4922,Dining Tables,Wrong Size,30000,60000,2
+4923,Bed Frames,Damage or Defect,20000,20000,1
+4924,Dining Tables,Wrong Size,30000,60000,2
+4925,Bed Frames,Damage or Defect,20000,20000,1
+4926,Dining Tables,Wrong Size,30000,60000,2
+4927,Bed Frames,Damage or Defect,20000,20000,1
+4928,Dining Tables,Wrong Size,30000,60000,2
+4929,Bed Frames,Damage or Defect,20000,20000,1
+4930,Dining Tables,Wrong Size,30000,60000,2
+4931,Bed Frames,Damage or Defect,20000,20000,1
+4932,Dining Tables,Wrong Size,30000,60000,2
+4933,Bed Frames,Damage or Defect,20000,20000,1
+4934,Dining Tables,Wrong Size,30000,60000,2
+4935,Dining Tables,Wrong Size,30000,60000,2
+4936,Dining Tables,Wrong Size,30000,60000,2
+4937,Dining Tables,Wrong Size,30000,60000,2
+4938,Bed Frames,Damage or Defect,20000,20000,1
+4939,Dining Tables,Wrong Size,30000,60000,2
+4940,Bed Frames,Damage or Defect,20000,20000,1
+4941,Dining Tables,Wrong Size,30000,60000,2
+4942,Bed Frames,Damage or Defect,20000,20000,1
+4943,Dining Tables,Wrong Size,30000,60000,2
+4944,Bed Frames,Damage or Defect,20000,20000,1
+4945,Dining Tables,Wrong Size,30000,60000,2
+4946,Bed Frames,Damage or Defect,20000,20000,1
+4947,Dining Tables,Wrong Size,30000,60000,2
+4948,Bed Frames,Damage or Defect,20000,20000,1
+4949,Dining Tables,Wrong Size,30000,60000,2
+4950,Bed Frames,Damage or Defect,20000,20000,1
+4951,Dining Tables,Wrong Size,30000,60000,2
+4952,Bed Frames,Damage or Defect,20000,20000,1
+4953,Dining Tables,Wrong Size,30000,60000,2
+4954,Bed Frames,Damage or Defect,20000,20000,1
+4955,Dining Tables,Wrong Size,30000,60000,2
+4956,Bed Frames,Damage or Defect,20000,20000,1
+4957,Dining Tables,Wrong Size,30000,60000,2
+4958,Bed Frames,Damage or Defect,20000,20000,1
+4959,Dining Tables,Wrong Size,30000,60000,2
+4960,Bed Frames,Damage or Defect,20000,20000,1
+4961,Dining Tables,Wrong Size,30000,60000,2
+4962,Bed Frames,Damage or Defect,20000,20000,1
+4963,Dining Tables,Wrong Size,30000,60000,2
+4964,Bed Frames,Damage or Defect,20000,20000,1
+4965,Dining Tables,Wrong Size,30000,60000,2
+4966,Bed Frames,Damage or Defect,20000,20000,1
+4967,Dining Tables,Wrong Size,30000,60000,2
+4968,Bed Frames,Damage or Defect,20000,20000,1
+4969,Dining Tables,Wrong Size,30000,60000,2
+4970,Bed Frames,Damage or Defect,20000,20000,1
+4971,Dining Tables,Wrong Size,30000,60000,2
+4972,Bed Frames,Damage or Defect,20000,20000,1
+4973,Dining Tables,Wrong Size,30000,60000,2
+4974,Bed Frames,Damage or Defect,20000,20000,1
+4975,Dining Tables,Wrong Size,30000,60000,2
+4976,Bed Frames,Damage or Defect,20000,20000,1
+4977,Dining Tables,Wrong Size,30000,60000,2
+4978,Bed Frames,Damage or Defect,20000,20000,1
+4979,Dining Tables,Wrong Size,30000,60000,2
+4980,Bed Frames,Damage or Defect,20000,20000,1
+4981,Dining Tables,Wrong Size,30000,60000,2
+4982,Bed Frames,Damage or Defect,20000,20000,1
+4983,Dining Tables,Wrong Size,30000,60000,2
+4984,Bed Frames,Damage or Defect,20000,20000,1
+4985,Dining Tables,Wrong Size,30000,60000,2
+4986,Bed Frames,Damage or Defect,20000,20000,1
+4987,Dining Tables,Wrong Size,30000,60000,2
+4988,Bed Frames,Damage or Defect,20000,20000,1
+4989,Dining Tables,Wrong Size,30000,60000,2
+4990,Bed Frames,Damage or Defect,20000,20000,1
+4991,Dining Tables,Wrong Size,30000,60000,2
+4992,Bed Frames,Damage or Defect,20000,20000,1
+4993,Dining Tables,Wrong Size,30000,60000,2
+4994,Bed Frames,Damage or Defect,20000,20000,1
+4995,Dining Tables,Wrong Size,30000,60000,2
+4996,Bed Frames,Damage or Defect,20000,20000,1
+4997,Dining Tables,Wrong Size,30000,60000,2
+4998,Bed Frames,Damage or Defect,20000,20000,1
+4999,Dining Tables,Wrong Size,30000,60000,2
+5000,Bed Frames,Damage or Defect,20000,20000,1
+5001,Dining Tables,Wrong Size,30000,60000,2
+5002,Bed Frames,Damage or Defect,20000,20000,1
+5003,Dining Tables,Wrong Size,30000,60000,2
+5004,Bed Frames,Damage or Defect,20000,20000,1
+5005,Dining Tables,Wrong Size,30000,60000,2
+5006,Bed Frames,Damage or Defect,20000,20000,1
+5007,Dining Tables,Wrong Size,30000,60000,2
+5008,Bed Frames,Damage or Defect,20000,20000,1
+5009,Dining Tables,Wrong Size,30000,60000,2
+5010,Bed Frames,Damage or Defect,20000,20000,1
+5011,Dining Tables,Wrong Size,30000,60000,2
+5012,Bed Frames,Damage or Defect,20000,20000,1
+5013,Dining Tables,Wrong Size,30000,60000,2
+5014,Bed Frames,Damage or Defect,20000,20000,1
+5015,Dining Tables,Wrong Size,30000,60000,2
+5016,Bed Frames,Damage or Defect,20000,20000,1
+5017,Dining Tables,Wrong Size,30000,60000,2
+5018,Bed Frames,Damage or Defect,20000,20000,1
+5019,Dining Tables,Wrong Size,30000,60000,2
+5020,Bed Frames,Damage or Defect,20000,20000,1
+5021,Dining Tables,Wrong Size,30000,60000,2
+5022,Bed Frames,Damage or Defect,20000,20000,1
+5023,Dining Tables,Wrong Size,30000,60000,2
+5024,Bed Frames,Damage or Defect,20000,20000,1
+5025,Dining Tables,Wrong Size,30000,60000,2
+5026,Bed Frames,Damage or Defect,20000,20000,1
+5027,Dining Tables,Wrong Size,30000,60000,2
+5028,Bed Frames,Damage or Defect,20000,20000,1
+5029,Dining Tables,Wrong Size,30000,60000,2
+5030,Bed Frames,Damage or Defect,20000,20000,1
+5031,Dining Tables,Wrong Size,30000,60000,2
+5032,Bed Frames,Damage or Defect,20000,20000,1
+5033,Dining Tables,Wrong Size,30000,60000,2
+5034,Bed Frames,Damage or Defect,20000,20000,1
+5035,Dining Tables,Wrong Size,30000,60000,2
+5036,Bed Frames,Damage or Defect,20000,20000,1
+5037,Dining Tables,Wrong Size,30000,60000,2
+5038,Bed Frames,Damage or Defect,20000,20000,1
+5039,Dining Tables,Wrong Size,30000,60000,2
+5040,Bed Frames,Damage or Defect,20000,20000,1
+5041,Dining Tables,Wrong Size,30000,60000,2
+5042,Bed Frames,Damage or Defect,20000,20000,1
+5043,Dining Tables,Wrong Size,30000,60000,2
+5044,Bed Frames,Damage or Defect,20000,20000,1
+5045,Dining Tables,Wrong Size,30000,60000,2
+5046,Bed Frames,Damage or Defect,20000,20000,1
+5047,Dining Tables,Wrong Size,30000,60000,2
+5048,Dining Tables,Wrong Size,30000,60000,2
+5049,Bed Frames,Damage or Defect,20000,20000,1
+5050,Dining Tables,Wrong Size,30000,60000,2
+5051,Bed Frames,Damage or Defect,20000,20000,1
+5052,Dining Tables,Wrong Size,30000,60000,2
+5053,Bed Frames,Damage or Defect,20000,20000,1
+5054,Bed Frames,Damage or Defect,20000,20000,1
+5055,Dining Tables,Wrong Size,30000,60000,2
+5056,Bed Frames,Damage or Defect,20000,20000,1
+5057,Dining Tables,Wrong Size,30000,60000,2
+5058,Bed Frames,Damage or Defect,20000,20000,1
+5059,Dining Tables,Wrong Size,30000,60000,2
+5060,Bed Frames,Damage or Defect,20000,20000,1
+5061,Dining Tables,Wrong Size,30000,60000,2
+5062,Bed Frames,Damage or Defect,20000,20000,1
+5063,Dining Tables,Wrong Size,30000,60000,2
+5064,Bed Frames,Damage or Defect,20000,20000,1
+5065,Bed Frames,Damage or Defect,20000,20000,1
+5066,Dining Tables,Wrong Size,30000,60000,2
+5067,Bed Frames,Damage or Defect,20000,20000,1
+5068,Dining Tables,Wrong Size,30000,60000,2
+5069,Bed Frames,Damage or Defect,20000,20000,1
+5070,Dining Tables,Wrong Size,30000,60000,2
+5071,Bed Frames,Damage or Defect,20000,20000,1
+5072,Dining Tables,Wrong Size,30000,60000,2
+5073,Bed Frames,Damage or Defect,20000,20000,1
+5074,Dining Tables,Wrong Size,30000,60000,2
+5075,Bed Frames,Damage or Defect,20000,20000,1
+5076,Dining Tables,Wrong Size,30000,60000,2
+5077,Bed Frames,Damage or Defect,20000,20000,1
+5078,Dining Tables,Wrong Size,30000,60000,2
+5079,Bed Frames,Damage or Defect,20000,20000,1
+5080,Dining Tables,Wrong Size,30000,60000,2
+5081,Dining Tables,Wrong Size,30000,60000,2
+5082,Bed Frames,Damage or Defect,20000,20000,1
+5083,Dining Tables,Wrong Size,30000,60000,2
+5084,Bed Frames,Damage or Defect,20000,20000,1
+5085,Dining Tables,Wrong Size,30000,60000,2
+5086,Bed Frames,Damage or Defect,20000,20000,1
+5087,Dining Tables,Wrong Size,30000,60000,2
+5088,Bed Frames,Damage or Defect,20000,20000,1
+5089,Dining Tables,Wrong Size,30000,60000,2
+5090,Bed Frames,Damage or Defect,20000,20000,1
+5091,Dining Tables,Wrong Size,30000,60000,2
+5092,Bed Frames,Damage or Defect,20000,20000,1
+5093,Dining Tables,Wrong Size,30000,60000,2
+5094,Bed Frames,Damage or Defect,20000,20000,1
+5095,Dining Tables,Wrong Size,30000,60000,2
+5096,Bed Frames,Damage or Defect,20000,20000,1
+5097,Dining Tables,Wrong Size,30000,60000,2
+5098,Bed Frames,Damage or Defect,20000,20000,1
