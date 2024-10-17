@@ -1,18 +1,18 @@
-Product,ProductCategory,UnitsSold,UnitSellingPrice,Discount
-Raisins,Dried Fruits,30,40,5%
-Dried Figs,Dried Fruits,24,110,5%
-Dried Dates,Dried Fruits,40,52,5%
-Almonds,Nuts,42,80,5%
-Dried Cranberries,Dried Fruits,15,100,5%
-Dried Mango,Dried Fruits,18,175,5%
-Dried Pineapple,Dried Fruits,16,180,5%
-Cashews,Nuts,45,110,5%
-Walnut,Nuts,30,130,5%
-Dried Cherries,Dried Fruits,20,210,5%
-Dried Blueberries,Dried Fruits,15,290,10%
-Dried Papaya,Dried Fruits,14,150,5%
-Dried Strawberries,Dried Fruits,28,157,5%
-Dried Mulberries,Dried Fruits,10,300,10%
-Dried Pears,Dried Fruits,9,130,5%
-Dried Kiwi,Dried Fruits,12,99,5%
-Prunes,Dried Fruits,7,325,10%
+Product,ProductCategory,UnitsSold,UnitSellingPrice,DiscountPercentage
+Raisins,Dried Fruits,30,40,0.05
+Dried Figs,Dried Fruits,24,110,0.05
+Dried Dates,Dried Fruits,40,52,0.05
+Almonds,Nuts,42,80,0.05
+Dried Cranberries,Dried Fruits,15,100,0.05
+Dried Mango,Dried Fruits,18,175,0.05
+Dried Pineapple,Dried Fruits,16,180,0.05
+Cashews,Nuts,45,110,0.05
+Walnut,Nuts,30,130,0.05
+Dried Cherries,Dried Fruits,20,210,0.05
+Dried Blueberries,Dried Fruits,15,290,0.1
+Dried Papaya,Dried Fruits,14,150,0.05
+Dried Strawberries,Dried Fruits,28,157,0.05
+Dried Mulberries,Dried Fruits,10,300,0.1
+Dried Pears,Dried Fruits,9,130,0.05
+Dried Kiwi,Dried Fruits,12,99,0.05
+Prunes,Dried Fruits,7,325,0.1
