@@ -1,4 +1,4 @@
-OrderID,Year,Month,Product,Salesperson,City,SalesperUnit,Unit
+OrderID,Year,Month,Product,Salesperson,City,UnitPrice,UnitSold
 OR1245,2024,April,TV unit,Amit Kumar,Pune,36409,45
 OR3456,2024,May,Bed,Vipin Sharma,Mumbai,53962,31
 OR5667,2024,June,Sofa,Praveen,Pune,27270,59
