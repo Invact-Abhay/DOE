@@ -1,0 +1,36 @@
+OrderID,Year,Month,Product,Salesperson,City,SalesperUnit,Unit
+OR1245,2024,April,TV unit,Amit Kumar,Pune,36409,45
+OR3456,2024,May,Bed,Vipin Sharma,Mumbai,53962,31
+OR5667,2024,June,Sofa,Praveen,Pune,27270,59
+OR7878,2024,April,Cupboard,Amit Kumar,Kolkata,43300,32
+OR1089,2024,May,TV unit,Vipin Sharma,Kolkata,67966,44
+OR1230,2024,June,Bed,Praveen,Pune,46807,66
+OR1371,2024,April,Sofa,Vipin Sharma,Chennai,22732,50
+OR1512,2024,May,Cupboard,Vipin Sharma,Mumbai,55569,36
+OR1653,2024,June,TV unit,Vipin Sharma,Pune,43745,30
+OR1794,2024,April,Bed,Amit Kumar,Chennai,65311,63
+OR1935,2024,May,Sofa,Amit Kumar,Chennai,62340,38
+OR2076,2024,June,Cupboard,Praveen,Kolkata,57309,56
+OR2217,2024,April,TV unit,Vipin Sharma,Chennai,46450,50
+OR2358,2024,May,Bed,Vipin Sharma,Mumbai,17315,54
+OR2499,2024,June,Sofa,Praveen,Pune,25947,57
+OR2640,2024,April,Cupboard,Vipin Sharma,Chennai,18147,45
+OR2781,2024,May,TV unit,Praveen,Kolkata,68396,66
+OR2922,2024,June,Bed,Vipin Sharma,Mumbai,44702,42
+OR3063,2024,April,Sofa,Amit Kumar,Pune,25085,44
+OR3204,2024,May,Cupboard,Praveen,Chennai,11222,30
+OR3345,2024,June,TV unit,Vipin Sharma,Mumbai,69936,42
+OR3486,2024,April,Bed,Praveen,Chennai,55333,55
+OR3627,2024,May,Sofa,Vipin Sharma,Pune,66446,45
+OR3768,2024,June,Cupboard,Praveen,Kolkata,56260,67
+OR3909,2024,April,TV unit,Praveen,Chennai,35349,32
+OR4050,2024,May,Bed,Praveen,Kolkata,66328,60
+OR4191,2024,June,Sofa,Praveen,Mumbai,43086,37
+OR4332,2024,June,Cupboard,Amit Kumar,Chennai,36084,49
+OR4473,2024,May,TV unit,Vipin Sharma,Pune,40728,66
+OR4614,2024,June,Bed,Praveen,Mumbai,44702,57
+OR4755,2024,April,Bed,Vipin Sharma,Mumbai,25085,45
+OR4896,2024,June,Sofa,Praveen,Chennai,11222,66
+OR5037,2024,June,Cupboard,Amit Kumar,Pune,44702,22
+OR5178,2024,April,TV unit,Vipin Sharma,Mumbai,25085,64
+OR5319,2024,May,Cupboard,Praveen,Kolkata,15612,35
