@@ -1,0 +1,325 @@
+Month,Region,State,Product Category,Budgeted Quantity
+January,North,Delhi,Professional,50
+January,North,Delhi,Lifestyle,50
+January,North,Delhi,Adventure,50
+January,North,Punjab,Professional,50
+January,North,Punjab,Lifestyle,110
+January,North,Punjab,Adventure,120
+January,North,Haryana,Professional,120
+January,North,Haryana,Lifestyle,60
+January,North,Haryana,Adventure,160
+January,South,Karnataka,Professional,30
+January,South,Karnataka,Lifestyle,130
+January,South,Karnataka,Adventure,110
+January,South,Tamil Nadu,Professional,120
+January,South,Tamil Nadu,Lifestyle,120
+January,South,Tamil Nadu,Adventure,40
+January,South,Kerala,Professional,130
+January,South,Kerala,Lifestyle,80
+January,South,Kerala,Adventure,80
+January,West,Maharashtra,Professional,110
+January,West,Maharashtra,Lifestyle,90
+January,West,Maharashtra,Adventure,90
+January,West,Gujarat,Professional,130
+January,West,Gujarat,Lifestyle,130
+January,West,Gujarat,Adventure,130
+January,West,Rajasthan,Professional,30
+January,West,Rajasthan,Lifestyle,100
+January,West,Rajasthan,Adventure,100
+February,North,Delhi,Professional,120
+February,North,Delhi,Lifestyle,50
+February,North,Delhi,Adventure,120
+February,North,Punjab,Professional,150
+February,North,Punjab,Lifestyle,30
+February,North,Punjab,Adventure,60
+February,North,Haryana,Professional,110
+February,North,Haryana,Lifestyle,40
+February,North,Haryana,Adventure,50
+February,South,Karnataka,Professional,90
+February,South,Karnataka,Lifestyle,0
+February,South,Karnataka,Adventure,90
+February,South,Tamil Nadu,Professional,140
+February,South,Tamil Nadu,Lifestyle,80
+February,South,Tamil Nadu,Adventure,160
+February,South,Kerala,Professional,120
+February,South,Kerala,Lifestyle,100
+February,South,Kerala,Adventure,50
+February,West,Maharashtra,Professional,20
+February,West,Maharashtra,Lifestyle,20
+February,West,Maharashtra,Adventure,160
+February,West,Gujarat,Professional,180
+February,West,Gujarat,Lifestyle,140
+February,West,Gujarat,Adventure,60
+February,West,Rajasthan,Professional,110
+February,West,Rajasthan,Lifestyle,80
+February,West,Rajasthan,Adventure,160
+March,North,Delhi,Professional,160
+March,North,Delhi,Lifestyle,80
+March,North,Delhi,Adventure,170
+March,North,Punjab,Professional,50
+March,North,Punjab,Lifestyle,110
+March,North,Punjab,Adventure,170
+March,North,Haryana,Professional,110
+March,North,Haryana,Lifestyle,110
+March,North,Haryana,Adventure,170
+March,South,Karnataka,Professional,130
+March,South,Karnataka,Lifestyle,90
+March,South,Karnataka,Adventure,60
+March,South,Tamil Nadu,Professional,60
+March,South,Tamil Nadu,Lifestyle,70
+March,South,Tamil Nadu,Adventure,80
+March,South,Kerala,Professional,130
+March,South,Kerala,Lifestyle,40
+March,South,Kerala,Adventure,80
+March,West,Maharashtra,Professional,80
+March,West,Maharashtra,Lifestyle,120
+March,West,Maharashtra,Adventure,90
+March,West,Gujarat,Professional,170
+March,West,Gujarat,Lifestyle,70
+March,West,Gujarat,Adventure,30
+March,West,Rajasthan,Professional,40
+March,West,Rajasthan,Lifestyle,160
+March,West,Rajasthan,Adventure,190
+April,North,Delhi,Professional,120
+April,North,Delhi,Lifestyle,130
+April,North,Delhi,Adventure,30
+April,North,Punjab,Professional,40
+April,North,Punjab,Lifestyle,140
+April,North,Punjab,Adventure,90
+April,North,Haryana,Professional,50
+April,North,Haryana,Lifestyle,50
+April,North,Haryana,Adventure,120
+April,South,Karnataka,Professional,150
+April,South,Karnataka,Lifestyle,140
+April,South,Karnataka,Adventure,110
+April,South,Tamil Nadu,Professional,110
+April,South,Tamil Nadu,Lifestyle,190
+April,South,Tamil Nadu,Adventure,80
+April,South,Kerala,Professional,170
+April,South,Kerala,Lifestyle,50
+April,South,Kerala,Adventure,220
+April,West,Maharashtra,Professional,70
+April,West,Maharashtra,Lifestyle,190
+April,West,Maharashtra,Adventure,60
+April,West,Gujarat,Professional,110
+April,West,Gujarat,Lifestyle,160
+April,West,Gujarat,Adventure,190
+April,West,Rajasthan,Professional,110
+April,West,Rajasthan,Lifestyle,190
+April,West,Rajasthan,Adventure,60
+May,North,Delhi,Professional,220
+May,North,Delhi,Lifestyle,50
+May,North,Delhi,Adventure,140
+May,North,Punjab,Professional,100
+May,North,Punjab,Lifestyle,90
+May,North,Punjab,Adventure,210
+May,North,Haryana,Professional,90
+May,North,Haryana,Lifestyle,80
+May,North,Haryana,Adventure,160
+May,South,Karnataka,Professional,250
+May,South,Karnataka,Lifestyle,50
+May,South,Karnataka,Adventure,40
+May,South,Tamil Nadu,Professional,30
+May,South,Tamil Nadu,Lifestyle,190
+May,South,Tamil Nadu,Adventure,240
+May,South,Kerala,Professional,150
+May,South,Kerala,Lifestyle,210
+May,South,Kerala,Adventure,60
+May,West,Maharashtra,Professional,110
+May,West,Maharashtra,Lifestyle,120
+May,West,Maharashtra,Adventure,180
+May,West,Gujarat,Professional,250
+May,West,Gujarat,Lifestyle,110
+May,West,Gujarat,Adventure,120
+May,West,Rajasthan,Professional,80
+May,West,Rajasthan,Lifestyle,10
+May,West,Rajasthan,Adventure,140
+June,North,Delhi,Professional,240
+June,North,Delhi,Lifestyle,80
+June,North,Delhi,Adventure,300
+June,North,Punjab,Professional,100
+June,North,Punjab,Lifestyle,270
+June,North,Punjab,Adventure,250
+June,North,Haryana,Professional,20
+June,North,Haryana,Lifestyle,260
+June,North,Haryana,Adventure,270
+June,South,Karnataka,Professional,90
+June,South,Karnataka,Lifestyle,70
+June,South,Karnataka,Adventure,120
+June,South,Tamil Nadu,Professional,190
+June,South,Tamil Nadu,Lifestyle,90
+June,South,Tamil Nadu,Adventure,290
+June,South,Kerala,Professional,260
+June,South,Kerala,Lifestyle,120
+June,South,Kerala,Adventure,210
+June,West,Maharashtra,Professional,200
+June,West,Maharashtra,Lifestyle,270
+June,West,Maharashtra,Adventure,290
+June,West,Gujarat,Professional,230
+June,West,Gujarat,Lifestyle,70
+June,West,Gujarat,Adventure,120
+June,West,Rajasthan,Professional,70
+June,West,Rajasthan,Lifestyle,80
+June,West,Rajasthan,Adventure,50
+July,North,Delhi,Professional,230
+July,North,Delhi,Lifestyle,310
+July,North,Delhi,Adventure,70
+July,North,Punjab,Professional,180
+July,North,Punjab,Lifestyle,200
+July,North,Punjab,Adventure,260
+July,North,Haryana,Professional,290
+July,North,Haryana,Lifestyle,70
+July,North,Haryana,Adventure,120
+July,South,Karnataka,Professional,30
+July,South,Karnataka,Lifestyle,120
+July,South,Karnataka,Adventure,110
+July,South,Tamil Nadu,Professional,240
+July,South,Tamil Nadu,Lifestyle,140
+July,South,Tamil Nadu,Adventure,310
+July,South,Kerala,Professional,220
+July,South,Kerala,Lifestyle,60
+July,South,Kerala,Adventure,130
+July,West,Maharashtra,Professional,170
+July,West,Maharashtra,Lifestyle,70
+July,West,Maharashtra,Adventure,150
+July,West,Gujarat,Professional,280
+July,West,Gujarat,Lifestyle,60
+July,West,Gujarat,Adventure,90
+July,West,Rajasthan,Professional,130
+July,West,Rajasthan,Lifestyle,70
+July,West,Rajasthan,Adventure,260
+August,North,Delhi,Professional,140
+August,North,Delhi,Lifestyle,100
+August,North,Delhi,Adventure,300
+August,North,Punjab,Professional,210
+August,North,Punjab,Lifestyle,70
+August,North,Punjab,Adventure,250
+August,North,Haryana,Professional,60
+August,North,Haryana,Lifestyle,180
+August,North,Haryana,Adventure,270
+August,South,Karnataka,Professional,180
+August,South,Karnataka,Lifestyle,150
+August,South,Karnataka,Adventure,230
+August,South,Tamil Nadu,Professional,170
+August,South,Tamil Nadu,Lifestyle,280
+August,South,Tamil Nadu,Adventure,230
+August,South,Kerala,Professional,310
+August,South,Kerala,Lifestyle,20
+August,South,Kerala,Adventure,100
+August,West,Maharashtra,Professional,30
+August,West,Maharashtra,Lifestyle,130
+August,West,Maharashtra,Adventure,240
+August,West,Gujarat,Professional,240
+August,West,Gujarat,Lifestyle,140
+August,West,Gujarat,Adventure,110
+August,West,Rajasthan,Professional,90
+August,West,Rajasthan,Lifestyle,120
+August,West,Rajasthan,Adventure,280
+September,North,Delhi,Professional,210
+September,North,Delhi,Lifestyle,10
+September,North,Delhi,Adventure,260
+September,North,Punjab,Professional,80
+September,North,Punjab,Lifestyle,30
+September,North,Punjab,Adventure,200
+September,North,Haryana,Professional,280
+September,North,Haryana,Lifestyle,180
+September,North,Haryana,Adventure,50
+September,South,Karnataka,Professional,160
+September,South,Karnataka,Lifestyle,160
+September,South,Karnataka,Adventure,80
+September,South,Tamil Nadu,Professional,300
+September,South,Tamil Nadu,Lifestyle,90
+September,South,Tamil Nadu,Adventure,340
+September,South,Kerala,Professional,290
+September,South,Kerala,Lifestyle,100
+September,South,Kerala,Adventure,160
+September,West,Maharashtra,Professional,150
+September,West,Maharashtra,Lifestyle,70
+September,West,Maharashtra,Adventure,260
+September,West,Gujarat,Professional,80
+September,West,Gujarat,Lifestyle,0
+September,West,Gujarat,Adventure,60
+September,West,Rajasthan,Professional,20
+September,West,Rajasthan,Lifestyle,320
+September,West,Rajasthan,Adventure,200
+October,North,Delhi,Professional,250
+October,North,Delhi,Lifestyle,50
+October,North,Delhi,Adventure,60
+October,North,Punjab,Professional,80
+October,North,Punjab,Lifestyle,260
+October,North,Punjab,Adventure,80
+October,North,Haryana,Professional,40
+October,North,Haryana,Lifestyle,270
+October,North,Haryana,Adventure,260
+October,South,Karnataka,Professional,300
+October,South,Karnataka,Lifestyle,290
+October,South,Karnataka,Adventure,80
+October,South,Tamil Nadu,Professional,140
+October,South,Tamil Nadu,Lifestyle,220
+October,South,Tamil Nadu,Adventure,290
+October,South,Kerala,Professional,200
+October,South,Kerala,Lifestyle,290
+October,South,Kerala,Adventure,50
+October,West,Maharashtra,Professional,170
+October,West,Maharashtra,Lifestyle,60
+October,West,Maharashtra,Adventure,150
+October,West,Gujarat,Professional,280
+October,West,Gujarat,Lifestyle,160
+October,West,Gujarat,Adventure,250
+October,West,Rajasthan,Professional,90
+October,West,Rajasthan,Lifestyle,190
+October,West,Rajasthan,Adventure,250
+November,North,Delhi,Professional,160
+November,North,Delhi,Lifestyle,180
+November,North,Delhi,Adventure,320
+November,North,Punjab,Professional,220
+November,North,Punjab,Lifestyle,20
+November,North,Punjab,Adventure,270
+November,North,Haryana,Professional,300
+November,North,Haryana,Lifestyle,60
+November,North,Haryana,Adventure,50
+November,South,Karnataka,Professional,70
+November,South,Karnataka,Lifestyle,250
+November,South,Karnataka,Adventure,230
+November,South,Tamil Nadu,Professional,40
+November,South,Tamil Nadu,Lifestyle,250
+November,South,Tamil Nadu,Adventure,230
+November,South,Kerala,Professional,210
+November,South,Kerala,Lifestyle,100
+November,South,Kerala,Adventure,260
+November,West,Maharashtra,Professional,80
+November,West,Maharashtra,Lifestyle,40
+November,West,Maharashtra,Adventure,170
+November,West,Gujarat,Professional,80
+November,West,Gujarat,Lifestyle,10
+November,West,Gujarat,Adventure,170
+November,West,Rajasthan,Professional,100
+November,West,Rajasthan,Lifestyle,260
+November,West,Rajasthan,Adventure,240
+December,North,Delhi,Professional,200
+December,North,Delhi,Lifestyle,170
+December,North,Delhi,Adventure,270
+December,North,Punjab,Professional,210
+December,North,Punjab,Lifestyle,30
+December,North,Punjab,Adventure,230
+December,North,Haryana,Professional,90
+December,North,Haryana,Lifestyle,140
+December,North,Haryana,Adventure,180
+December,South,Karnataka,Professional,170
+December,South,Karnataka,Lifestyle,270
+December,South,Karnataka,Adventure,270
+December,South,Tamil Nadu,Professional,120
+December,South,Tamil Nadu,Lifestyle,40
+December,South,Tamil Nadu,Adventure,210
+December,South,Kerala,Professional,260
+December,South,Kerala,Lifestyle,280
+December,South,Kerala,Adventure,220
+December,West,Maharashtra,Professional,20
+December,West,Maharashtra,Lifestyle,170
+December,West,Maharashtra,Adventure,250
+December,West,Gujarat,Professional,250
+December,West,Gujarat,Lifestyle,150
+December,West,Gujarat,Adventure,310
+December,West,Rajasthan,Professional,120
+December,West,Rajasthan,Lifestyle,290
+December,West,Rajasthan,Adventure,160
