@@ -1,0 +1,361 @@
+Month,Region,State,Model,Budgeted Quantity
+January,South,Tamil Nadu,Hatchback,12
+January,South,Tamil Nadu,SUV,8
+January,South,Tamil Nadu,Sedan,6
+January,South,Karnataka,Hatchback,11
+January,South,Karnataka,SUV,7
+January,South,Karnataka,Sedan,5
+January,South,Andhra Pradesh,Hatchback,10
+January,South,Andhra Pradesh,SUV,6
+January,South,Andhra Pradesh,Sedan,5
+January,South,Maharashtra,Hatchback,15
+January,South,Maharashtra,SUV,10
+January,South,Maharashtra,Sedan,7
+January,West,Gujarat,Hatchback,14
+January,West,Gujarat,SUV,9
+January,West,Gujarat,Sedan,6
+January,West,Rajasthan,Hatchback,13
+January,West,Rajasthan,SUV,8
+January,West,Rajasthan,Sedan,6
+January,North,Haryana,Hatchback,14
+January,North,Haryana,SUV,9
+January,North,Haryana,Sedan,6
+January,North,Punjab,Hatchback,13
+January,North,Punjab,SUV,8
+January,North,Punjab,Sedan,5
+January,North,Uttar Pradesh,Hatchback,12
+January,North,Uttar Pradesh,SUV,7
+January,North,Uttar Pradesh,Sedan,5
+January,East,West Bengal,Hatchback,10
+January,East,West Bengal,SUV,7
+January,East,West Bengal,Sedan,5
+February,South,Tamil Nadu,Hatchback,13
+February,South,Tamil Nadu,SUV,7
+February,South,Tamil Nadu,Sedan,6
+February,South,Karnataka,Hatchback,12
+February,South,Karnataka,SUV,8
+February,South,Karnataka,Sedan,6
+February,South,Andhra Pradesh,Hatchback,11
+February,South,Andhra Pradesh,SUV,7
+February,South,Andhra Pradesh,Sedan,5
+February,South,Maharashtra,Hatchback,16
+February,South,Maharashtra,SUV,11
+February,South,Maharashtra,Sedan,8
+February,West,Gujarat,Hatchback,15
+February,West,Gujarat,SUV,10
+February,West,Gujarat,Sedan,7
+February,West,Rajasthan,Hatchback,14
+February,West,Rajasthan,SUV,9
+February,West,Rajasthan,Sedan,7
+February,North,Haryana,Hatchback,15
+February,North,Haryana,SUV,10
+February,North,Haryana,Sedan,7
+February,North,Punjab,Hatchback,14
+February,North,Punjab,SUV,9
+February,North,Punjab,Sedan,6
+February,North,Uttar Pradesh,Hatchback,13
+February,North,Uttar Pradesh,SUV,8
+February,North,Uttar Pradesh,Sedan,5
+February,East,West Bengal,Hatchback,11
+February,East,West Bengal,SUV,8
+February,East,West Bengal,Sedan,6
+March,South,Tamil Nadu,Hatchback,14
+March,South,Tamil Nadu,SUV,7
+March,South,Tamil Nadu,Sedan,7
+March,South,Karnataka,Hatchback,13
+March,South,Karnataka,SUV,7
+March,South,Karnataka,Sedan,6
+March,South,Andhra Pradesh,Hatchback,12
+March,South,Andhra Pradesh,SUV,8
+March,South,Andhra Pradesh,Sedan,6
+March,South,Maharashtra,Hatchback,17
+March,South,Maharashtra,SUV,12
+March,South,Maharashtra,Sedan,8
+March,West,Gujarat,Hatchback,16
+March,West,Gujarat,SUV,11
+March,West,Gujarat,Sedan,8
+March,West,Rajasthan,Hatchback,15
+March,West,Rajasthan,SUV,10
+March,West,Rajasthan,Sedan,7
+March,North,Haryana,Hatchback,16
+March,North,Haryana,SUV,11
+March,North,Haryana,Sedan,7
+March,North,Punjab,Hatchback,15
+March,North,Punjab,SUV,10
+March,North,Punjab,Sedan,7
+March,North,Uttar Pradesh,Hatchback,14
+March,North,Uttar Pradesh,SUV,9
+March,North,Uttar Pradesh,Sedan,6
+March,East,West Bengal,Hatchback,12
+March,East,West Bengal,SUV,9
+March,East,West Bengal,Sedan,6
+April,South,Tamil Nadu,Hatchback,15
+April,South,Tamil Nadu,SUV,8
+April,South,Tamil Nadu,Sedan,7
+April,South,Karnataka,Hatchback,14
+April,South,Karnataka,SUV,8
+April,South,Karnataka,Sedan,7
+April,South,Andhra Pradesh,Hatchback,13
+April,South,Andhra Pradesh,SUV,7
+April,South,Andhra Pradesh,Sedan,6
+April,South,Maharashtra,Hatchback,18
+April,South,Maharashtra,SUV,13
+April,South,Maharashtra,Sedan,9
+April,West,Gujarat,Hatchback,17
+April,West,Gujarat,SUV,12
+April,West,Gujarat,Sedan,8
+April,West,Rajasthan,Hatchback,16
+April,West,Rajasthan,SUV,11
+April,West,Rajasthan,Sedan,17
+April,North,Haryana,Hatchback,8
+April,North,Haryana,SUV,15
+April,North,Haryana,Sedan,8
+April,North,Punjab,Hatchback,16
+April,North,Punjab,SUV,11
+April,North,Punjab,Sedan,7
+April,North,Uttar Pradesh,Hatchback,15
+April,North,Uttar Pradesh,SUV,10
+April,North,Uttar Pradesh,Sedan,7
+April,East,West Bengal,Hatchback,13
+April,East,West Bengal,SUV,10
+April,East,West Bengal,Sedan,7
+May,South,Tamil Nadu,Hatchback,16
+May,South,Tamil Nadu,SUV,8
+May,South,Tamil Nadu,Sedan,8
+May,South,Karnataka,Hatchback,15
+May,South,Karnataka,SUV,9
+May,South,Karnataka,Sedan,7
+May,South,Andhra Pradesh,Hatchback,14
+May,South,Andhra Pradesh,SUV,8
+May,South,Andhra Pradesh,Sedan,7
+May,South,Maharashtra,Hatchback,19
+May,South,Maharashtra,SUV,14
+May,South,Maharashtra,Sedan,10
+May,West,Gujarat,Hatchback,18
+May,West,Gujarat,SUV,13
+May,West,Gujarat,Sedan,9
+May,West,Rajasthan,Hatchback,17
+May,West,Rajasthan,SUV,12
+May,West,Rajasthan,Sedan,8
+May,North,Haryana,Hatchback,18
+May,North,Haryana,SUV,13
+May,North,Haryana,Sedan,8
+May,North,Punjab,Hatchback,17
+May,North,Punjab,SUV,12
+May,North,Punjab,Sedan,8
+May,North,Uttar Pradesh,Hatchback,16
+May,North,Uttar Pradesh,SUV,11
+May,North,Uttar Pradesh,Sedan,7
+May,East,West Bengal,Hatchback,14
+May,East,West Bengal,SUV,11
+May,East,West Bengal,Sedan,8
+June,South,Tamil Nadu,Hatchback,17
+June,South,Tamil Nadu,SUV,9
+June,South,Tamil Nadu,Sedan,8
+June,South,Karnataka,Hatchback,16
+June,South,Karnataka,SUV,9
+June,South,Karnataka,Sedan,8
+June,South,Andhra Pradesh,Hatchback,15
+June,South,Andhra Pradesh,SUV,9
+June,South,Andhra Pradesh,Sedan,7
+June,South,Maharashtra,Hatchback,20
+June,South,Maharashtra,SUV,15
+June,South,Maharashtra,Sedan,11
+June,West,Gujarat,Hatchback,19
+June,West,Gujarat,SUV,14
+June,West,Gujarat,Sedan,9
+June,West,Rajasthan,Hatchback,18
+June,West,Rajasthan,SUV,13
+June,West,Rajasthan,Sedan,9
+June,North,Haryana,Hatchback,19
+June,North,Haryana,SUV,14
+June,North,Haryana,Sedan,9
+June,North,Punjab,Hatchback,18
+June,North,Punjab,SUV,13
+June,North,Punjab,Sedan,8
+June,North,Uttar Pradesh,Hatchback,17
+June,North,Uttar Pradesh,SUV,12
+June,North,Uttar Pradesh,Sedan,8
+June,East,West Bengal,Hatchback,15
+June,East,West Bengal,SUV,12
+June,East,West Bengal,Sedan,8
+July,South,Tamil Nadu,Hatchback,18
+July,South,Tamil Nadu,SUV,9
+July,South,Tamil Nadu,Sedan,9
+July,South,Karnataka,Hatchback,17
+July,South,Karnataka,SUV,10
+July,South,Karnataka,Sedan,8
+July,South,Andhra Pradesh,Hatchback,16
+July,South,Andhra Pradesh,SUV,9
+July,South,Andhra Pradesh,Sedan,8
+July,South,Maharashtra,Hatchback,21
+July,South,Maharashtra,SUV,16
+July,South,Maharashtra,Sedan,12
+July,West,Gujarat,Hatchback,20
+July,West,Gujarat,SUV,15
+July,West,Gujarat,Sedan,10
+July,West,Rajasthan,Hatchback,19
+July,West,Rajasthan,SUV,14
+July,West,Rajasthan,Sedan,9
+July,North,Haryana,Hatchback,20
+July,North,Haryana,SUV,15
+July,North,Haryana,Sedan,10
+July,North,Punjab,Hatchback,19
+July,North,Punjab,SUV,14
+July,North,Punjab,Sedan,9
+July,North,Uttar Pradesh,Hatchback,18
+July,North,Uttar Pradesh,SUV,13
+July,North,Uttar Pradesh,Sedan,8
+July,East,West Bengal,Hatchback,16
+July,East,West Bengal,SUV,13
+July,East,West Bengal,Sedan,9
+August,South,Tamil Nadu,Hatchback,19
+August,South,Tamil Nadu,SUV,10
+August,South,Tamil Nadu,Sedan,9
+August,South,Karnataka,Hatchback,18
+August,South,Karnataka,SUV,10
+August,South,Karnataka,Sedan,9
+August,South,Andhra Pradesh,Hatchback,17
+August,South,Andhra Pradesh,SUV,10
+August,South,Andhra Pradesh,Sedan,8
+August,South,Maharashtra,Hatchback,22
+August,South,Maharashtra,SUV,17
+August,South,Maharashtra,Sedan,13
+August,West,Gujarat,Hatchback,21
+August,West,Gujarat,SUV,16
+August,West,Gujarat,Sedan,11
+August,West,Rajasthan,Hatchback,20
+August,West,Rajasthan,SUV,15
+August,West,Rajasthan,Sedan,10
+August,North,Haryana,Hatchback,21
+August,North,Haryana,SUV,16
+August,North,Haryana,Sedan,11
+August,North,Punjab,Hatchback,20
+August,North,Punjab,SUV,15
+August,North,Punjab,Sedan,9
+August,North,Uttar Pradesh,Hatchback,19
+August,North,Uttar Pradesh,SUV,14
+August,North,Uttar Pradesh,Sedan,8
+August,East,West Bengal,Hatchback,17
+August,East,West Bengal,SUV,14
+August,East,West Bengal,Sedan,10
+September,South,Tamil Nadu,Hatchback,5
+September,South,Tamil Nadu,SUV,4
+September,South,Tamil Nadu,Sedan,40
+September,South,Karnataka,Hatchback,5
+September,South,Karnataka,SUV,5
+September,South,Karnataka,Sedan,4
+September,South,Andhra Pradesh,Hatchback,6
+September,South,Andhra Pradesh,SUV,5
+September,South,Andhra Pradesh,Sedan,5
+September,South,Maharashtra,Hatchback,6
+September,South,Maharashtra,SUV,6
+September,South,Maharashtra,Sedan,5
+September,West,Gujarat,Hatchback,7
+September,West,Gujarat,SUV,6
+September,West,Gujarat,Sedan,6
+September,West,Rajasthan,Hatchback,7
+September,West,Rajasthan,SUV,7
+September,West,Rajasthan,Sedan,6
+September,North,Haryana,Hatchback,8
+September,North,Haryana,SUV,7
+September,North,Haryana,Sedan,7
+September,North,Punjab,Hatchback,8
+September,North,Punjab,SUV,8
+September,North,Punjab,Sedan,7
+September,North,Uttar Pradesh,Hatchback,9
+September,North,Uttar Pradesh,SUV,8
+September,North,Uttar Pradesh,Sedan,8
+September,East,West Bengal,Hatchback,9
+September,East,West Bengal,SUV,9
+September,East,West Bengal,Sedan,8
+October,South,Tamil Nadu,Hatchback,5
+October,South,Tamil Nadu,SUV,4
+October,South,Tamil Nadu,Sedan,4
+October,South,Karnataka,Hatchback,5
+October,South,Karnataka,SUV,5
+October,South,Karnataka,Sedan,4
+October,South,Andhra Pradesh,Hatchback,6
+October,South,Andhra Pradesh,SUV,5
+October,South,Andhra Pradesh,Sedan,5
+October,South,Maharashtra,Hatchback,6
+October,South,Maharashtra,SUV,6
+October,South,Maharashtra,Sedan,5
+October,West,Gujarat,Hatchback,7
+October,West,Gujarat,SUV,6
+October,West,Gujarat,Sedan,6
+October,West,Rajasthan,Hatchback,7
+October,West,Rajasthan,SUV,7
+October,West,Rajasthan,Sedan,6
+October,North,Haryana,Hatchback,8
+October,North,Haryana,SUV,7
+October,North,Haryana,Sedan,7
+October,North,Punjab,Hatchback,8
+October,North,Punjab,SUV,8
+October,North,Punjab,Sedan,7
+October,North,Uttar Pradesh,Hatchback,9
+October,North,Uttar Pradesh,SUV,8
+October,North,Uttar Pradesh,Sedan,8
+October,East,West Bengal,Hatchback,9
+October,East,West Bengal,SUV,9
+October,East,West Bengal,Sedan,8
+November,South,Tamil Nadu,Hatchback,4
+November,South,Tamil Nadu,SUV,4
+November,South,Tamil Nadu,Sedan,4
+November,South,Karnataka,Hatchback,5
+November,South,Karnataka,SUV,5
+November,South,Karnataka,Sedan,4
+November,South,Andhra Pradesh,Hatchback,6
+November,South,Andhra Pradesh,SUV,5
+November,South,Andhra Pradesh,Sedan,5
+November,South,Maharashtra,Hatchback,6
+November,South,Maharashtra,SUV,6
+November,South,Maharashtra,Sedan,5
+November,West,Gujarat,Hatchback,7
+November,West,Gujarat,SUV,6
+November,West,Gujarat,Sedan,6
+November,West,Rajasthan,Hatchback,7
+November,West,Rajasthan,SUV,7
+November,West,Rajasthan,Sedan,6
+November,North,Haryana,Hatchback,8
+November,North,Haryana,SUV,7
+November,North,Haryana,Sedan,7
+November,North,Punjab,Hatchback,8
+November,North,Punjab,SUV,8
+November,North,Punjab,Sedan,7
+November,North,Uttar Pradesh,Hatchback,9
+November,North,Uttar Pradesh,SUV,8
+November,North,Uttar Pradesh,Sedan,8
+November,East,West Bengal,Hatchback,9
+November,East,West Bengal,SUV,9
+November,East,West Bengal,Sedan,8
+December,South,Tamil Nadu,Hatchback,5
+December,South,Tamil Nadu,SUV,5
+December,South,Tamil Nadu,Sedan,4
+December,South,Karnataka,Hatchback,6
+December,South,Karnataka,SUV,5
+December,South,Karnataka,Sedan,5
+December,South,Andhra Pradesh,Hatchback,6
+December,South,Andhra Pradesh,SUV,6
+December,South,Andhra Pradesh,Sedan,5
+December,South,Maharashtra,Hatchback,7
+December,South,Maharashtra,SUV,6
+December,South,Maharashtra,Sedan,6
+December,West,Gujarat,Hatchback,7
+December,West,Gujarat,SUV,7
+December,West,Gujarat,Sedan,6
+December,West,Rajasthan,Hatchback,8
+December,West,Rajasthan,SUV,7
+December,West,Rajasthan,Sedan,7
+December,North,Haryana,Hatchback,8
+December,North,Haryana,SUV,8
+December,North,Haryana,Sedan,7
+December,North,Punjab,Hatchback,9
+December,North,Punjab,SUV,8
+December,North,Punjab,Sedan,8
+December,North,Uttar Pradesh,Hatchback,9
+December,North,Uttar Pradesh,SUV,9
+December,North,Uttar Pradesh,Sedan,8
+December,East,West Bengal,Hatchback,10
+December,East,West Bengal,SUV,9
+December,East,West Bengal,Sedan,9
